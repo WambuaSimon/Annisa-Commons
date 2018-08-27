@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/res/values-watch-v20/values.xml",
+                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-15.0.0.aar\\7e456ca2c674af9781837279d0b0a3a6\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -42,10 +42,10 @@
             ]
         },
         {
-            "outputFile": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/res/values-watch-v20/values.xml",
+                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-15.0.0.aar\\7e456ca2c674af9781837279d0b0a3a6\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -62,7 +62,7 @@
                     }
                 },
                 {
-                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

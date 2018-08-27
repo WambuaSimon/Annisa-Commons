@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/values-w820dp/dimens.xml",
+                    "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

@@ -562,7 +562,7 @@
         <item name="colorAccent">#d678ad</item>
         <item name="colorControlHighlight">#d678ad</item>
         <item name="fontFamily">@font/roboto</item>
-        
+        <!--Note:This Line will be needed when we are going to user preference compat library<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
     </style>
     <style name="AppTheme.Amber" parent="Theme.AppCompat.DayNight.NoActionBar">
         <item name="colorPrimary">@color/md_amber_500</item>

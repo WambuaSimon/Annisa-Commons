@@ -1,4 +1,4 @@
-#Mon Aug 27 12:07:45 EAT 2018
+#Mon Aug 27 16:49:28 EAT 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/transforms/dexMerger/debug/2
-base.4=/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/transforms/dexMerger/debug/2
-base.3=/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/transforms/dexMerger/debug/1
-base.2=/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/transforms/dexMerger/debug/4
-base.1=/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/transforms/dexMerger/debug/3
-base.0=/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/transforms/dexMerger/debug/5
+base.5=D\:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.4=D\:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.3=D\:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.2=D\:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=D\:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+base.0=D\:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.5=classes2.dex
 path.4=classes.dex
 path.3=classes.dex

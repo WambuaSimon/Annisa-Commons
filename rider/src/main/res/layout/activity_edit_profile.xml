@@ -154,6 +154,37 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@={user.address}"/>
+                    <com.arlib.floatingsearchview.FloatingSearchView
+                        android:id="@+id/search_place"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:floatingSearch_close_search_on_keyboard_dismiss="true"
+                        app:floatingSearch_dimBackground="true"
+                        app:floatingSearch_leftActionMode="showHamburger"
+                        app:floatingSearch_menu="@menu/search_view"
+                        app:floatingSearch_searchBarMarginLeft="8dp"
+                        app:floatingSearch_searchBarMarginRight="8dp"
+                        app:floatingSearch_searchBarMarginTop="8dp"
+                        app:floatingSearch_showSearchKey="false"
+                        app:floatingSearch_searchHint=""
+                        app:floatingSearch_suggestionsListAnimDuration="250" >
+                        <TextView
+                            android:id="@+id/search_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/search_default"
+                            android:ellipsize="marquee"
+                            android:fadingEdge="horizontal"
+                            android:singleLine="true"
+                            android:layout_marginStart="56dp"
+                            android:layout_marginEnd="150dp"
+                            android:layout_marginLeft="54dp"
+                            android:layout_marginRight="150dp"
+                            android:layout_gravity="start"
+                            android:layout_marginTop="22dp"/>
+
+
+                    </com.arlib.floatingsearchview.FloatingSearchView>
                 </android.support.design.widget.TextInputLayout>
             </LinearLayout>
         </android.support.v4.widget.NestedScrollView>

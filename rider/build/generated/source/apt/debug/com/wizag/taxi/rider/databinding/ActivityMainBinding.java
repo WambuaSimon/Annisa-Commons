@@ -25,7 +25,8 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
         sViewsWithIds.put(R.id.button_request, 9);
         sViewsWithIds.put(R.id.tab_categories, 10);
         sViewsWithIds.put(R.id.service_types_view_pager, 11);
-        sViewsWithIds.put(R.id.navigation_view, 12);
+        sViewsWithIds.put(R.id.floatingActionButton, 12);
+        sViewsWithIds.put(R.id.navigation_view, 13);
     }
     // views
     @NonNull
@@ -38,6 +39,8 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
     public final android.widget.Button buttonRequest;
     @NonNull
     public final android.support.v4.widget.DrawerLayout drawerLayout;
+    @NonNull
+    public final android.support.design.widget.FloatingActionButton floatingActionButton;
     @NonNull
     public final android.widget.ImageView imageDestination;
     @NonNull
@@ -61,17 +64,18 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
 
     public ActivityMainBinding(@NonNull android.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
         super(bindingComponent, root, 0);
-        final Object[] bindings = mapBindings(bindingComponent, root, 13, sIncludes, sViewsWithIds);
+        final Object[] bindings = mapBindings(bindingComponent, root, 14, sIncludes, sViewsWithIds);
         this.bottomSheet = (android.support.v7.widget.CardView) bindings[8];
         this.buttonConfirmDestination = (android.widget.Button) bindings[7];
         this.buttonConfirmPickup = (android.widget.Button) bindings[6];
         this.buttonRequest = (android.widget.Button) bindings[9];
         this.drawerLayout = (android.support.v4.widget.DrawerLayout) bindings[0];
         this.drawerLayout.setTag(null);
+        this.floatingActionButton = (android.support.design.widget.FloatingActionButton) bindings[12];
         this.imageDestination = (android.widget.ImageView) bindings[5];
         this.imagePickup = (android.widget.ImageView) bindings[4];
         this.mapLayout = (android.widget.LinearLayout) bindings[1];
-        this.navigationView = (android.support.design.widget.NavigationView) bindings[12];
+        this.navigationView = (android.support.design.widget.NavigationView) bindings[13];
         this.searchPlace = (com.arlib.floatingsearchview.FloatingSearchView) bindings[2];
         this.searchText = (android.widget.TextView) bindings[3];
         this.serviceTypesViewPager = (android.support.v4.view.ViewPager) bindings[11];

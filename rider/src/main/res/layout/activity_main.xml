@@ -63,6 +63,10 @@
                         android:layout_marginRight="150dp"
                         android:layout_gravity="start"
                         android:layout_marginTop="22dp"/>
+
+
+
+
                 </com.arlib.floatingsearchview.FloatingSearchView>
 
                 <ImageView
@@ -133,6 +137,7 @@
                         android:text="@string/confirm_service_empty"
                         app:layout_constraintBottom_toBottomOf="parent" />
 
+
                     <android.support.design.widget.TabLayout
                         android:id="@+id/tab_categories"
                         android:layout_width="match_parent"
@@ -151,8 +156,22 @@
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toBottomOf="@id/tab_categories" />
+
                 </android.support.constraint.ConstraintLayout>
+
             </android.support.v7.widget.CardView>
+
+            <android.support.design.widget.MovableFloatingActionButton
+                android:id="@+id/floatingActionButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_gravity="center|right"
+                android:clickable="true"
+                android:visibility="visible"
+
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@android:drawable/stat_sys_phone_call" />
         </android.support.design.widget.CoordinatorLayout>
 
 

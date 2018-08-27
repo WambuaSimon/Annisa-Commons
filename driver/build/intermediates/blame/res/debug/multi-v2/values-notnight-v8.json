@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/merged.dir/values-notnight-v8/values-notnight-v8.xml",
+            "outputFile": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-notnight-v8\\values-notnight-v8.xml",
             "map": [
                 {
-                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/values-notnight-v8/values-notnight-v8.xml",
+                    "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\values-notnight-v8\\values-notnight-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\values-notnight-v8\\values-notnight-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "97,154,217,273,329",
                         "endColumns": "56,62,55,55,50",
                         "endOffsets": "149,212,268,324,375"
-                    }
-                },
-                {
-                    "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/values-notnight-v8/values-notnight-v8.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
                     }
                 }
             ]

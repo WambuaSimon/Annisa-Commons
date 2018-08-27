@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.weiwangcn.betterspinner:library-material-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-material-1.1.0.aar/c9d7b8b90d74d45851e236f35d7d19d7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-material-1.1.0.aar/c9d7b8b90d74d45851e236f35d7d19d7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.weiwangcn.betterspinner/library-material/1.1.0/85e67e0fc16a89000824c7e06e27e3411ccf462c/library-material-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
