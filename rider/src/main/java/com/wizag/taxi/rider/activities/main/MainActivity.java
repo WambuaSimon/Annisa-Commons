@@ -19,14 +19,18 @@ import android.os.Bundle;
 import android.speech.RecognizerIntent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomSheetBehavior;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.text.TextUtils;
+import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.MenuItem;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -105,10 +109,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
+import java.util.Timer;
+import java.util.TimerTask;
 
 import static org.greenrobot.eventbus.ThreadMode.MAIN;
 
-public class MainActivity extends RiderBaseActivity implements OnMapReadyCallback, ServiceCarousalFragment.OnServicesCarousalFragmentListener, LocationListener {
+public class MainActivity extends RiderBaseActivity implements OnMapReadyCallback, ServiceCarousalFragment.OnServicesCarousalFragmentListener, LocationListener, View.OnTouchListener {
 
     ActivityMainBinding binding;
     MyPreferenceManager SP;
@@ -119,6 +125,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     DriverAcceptedDialog driverAcceptedDialog;
     ArrayList<Marker> driverMarkers;
     private static final int ACTIVITY_PROFILE = 11;
+    private long firstTime=0,secondTime=0;
     private static final int ACTIVITY_WALLET = 12;
     private static final int ACTIVITY_PLACES = 13;
     private static final int ACTIVITY_TRAVEL = 14;
@@ -128,7 +135,12 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     LatLng currentLocation;
     public Service selectedService;
     Polyline polylineOriginDestination;
+    FloatingActionButton myButton;
     Travel travel = new Travel();
+    private final static float CLICK_DRAG_TOLERANCE = 10; // Often, there will be a slight, unintentional, drag when the user taps the FAB, so we need to account for this.
+
+    private float downRawX, downRawY;
+    private float dX, dY;
 
     @Override
     public void onServiceSelected(Service service) {
@@ -157,12 +169,18 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
     }
 
+    @Override
+    public boolean onTouch(View v, MotionEvent event) {
+        return false;
+    }
+
     private enum MarkerMode {
         origin,
         destination,
         serviceSelection
     }
 
+    @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.setImmersive(true);
@@ -176,6 +194,47 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         bottomSheetBehavior = BottomSheetBehavior.from(binding.bottomSheet);
         bottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
         binding.searchText.setSelected(true);
+        FloatingActionButton myButton=findViewById(R.id.floatingActionButton);
+
+        myButton.setOnTouchListener(new View.OnTouchListener() {
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                int action = event.getActionMasked();
+
+                if (action == MotionEvent.ACTION_DOWN) {
+                    firstTime = System.currentTimeMillis();
+
+                } else if (action == MotionEvent.ACTION_UP
+                        || action == MotionEvent.ACTION_CANCEL) {
+                    secondTime = System.currentTimeMillis();
+                    if (secondTime - firstTime >= 5000) { // at least 5000 ms touch down time
+                        // launch your target activity from here
+                        Toast.makeText(MainActivity.this,"Wabeeee",Toast.LENGTH_LONG).show();
+                    } else { //ignore it}
+                        firstTime = 0; //reseting the value for the next time
+                        secondTime = 0;//reseting the value for the next time
+
+                    }
+                    // TODO Auto-generated method stub
+
+                }
+                return false;
+            }
+        });
+//        myButton.setOnClickListener(new View.OnClickListener() {
+//            public void onClick(View v) {
+//                shortclick();
+//            }
+//         });
+//
+//        myButton.setOnLongClickListener(new View.OnLongClickListener() {
+//            public boolean onLongClick(View v) {
+//                longclick();
+//                return true;
+//            }
+//        });
+
         binding.drawerLayout.addDrawerListener(new DrawerLayout.DrawerListener() {
             @Override
             public void onDrawerSlide(@NonNull View drawerView, float slideOffset) {
@@ -694,5 +753,17 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         Intent intent = new Intent(MainActivity.this, TravelActivity.class);
         intent.putExtra("travel",travel.toJson());
         startActivityForResult(intent,ACTIVITY_TRAVEL);
+    }
+
+public void shortclick()
+{
+    Toast.makeText(this, "Why did you do that? That hurts!!!", Toast.LENGTH_LONG).show();
+
+}
+
+    public void longclick()
+    {
+        Toast.makeText(this, "Why did you do that? That REALLY hurts!!!", Toast.LENGTH_LONG).show();
+
     }
 }
