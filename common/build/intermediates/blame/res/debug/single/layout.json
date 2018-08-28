@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\layout\\ucrop_controls.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\7ca18565cb7435af7097ad41178333d3\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\7ca18565cb7435af7097ad41178333d3\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout\\fui_dgts_country_row.xml",

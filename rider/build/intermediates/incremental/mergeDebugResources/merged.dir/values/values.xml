@@ -1791,7 +1791,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">6fac7147-bb34-4f5d-8da2-d8c2f38963f5</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">37661625-9405-47d9-9290-798de2a8cdb6</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -2105,7 +2105,7 @@
     <string name="select_contact_approach">Select Contact Approach</string>
     <string name="select_payment_method">Select payment method:</string>
     <string name="sending_complaint">Sending Complaint…</string>
-    <string name="server_address" translatable="false">http://31.220.15.49:8080/</string>
+    <string name="server_address" translatable="false">http://51.15.37.235:8080/</string>
     <string name="service_canceled">Service Was canceled</string>
     <string name="service_card_cost">Cost: %.2f $</string>
     <string name="service_finished_cash">Service has been finished but there was not sufficient credit. Ask for cash</string>

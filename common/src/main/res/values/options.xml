@@ -5,7 +5,7 @@
     <string name="instagram" translatable="false"></string>
     <string name="facebook" translatable="false"></string>
     <string name="playStore" translatable="false"></string>
-    <string name="server_address" translatable="false">http://31.220.15.49:8080/</string>
+    <string name="server_address" translatable="false">http://51.15.37.235:8080/</string>
     <string name="fabric_key" templateMergeStrategy="preserve" translatable="false"></string>
     <string name="stripe_publishable_key" translatable="false"></string>
     <string name="payment_currency" translatable="false">usd</string>

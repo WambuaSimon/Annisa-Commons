@@ -165,11 +165,11 @@
                 android:id="@+id/floatingActionButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="30dp"
+                android:layout_marginBottom="120dp"
                 android:layout_gravity="bottom|right"
                 android:clickable="true"
                 android:visibility="visible"
-
+                android:background="@android:color/holo_red_dark"
                 app:layout_constraintTop_toTopOf="parent"
                 app:srcCompat="@android:drawable/stat_sys_phone_call" />
         </android.support.design.widget.CoordinatorLayout>
