@@ -40,8 +40,12 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:fullBackupContent="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/new_logo"
         android:label="@string/driver_app_name"
+<<<<<<< HEAD
+=======
+        android:largeHeap="true"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
         android:supportsRtl="true"
         android:testOnly="true" >
         <meta-data

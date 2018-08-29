@@ -315,7 +315,7 @@
     <string name="alert_ok">OK</string>
     <string name="alert_retry">Retry</string>
     <string name="alert_send">Send</string>
-    <string name="app_name">Taxi</string>
+    <string name="app_name">Annisa</string>
     <string name="call">Call</string>
     <string name="call_request_sent">Call request sent.</string>
     <string name="call_requested">Sending Call Request.</string>
@@ -357,12 +357,13 @@
     <string name="drawer_statistics">Statistics</string>
     <string name="drawer_support">Support</string>
     <string name="drawer_travels">Travels</string>
-    <string name="driver_app_name">Taxi Driver</string>
+    <string name="driver_app_name">Annisa Driver</string>
     <string name="driver_card_distance">Distance</string>
     <string name="driver_card_eta">ETA</string>
     <string name="driver_card_fee">Fee</string>
     <string name="driver_card_rating">Rating</string>
     <string name="driver_id">ID</string>
+    <string name="drop_location">"Drop Location"</string>
     <string name="duration">Duration</string>
     <string name="edit_address">Edit</string>
     <string name="edit_address_dialog_title">Edit Address</string>
@@ -449,6 +450,7 @@
     <string name="payment_request">payment request</string>
     <string name="picker_folder">Folder</string>
     <string name="picker_tap_select">Tap to select</string>
+    <string name="pickup_location">"Pickup Location"</string>
     <string name="plate_number">Plate Number</string>
     <string name="playStore" translatable="false"/>
     <string name="prompt_contacts_rw">Contacts Read and write are needed for app functionality.</string>

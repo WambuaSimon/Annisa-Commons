@@ -8,6 +8,7 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\marker_taxi.png",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable-xhdpi\\marker_taxi.png"
     },
@@ -22,6 +23,26 @@
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alerter_ic_notifications.png",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\drawable-xhdpi-v4\\alerter_ic_notifications.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sv_ic_chevron_double_right_white.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/slideview-1.1.0.aar/95365512bfb9282a879d2e56c509cd41/res/drawable-xhdpi-v4/sv_ic_chevron_double_right_white.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo5.png",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-xhdpi/logo5.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sv_ic_chevron_double_right.png",
@@ -64,8 +85,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.12.0.aar\\325151e63eb861566aa4e828526af518\\res\\drawable-xhdpi-v4\\ef_ic_done_white.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ucrop_ic_done.png",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xhdpi-v4\\ucrop_ic_done.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/annisa_bg.jpg",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-xhdpi/annisa_bg.jpg"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/alerter_ic_face.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/res/drawable-xhdpi-v4/alerter_ic_face.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",

@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
 INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
 INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
@@ -97,22 +98,133 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Us
 INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
 INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
 INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
+=======
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+MERGED from [:common] /home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.databinding:adapters:3.1.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/83fd0713baf380fd4798dcd77d8586d2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/62b9babaa43eb698feafbaeecaabcb82/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:multidex:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/9f19efd1c4e3129a7ce95eed70f99fe1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:2:1-19:12
+MERGED from [com.diogobernardino:williamchart:2.5.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/williamchart-2.5.0.aar/1f69a4e5a77b2e56c6a4f16559892f21/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:2:1-15:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/AndroidManifest.xml:2:1-93:12
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.0.0.aar/d2154be290aa3d57e97d6bece50c865a/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/64a531dfd8eb1caf799a23749da1a100/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/06497494a80b36256a6bfcdacb34013b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.0.aar/8448bea471265b6e3bea484e8901ba20/AndroidManifest.xml:17:1-22:12
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/3a2c1870cf584d5136f8a2fdb66ab874/AndroidManifest.xml:16:6-20:12
+MERGED from [com.google.android.gms:play-services-wallet:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.0.aar/089074d967fc6abd589aa15cb999b691/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.3.1.aar/14cc2aa270dd32928bd0e5e9f5d7e4f8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-firestore:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-firestore-15.0.0.aar/54f89c6d29bbc2fc9edc76aba5516aef/AndroidManifest.xml:2:1-8:12
+MERGED from [com.firebaseui:firebase-ui-storage:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-storage-3.3.1.aar/73bd0815054ec9ee4d4c860de4f10279/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-storage-15.0.0.aar/be7bd7d2273ef36aceccf5d011f4a8e5/AndroidManifest.xml:2:1-8:12
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-3.3.1.aar/26f16a6a5070accac0efae93f0f2bede/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-database-15.0.0.aar/b6c8c82660cc8c59cd29bb5d84799fcc/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-15.0.0.aar/190de96abc1750a831d1749a51276c77/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7c74edbb8cff8bfdbbc5870496fe2573/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5e8562a58028c9bd0e976fc74829867c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/1ad808cc4a861b16c0fce4a9fd6ef8ec/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/be5325a5ecf1e22e0c4ec891de10e058/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/61f0588966232ec4e102214b036e4dc9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/52e5adda6b81257280aa9a0f51a45e9a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a242baf8c7a74255d6bf0b0b1de57b5e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/f9f085a758ad79e17e43e330d695f586/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7567b9e951591f6d9cd622c06a20508f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/38f914c802a2a9518b6559147f28549d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/2a470b5edd50eb22686adde0edb90623/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-15.0.0.aar/ec7214c5a58d3d836fa1ad79f5176cd4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/eb2fddcf9d761e1ef01cb7239e7e8fe4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.kizitonwose.colorpreference:support:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-1.0.3.aar/d2420a1c3fce8398017fa56f03b5fae3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:preference-v7:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/232e3e72120c55837fbb7334de9c39f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.sharish:CreditCardView:v1.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/b727a479cb64673cd8fb35d67a606b35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.medyo:android-about-page:1.2.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.yalantis:ucrop:2.2.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:1.12.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/2e9a25109dc11853b95080fe8368853a/AndroidManifest.xml:2:1-32:12
+MERGED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:2:1-17:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.MAXDeliveryNG:slideview:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/slideview-1.1.0.aar/95365512bfb9282a879d2e56c509cd41/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.kizitonwose.colorpreference:core:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/core-1.0.3.aar/62714c266f39e1e5e058ba279691661a/AndroidManifest.xml:2:1-17:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/d877f25d0a9c2221873ad568e4d94707/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:customtabs:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/419747b12d677637ab91f5ebef53fdf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/a0038525707e897c4de83db11cfbacb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/7db767e87d788ada8903ea7bb6089840/AndroidManifest.xml:17:1-22:12
+MERGED from [com.stripe:stripe-android:1.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/stripe-android-1.0.4.aar/ba607f1c646f1f2bae2a1ba9ec189ff0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/576bff740d4e359c68894322138239e6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-material-1.1.0.aar/2fd2a63d821527706adc311da81f7d85/AndroidManifest.xml:2:1-16:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/ed0e67b4f93b7c7c6a572c1f381f5fb4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/fb1ca2e90cc96dad932f559bdaec5de8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.ramotion.foldingcell:folding-cell:1.2.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/folding-cell-1.2.1.aar/163cb405e8a3a611ff29c923d70d38c3/AndroidManifest.xml:2:1-12:12
+MERGED from [se.emilsjolander:stickylistheaders:2.7.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/stickylistheaders-2.7.0.aar/66748236e4d7fb4e6c4561d56862b823/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/AndroidManifest.xml:2:1-20:12
+MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.1.aar/42b89784562de6568c190093d4d90c4f/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/b7eb4c0458083d2191641d6b6f618118/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/c9af17250e4bb27c7675b5139693fa89/AndroidManifest.xml:22:1-33:12
+MERGED from [com.android.support:transition:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/5ac260190fe38c7f8385603c01698701/AndroidManifest.xml:17:1-22:12
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-2.0.3.aar/41c7e247d1cabc0bb7a7f5383868ebde/AndroidManifest.xml:2:1-10:12
+MERGED from [com.firebaseui:firebase-ui-common:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-3.3.1.aar/cf623c3df35ac1c270d15ccba2ca3eca/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/585990aad9e1f3245012ec12dafbf7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/086800771518c96fe5c49891ad0cf8b5/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/a03853d53536026f817549a3439b2020/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/a487052c5dbc435f9f0a98a3360237b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/cc252926dbefb07faed46e6012a8fb1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/152d16de4d7a1fba269c4fa9c926e05f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e79dcda29cd9e2ae96fd88fb94380ebe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/034aa994d6941571b47266eb5d2c0951/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/f21bdf4b2c89db0d271c2bf3c3357788/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ae6c932bfa1532e4bd734ad05edcc3e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8b31e76a2c6593b04cdecd1dab775044/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/8aa5d3c1beb1200e49ae90247252b862/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/773e4d115ad580246f822b6c643d5bf9/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/77a2ab38abfc1fa75601f4640ae1bedb/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
 	package
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml
 		INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml
 	android:versionName
+<<<<<<< HEAD
 		INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
 		INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml
+=======
+		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
 	xmlns:tools
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:3:5-51
 	android:hardwareAccelerated
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:5:5-39
 	android:versionCode
+<<<<<<< HEAD
 		INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-68:12
 		INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml
+=======
+		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
 	xmlns:android
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
@@ -198,6 +310,7 @@ MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Polycarp Kavoo\.g
 	android:name
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:15:22-76
 application
+<<<<<<< HEAD
 ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:17:5-66:19
 MERGED from [:common] D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-30:19
 MERGED from [:common] D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-30:19
@@ -289,6 +402,99 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\4c3a5d78b7743252deec90915850434d\AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:24:9-35
+=======
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:17:5-67:19
+MERGED from [:common] /home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-30:19
+MERGED from [:common] /home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-30:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:7:5-20
+MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:13:5-47
+MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:13:5-47
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/AndroidManifest.xml:15:5-91:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/AndroidManifest.xml:15:5-91:19
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.0.0.aar/d2154be290aa3d57e97d6bece50c865a/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.0.0.aar/d2154be290aa3d57e97d6bece50c865a/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/64a531dfd8eb1caf799a23749da1a100/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/64a531dfd8eb1caf799a23749da1a100/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/06497494a80b36256a6bfcdacb34013b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/06497494a80b36256a6bfcdacb34013b/AndroidManifest.xml:7:5-20
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/3a2c1870cf584d5136f8a2fdb66ab874/AndroidManifest.xml:19:5-19
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/3a2c1870cf584d5136f8a2fdb66ab874/AndroidManifest.xml:19:5-19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/be5325a5ecf1e22e0c4ec891de10e058/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/be5325a5ecf1e22e0c4ec891de10e058/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/61f0588966232ec4e102214b036e4dc9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/61f0588966232ec4e102214b036e4dc9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/52e5adda6b81257280aa9a0f51a45e9a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/52e5adda6b81257280aa9a0f51a45e9a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a242baf8c7a74255d6bf0b0b1de57b5e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a242baf8c7a74255d6bf0b0b1de57b5e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/f9f085a758ad79e17e43e330d695f586/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/f9f085a758ad79e17e43e330d695f586/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7567b9e951591f6d9cd622c06a20508f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7567b9e951591f6d9cd622c06a20508f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/38f914c802a2a9518b6559147f28549d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/38f914c802a2a9518b6559147f28549d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/eb2fddcf9d761e1ef01cb7239e7e8fe4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/eb2fddcf9d761e1ef01cb7239e7e8fe4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.kizitonwose.colorpreference:support:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-1.0.3.aar/d2420a1c3fce8398017fa56f03b5fae3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kizitonwose.colorpreference:support:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-1.0.3.aar/d2420a1c3fce8398017fa56f03b5fae3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.sharish:CreditCardView:v1.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.sharish:CreditCardView:v1.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:1.12.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/2e9a25109dc11853b95080fe8368853a/AndroidManifest.xml:15:5-30:19
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:1.12.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/2e9a25109dc11853b95080fe8368853a/AndroidManifest.xml:15:5-30:19
+MERGED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:9:5-15:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/AndroidManifest.xml:13:5-20
+MERGED from [com.github.MAXDeliveryNG:slideview:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/slideview-1.1.0.aar/95365512bfb9282a879d2e56c509cd41/AndroidManifest.xml:12:5-20
+MERGED from [com.github.MAXDeliveryNG:slideview:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/slideview-1.1.0.aar/95365512bfb9282a879d2e56c509cd41/AndroidManifest.xml:12:5-20
+MERGED from [com.github.kizitonwose.colorpreference:core:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/core-1.0.3.aar/62714c266f39e1e5e058ba279691661a/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kizitonwose.colorpreference:core:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/core-1.0.3.aar/62714c266f39e1e5e058ba279691661a/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/576bff740d4e359c68894322138239e6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/576bff740d4e359c68894322138239e6/AndroidManifest.xml:9:5-20
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-material-1.1.0.aar/2fd2a63d821527706adc311da81f7d85/AndroidManifest.xml:11:5-14:19
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-material-1.1.0.aar/2fd2a63d821527706adc311da81f7d85/AndroidManifest.xml:11:5-14:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/ed0e67b4f93b7c7c6a572c1f381f5fb4/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/ed0e67b4f93b7c7c6a572c1f381f5fb4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/fb1ca2e90cc96dad932f559bdaec5de8/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/fb1ca2e90cc96dad932f559bdaec5de8/AndroidManifest.xml:11:5-20
+MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/AndroidManifest.xml:12:5-18:19
+MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/AndroidManifest.xml:12:5-18:19
+MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:12:5-20
+MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:12:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.1.aar/42b89784562de6568c190093d4d90c4f/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.1.aar/42b89784562de6568c190093d4d90c4f/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/b7eb4c0458083d2191641d6b6f618118/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/b7eb4c0458083d2191641d6b6f618118/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/c9af17250e4bb27c7675b5139693fa89/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/c9af17250e4bb27c7675b5139693fa89/AndroidManifest.xml:31:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/086800771518c96fe5c49891ad0cf8b5/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/086800771518c96fe5c49891ad0cf8b5/AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/8aa5d3c1beb1200e49ae90247252b862/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/8aa5d3c1beb1200e49ae90247252b862/AndroidManifest.xml:9:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/773e4d115ad580246f822b6c643d5bf9/AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/773e4d115ad580246f822b6c643d5bf9/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/77a2ab38abfc1fa75601f4640ae1bedb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/77a2ab38abfc1fa75601f4640ae1bedb/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:25:9-35
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
 	android:label
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:22:9-48
 		REJECTED from [com.github.kizitonwose.colorpreference:support:1.0.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\support-1.0.3.aar\61d1433a5ffdbd89a25270042e88ca24\AndroidManifest.xml:13:9-41
@@ -296,9 +502,17 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Us
 		REJECTED from [com.github.kizitonwose.colorpreference:core:1.0.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\core-1.0.3.aar\cf9ccad0e83874813a3c214ebbbd5470\AndroidManifest.xml:13:9-41
 		REJECTED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\c9d7b8b90d74d45851e236f35d7d19d7\AndroidManifest.xml:13:9-41
 	android:fullBackupContent
+<<<<<<< HEAD
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:20:9-41
 	android:icon
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:21:9-43
+=======
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:20:9-41
+	android:largeHeap
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:24:9-33
+	android:icon
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:21:9-42
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
 	android:allowBackup
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:19:9-35
 	tools:replace
@@ -306,6 +520,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Us
 	android:name
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:18:9-63
 meta-data#com.google.android.geo.API_KEY
+<<<<<<< HEAD
 ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:26:9-28:55
 	android:value
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:28:13-52
@@ -420,6 +635,122 @@ activity#com.wizag.taxi.common.activities.login.LoginActivity
 ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:9-88
 	android:name
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:19-86
+=======
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:27:9-29:55
+	android:value
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:28:13-58
+meta-data#io.fabric.ApiKey
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:30:9-33:72
+	tools:replace
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:32:13-42
+	android:value
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:31:13-44
+meta-data#com.google.android.gms.maps.API_OPTIONS
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:34:9-35:45
+	android:value
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:34:20-74
+activity#com.wizag.taxi.common.activities.chargeAccount.ChargeAccountActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:36:9-105
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:36:19-102
+activity#com.wizag.taxi.driver.activities.splash.SplashActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:37:19-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:41:27-74
+activity#com.wizag.taxi.driver.activities.main.MainActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:9-189
+	android:clearTaskOnLaunch
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:117-149
+	android:launchMode
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:85-116
+	android:alwaysRetainTaskState
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:150-186
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:19-84
+activity#com.wizag.taxi.driver.activities.profile.ProfileActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:45:9-93
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:45:19-90
+receiver#com.wizag.taxi.driver.services.BootCompletedReceiver
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:47:9-51:20
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:47:19-86
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:48:13-50:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:49:17-79
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:49:25-76
+service#com.wizag.taxi.driver.services.DriverService
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:53:9-80
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:53:18-77
+activity#com.cooltechworks.creditcarddesign.CardEditActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:54:9-56:93
+	android:screenOrientation
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:56:13-49
+	android:theme
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:56:50-90
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:55:13-79
+activity#com.wizag.taxi.driver.activities.travel.TravelActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:57:9-128
+	android:screenOrientation
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:57:89-125
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:57:19-88
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:58:9-60:93
+	android:screenOrientation
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:60:50-90
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:59:13-60
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:9-349
+MERGED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:10:9-14:67
+MERGED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:10:9-14:67
+	android:screenOrientation
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:214-253
+		REJECTED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:13:13-49
+	android:configChanges
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:82-213
+	android:theme
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:254-305
+	tools:replace
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:306-347
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:19-81
+activity#com.wizag.taxi.driver.activities.statistics.StatisticsActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:63:9-64:92
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:64:13-90
+activity#com.wizag.taxi.driver.activities.about.AboutActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:65:9-88
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:65:19-86
+activity#com.wizag.taxi.common.activities.login.LoginActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:66:9-88
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:66:19-86
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
 uses-sdk
 INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\driver\src\main\AndroidManifest.xml

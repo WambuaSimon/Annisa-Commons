@@ -336,7 +336,11 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Us
 	android:fullBackupContent
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\rider\src\main\AndroidManifest.xml:27:9-42
 	android:icon
+<<<<<<< HEAD
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\rider\src\main\AndroidManifest.xml:28:9-43
+=======
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/rider/src/main/AndroidManifest.xml:27:9-42
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
 	android:allowBackup
 		ADDED from D:\Projects\Tikoni\AndroidV1.3\Annisa-Commons\rider\src\main\AndroidManifest.xml:25:9-35
 	tools:replace

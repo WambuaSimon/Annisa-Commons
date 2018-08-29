@@ -1,8 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: com.airbnb.android:lottie-2.2.5">
     <CLASSES>
+<<<<<<< HEAD
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lottie-2.2.5.aar/7b05a64766abead3ca9d03332c77e7cf/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lottie-2.2.5.aar/7b05a64766abead3ca9d03332c77e7cf/jars/classes.jar!/" />
+=======
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lottie-2.2.5.aar/ebb7178f25f3af89cc185d9569be0734/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lottie-2.2.5.aar/ebb7178f25f3af89cc185d9569be0734/jars/classes.jar!/" />
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     </CLASSES>
     <JAVADOC />
     <SOURCES>

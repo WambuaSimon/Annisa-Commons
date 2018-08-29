@@ -1722,7 +1722,7 @@
     <string name="alert_ok">OK</string>
     <string name="alert_retry">Retry</string>
     <string name="alert_send">Send</string>
-    <string name="app_name">Taxi</string>
+    <string name="app_name">Annisa</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="call">Call</string>
@@ -1741,7 +1741,11 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
+<<<<<<< HEAD
     <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">8f35b9f9-28a9-4fb7-85ee-fd0ebd5b1d7b</string>
+=======
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">347b4e9b-8481-4060-9ec3-f3efa071b688</string>
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1793,12 +1797,13 @@
     <string name="drawer_statistics">Statistics</string>
     <string name="drawer_support">Support</string>
     <string name="drawer_travels">Travels</string>
-    <string name="driver_app_name">Taxi Driver</string>
+    <string name="driver_app_name">Annisa Driver</string>
     <string name="driver_card_distance">Distance</string>
     <string name="driver_card_eta">ETA</string>
     <string name="driver_card_fee">Fee</string>
     <string name="driver_card_rating">Rating</string>
     <string name="driver_id">ID</string>
+    <string name="drop_location">"Drop Location"</string>
     <string name="duration">Duration</string>
     <string name="edit_address">Edit</string>
     <string name="edit_address_dialog_title">Edit Address</string>
@@ -2020,6 +2025,7 @@
     <string name="payment_request">payment request</string>
     <string name="picker_folder">Folder</string>
     <string name="picker_tap_select">Tap to select</string>
+    <string name="pickup_location">"Pickup Location"</string>
     <string name="plate_number">Plate Number</string>
     <string name="playStore" translatable="false"/>
     <string name="previous">PREVIOUS</string>

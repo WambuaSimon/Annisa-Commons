@@ -40,6 +40,7 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\layout\\lyt_card_number.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout\\preference_dropdown.xml",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout\\preference_dropdown.xml"
     },
@@ -50,6 +51,18 @@
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_charge_account.xml",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\layout\\activity_charge_account.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/layout/md_dialog_custom.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout\\browser_actions_context_menu_row.xml",

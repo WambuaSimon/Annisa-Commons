@@ -78,10 +78,10 @@ public final class R {
         public static final int wrap_content = 0x7f0a022d;
     }
     public static final class layout {
-        public static final int wallet_test_layout = 0x7f0c00a8;
+        public static final int wallet_test_layout = 0x7f0c00a9;
     }
     public static final class string {
-        public static final int wallet_buy_button_place_holder = 0x7f1101bb;
+        public static final int wallet_buy_button_place_holder = 0x7f1101bd;
     }
     public static final class style {
         public static final int WalletFragmentDefaultButtonTextAppearance = 0x7f12018a;

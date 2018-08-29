@@ -50,7 +50,7 @@
     <string name="address">Address</string>
 
     <!--Driver Specific Strings-->
-    <string name="driver_app_name">Taxi Driver</string>
+    <string name="driver_app_name">Annisa Driver</string>
     <string name="about_driver_description">Driver Taxi application.</string>
     <string name="request_list_label">Request List</string>
     <string name="drawer_statistics">Statistics</string>
@@ -93,7 +93,7 @@
     <string name="login_failed">Login Failed.</string>
 
     <!--Rider Specific Strings-->
-    <string name="app_name">Taxi</string>
+    <string name="app_name">Annisa</string>
     <string name="activity_settings">Settings</string>
     <string name="drawer_charge_account">Wallet</string>
     <string name="about_rider_description">Rider Taxi application.</string>
@@ -245,4 +245,6 @@
     <string name="travel_number_title">No.: %d</string>
     <string name="recovery_travel_message_rider">An unfinished travel was found for you. do you want to resume it?</string>
     <string name="recovery_travel_driver">An unfinished travel was found for you. you will be taken to screen in order to finish it</string>
+    <string name="pickup_location">"Pickup Location"</string>
+    <string name="drop_location">"Drop Location"</string>
 </resources>

@@ -17,6 +17,7 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
     static {
         SUBSCRIBER_INDEX = new HashMap<Class<?>, SubscriberInfo>();
 
+<<<<<<< HEAD
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.splash.SplashActivity.class, true,
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onLoginResultEvent", com.wizag.taxi.rider.events.LoginResultEvent.class,
@@ -45,6 +46,8 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     ThreadMode.MAIN),
         }));
 
+=======
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.travel.TravelActivity.class, true,
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onServiceFinished", com.wizag.taxi.rider.events.ServiceFinishedEvent.class,
@@ -59,6 +62,21 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     com.wizag.taxi.common.events.ServiceCallRequestResultEvent.class, ThreadMode.MAIN),
         }));
 
+<<<<<<< HEAD
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.profile.ProfileActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onProfileInfoChanged",
+                    com.wizag.taxi.common.events.EditProfileInfoResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onProfileImageChanged",
+                    com.wizag.taxi.common.events.ChangeProfileImageResultEvent.class, ThreadMode.MAIN),
+=======
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.addresses.AddressesActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onCRUDResultReceived", com.wizag.taxi.rider.events.CRUDAddressResultEvent.class,
+                    ThreadMode.MAIN),
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
+        }));
+
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.profile.ProfileActivity.class, true,
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onProfileInfoChanged",
@@ -67,22 +85,29 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     com.wizag.taxi.common.events.ChangeProfileImageResultEvent.class, ThreadMode.MAIN),
         }));
 
-        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.ui.RiderBaseActivity.class, true,
-                new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onServiceStarted",
-                    com.wizag.taxi.common.events.BackgroundServiceStartedEvent.class),
-            new SubscriberMethodInfo("onConnectedResult", com.wizag.taxi.common.events.ConnectResultEvent.class,
-                    ThreadMode.MAIN),
-        }));
-
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.addresses.AddressesActivity.class, true,
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onCRUDResultReceived", com.wizag.taxi.rider.events.CRUDAddressResultEvent.class,
                     ThreadMode.MAIN),
         }));
 
+<<<<<<< HEAD
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.services.RiderService.class, true,
                 new SubscriberMethodInfo[] {
+=======
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.splash.SplashActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onLoginResultEvent", com.wizag.taxi.rider.events.LoginResultEvent.class,
+                    ThreadMode.MAIN),
+            new SubscriberMethodInfo("onConnectedResult", com.wizag.taxi.common.events.ConnectResultEvent.class,
+                    ThreadMode.MAIN),
+            new SubscriberMethodInfo("onServiceStarted",
+                    com.wizag.taxi.common.events.BackgroundServiceStartedEvent.class),
+        }));
+
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.services.RiderService.class, true,
+                new SubscriberMethodInfo[] {
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
             new SubscriberMethodInfo("connectSocket", com.wizag.taxi.common.events.ConnectEvent.class),
             new SubscriberMethodInfo("login", com.wizag.taxi.common.events.LoginEvent.class),
             new SubscriberMethodInfo("getStatus", com.wizag.taxi.common.events.GetStatusEvent.class),
@@ -112,10 +137,27 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     ThreadMode.MAIN),
         }));
 
+<<<<<<< HEAD
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.travel.fragments.TabStatisticsFragment.class,
                 true, new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onTravelInfoReceived",
                     com.wizag.taxi.rider.events.GetTravelInfoResultEvent.class, ThreadMode.MAIN),
+=======
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.ui.RiderBaseActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onServiceStarted",
+                    com.wizag.taxi.common.events.BackgroundServiceStartedEvent.class),
+            new SubscriberMethodInfo("onConnectedResult", com.wizag.taxi.common.events.ConnectResultEvent.class,
+                    ThreadMode.MAIN),
+        }));
+
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.rider.activities.main.dialogs.DriverAcceptedDialog.class,
+                true, new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onServiceRequestResult",
+                    com.wizag.taxi.rider.events.ServiceRequestResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onDriverAccepted", com.wizag.taxi.rider.events.NewDriverAcceptedEvent.class,
+                    ThreadMode.MAIN),
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
         }));
 
     }

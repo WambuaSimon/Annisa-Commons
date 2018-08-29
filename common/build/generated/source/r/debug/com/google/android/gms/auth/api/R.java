@@ -29,27 +29,27 @@ public final class R {
         public static int common_google_signin_btn_tint = 0x7f060067;
     }
     public static final class drawable {
-        public static int common_full_open_on_phone = 0x7f090082;
-        public static int common_google_signin_btn_icon_dark = 0x7f090083;
-        public static int common_google_signin_btn_icon_dark_focused = 0x7f090085;
-        public static int common_google_signin_btn_icon_dark_normal = 0x7f090086;
-        public static int common_google_signin_btn_icon_dark_normal_background = 0x7f090087;
-        public static int common_google_signin_btn_icon_disabled = 0x7f090089;
-        public static int common_google_signin_btn_icon_light = 0x7f09008a;
-        public static int common_google_signin_btn_icon_light_focused = 0x7f09008c;
-        public static int common_google_signin_btn_icon_light_normal = 0x7f09008d;
-        public static int common_google_signin_btn_icon_light_normal_background = 0x7f09008e;
-        public static int common_google_signin_btn_text_dark = 0x7f090090;
-        public static int common_google_signin_btn_text_dark_focused = 0x7f090092;
-        public static int common_google_signin_btn_text_dark_normal = 0x7f090093;
-        public static int common_google_signin_btn_text_dark_normal_background = 0x7f090094;
-        public static int common_google_signin_btn_text_disabled = 0x7f090096;
-        public static int common_google_signin_btn_text_light = 0x7f090097;
-        public static int common_google_signin_btn_text_light_focused = 0x7f090099;
-        public static int common_google_signin_btn_text_light_normal = 0x7f09009a;
-        public static int common_google_signin_btn_text_light_normal_background = 0x7f09009b;
-        public static int googleg_disabled_color_18 = 0x7f0900b8;
-        public static int googleg_standard_color_18 = 0x7f0900b9;
+        public static int common_full_open_on_phone = 0x7f090084;
+        public static int common_google_signin_btn_icon_dark = 0x7f090085;
+        public static int common_google_signin_btn_icon_dark_focused = 0x7f090087;
+        public static int common_google_signin_btn_icon_dark_normal = 0x7f090088;
+        public static int common_google_signin_btn_icon_dark_normal_background = 0x7f090089;
+        public static int common_google_signin_btn_icon_disabled = 0x7f09008b;
+        public static int common_google_signin_btn_icon_light = 0x7f09008c;
+        public static int common_google_signin_btn_icon_light_focused = 0x7f09008e;
+        public static int common_google_signin_btn_icon_light_normal = 0x7f09008f;
+        public static int common_google_signin_btn_icon_light_normal_background = 0x7f090090;
+        public static int common_google_signin_btn_text_dark = 0x7f090092;
+        public static int common_google_signin_btn_text_dark_focused = 0x7f090094;
+        public static int common_google_signin_btn_text_dark_normal = 0x7f090095;
+        public static int common_google_signin_btn_text_dark_normal_background = 0x7f090096;
+        public static int common_google_signin_btn_text_disabled = 0x7f090098;
+        public static int common_google_signin_btn_text_light = 0x7f090099;
+        public static int common_google_signin_btn_text_light_focused = 0x7f09009b;
+        public static int common_google_signin_btn_text_light_normal = 0x7f09009c;
+        public static int common_google_signin_btn_text_light_normal_background = 0x7f09009d;
+        public static int googleg_disabled_color_18 = 0x7f0900ba;
+        public static int googleg_standard_color_18 = 0x7f0900bb;
     }
     public static final class id {
         public static int adjust_height = 0x7f0c0020;
@@ -84,7 +84,7 @@ public final class R {
         public static int common_open_on_phone = 0x7f15005f;
         public static int common_signin_button_text = 0x7f150060;
         public static int common_signin_button_text_long = 0x7f150061;
-        public static int pre_release_do_not_ship = 0x7f15014e;
+        public static int pre_release_do_not_ship = 0x7f150150;
     }
     public static final class styleable {
         public static int[] LoadingImageView = { 0x7f04007a, 0x7f040109, 0x7f04010a };

@@ -1,8 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.ozodrukh:CircularReveal-1.0.5">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/4e134423cc0ae185ed17b5f1e7ecc1e2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/4e134423cc0ae185ed17b5f1e7ecc1e2/res" />
+=======
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/773e4d115ad580246f822b6c643d5bf9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/773e4d115ad580246f822b6c643d5bf9/jars/classes.jar!/" />
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     </CLASSES>
     <JAVADOC />
     <SOURCES />

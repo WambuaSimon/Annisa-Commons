@@ -29,16 +29,8 @@ public class ModelEventBusIndex implements SubscriberInfoIndex {
                     com.wizag.taxi.common.activities.login.LoginActivity.VerifyCodeResultEvent.class, ThreadMode.MAIN),
         }));
 
-        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.travels.TravelsActivity.class, true,
-                new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onWriteComplaintResult",
-                    com.wizag.taxi.common.events.WriteComplaintResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onHideTravelResult", com.wizag.taxi.common.events.HideTravelResultEvent.class,
-                    ThreadMode.MAIN),
-            new SubscriberMethodInfo("onTravelsReceived", com.wizag.taxi.common.events.GetTravelsResultEvent.class,
-                    ThreadMode.MAIN),
-        }));
-
+<<<<<<< HEAD
+=======
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.chargeAccount.ChargeAccountActivity.class,
                 true, new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("AccountCharged", com.wizag.taxi.common.events.ChargeAccountResultEvent.class,
@@ -51,6 +43,32 @@ public class ModelEventBusIndex implements SubscriberInfoIndex {
                     com.wizag.taxi.common.events.SocketConnectionEvent.class, ThreadMode.MAIN),
         }));
 
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.travels.TravelsActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onWriteComplaintResult",
+                    com.wizag.taxi.common.events.WriteComplaintResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onHideTravelResult", com.wizag.taxi.common.events.HideTravelResultEvent.class,
+                    ThreadMode.MAIN),
+            new SubscriberMethodInfo("onTravelsReceived", com.wizag.taxi.common.events.GetTravelsResultEvent.class,
+                    ThreadMode.MAIN),
+        }));
+
+<<<<<<< HEAD
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.chargeAccount.ChargeAccountActivity.class,
+                true, new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("AccountCharged", com.wizag.taxi.common.events.ChargeAccountResultEvent.class,
+                    ThreadMode.MAIN),
+        }));
+
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.components.BaseActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onConnectionEventReceived",
+                    com.wizag.taxi.common.events.SocketConnectionEvent.class, ThreadMode.MAIN),
+        }));
+
+=======
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     }
 
     private static void putIndex(SubscriberInfo info) {

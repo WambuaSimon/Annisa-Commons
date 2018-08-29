@@ -688,12 +688,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\drawable-v21\\notification_action_background.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -1264,8 +1269,17 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\layout\\item_travel.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_met_ic_clear.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-2.0.3.aar\\b5df46ef5a21afc18bdf5f042bf40346\\res\\drawable-xxxhdpi-v4\\met_ic_clear.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_bottom_border.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable/bottom_border.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_in_location.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable/in_location.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1336,8 +1350,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\ccby_30_full.txt"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_action_menu_layout.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-hdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-hdpi/ic_dehaze_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_md_dialog_basic_check.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/layout/md_dialog_basic_check.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1572,8 +1595,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\anim\\abc_slide_in_bottom.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-ldpi-v4_bg.jpg.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-ldpi-v4/bg.jpg"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_md_nav_back.xml.flat",
@@ -1972,8 +2004,17 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\src\\main\\res\\drawable\\ic_edit_location.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_list_menu_item_checkbox.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxxhdpi/ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_marker_taxi.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-hdpi-v4/marker_taxi.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -2040,8 +2081,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_expand_more_black_18dp.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-material-1.1.0.aar\\c9d7b8b90d74d45851e236f35d7d19d7\\res\\drawable-xxhdpi\\ic_expand_more_black_18dp.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxhdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_invert_colors_black_24dp.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/floatingsearchview-0.3.aar/7676ae1add16469258d5e264bf7a7818/res/drawable-mdpi-v4/ic_invert_colors_black_24dp.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ucrop_ic_done.png.flat",
@@ -2504,8 +2554,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\7ca18565cb7435af7097ad41178333d3\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ucrop_ic_scale.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xxxhdpi-v4\\ucrop_ic_scale.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_switch_thumb_material.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -2596,8 +2655,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\layout\\overflow_action_item_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_start_travel.xml.flat",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\start_travel.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-mdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-mdpi/ic_dehaze_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
@@ -2632,8 +2700,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\anim_alerter_pulse.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\anim\\alerter_pulse.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-hdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-hdpi/ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_history_black_24dp.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/floatingsearchview-0.3.aar/7676ae1add16469258d5e264bf7a7818/res/drawable-xxhdpi-v4/ic_history_black_24dp.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_md_listitem_singlechoice.xml.flat",
@@ -2652,8 +2729,17 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\src\\main\\res\\drawable\\keyboard_voice.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\design_snackbar_background.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xhdpi/ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_dialog_request_service.xml.flat",
@@ -2780,8 +2866,17 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\marker_taxi.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_round_red.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable/round_red.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_fragment_travel_stats.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/layout/fragment_travel_stats.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_chevron_right.xml.flat",
@@ -2956,8 +3051,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_search_black_24dp.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-mdpi-v4\\ic_search_black_24dp.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xhdpi/ic_dehaze_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_dialog_loading.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/layout/dialog_loading.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ucrop_ic_angle.png.flat",
@@ -3000,8 +3104,17 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\src\\main\\res\\layout\\fragment_review.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_epl_v10_full.txt.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\epl_v10_full.txt"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-mdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-mdpi/ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-v21/abc_btn_colored_material.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -3028,8 +3141,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\slideview-1.1.0.aar\\ef28dd78466f7fa79bb5d4e2b042426e\\res\\drawable-xhdpi-v4\\sv_ic_chevron_double_right_white.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-v21_fui_idp_button_background_google.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable-v21\\fui_idp_button_background_google.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxhdpi/ic_dehaze_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_arrow_back_black_24dp.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/floatingsearchview-0.3.aar/7676ae1add16469258d5e264bf7a7818/res/drawable-mdpi-v4/ic_arrow_back_black_24dp.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -3108,16 +3230,34 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ucrop_ic_crop.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xhdpi-v4\\ucrop_ic_crop.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-mdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-mdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ratingbar_material.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_md_dialog_list_check.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout\\md_dialog_list_check.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_floating_search_layout.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\layout\\floating_search_layout.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi_annisa_bg.jpg.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable-xhdpi/annisa_bg.jpg"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_md_dialog_progress.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/layout/md_dialog_progress.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -3196,8 +3336,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-mdpi-v4\\ucrop_ic_reset.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xhdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_powered_by_google_light.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/eec48507d69f593a781a769de98883cb/res/drawable-xxxhdpi-v4/powered_by_google_light.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_md_listitem.xml.flat",
@@ -3476,8 +3625,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxxhdpi/ic_dehaze_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/color_wallet_secondary_text_holo_dark.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.0.aar/089074d967fc6abd589aa15cb999b691/res/color/wallet_secondary_text_holo_dark.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -3624,8 +3782,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-hdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-hdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_fragment_edit_address.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/layout/fragment_edit_address.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
@@ -3664,8 +3831,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_logo5.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/logo5.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/raw_amu_ground_overlay.kml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/res/raw/amu_ground_overlay.kml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -3780,8 +3956,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\notices.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-ldpi-v4_new_logo.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-ldpi-v4/new_logo.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_payment_online.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable/payment_online.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_sil_ofl_11_summary.txt.flat",
@@ -3812,8 +3997,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout-v14_md_stub_progress_indeterminate_horizontal.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxhdpi/ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_ic_billing_mastercard_logo.png.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/ic_billing_mastercard_logo.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_request.mp3.flat",
@@ -3984,8 +4178,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color\\abc_tint_edittext.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\anim_alerter_slide_out_to_top.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\anim\\alerter_slide_out_to_top.xml"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxxhdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_cab_background_top_material.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
@@ -4076,8 +4279,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\drawable-mdpi-v4\\alerter_ic_notifications.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_lgpl_3_full.txt.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\lgpl_3_full.txt"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_round_green.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable/round_green.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable-v21/avd_show_password.xml"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",

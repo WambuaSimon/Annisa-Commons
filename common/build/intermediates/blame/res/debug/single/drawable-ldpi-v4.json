@@ -32,8 +32,17 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable-ldpi\\marker_destination.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_pickup.png",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable-ldpi\\marker_pickup.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/new_logo.png",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-ldpi/new_logo.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/alerter_ic_face.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/res/drawable-ldpi-v4/alerter_ic_face.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_arrow_down_24dp.png",
@@ -44,8 +53,17 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\drawable-ldpi-v4\\alerter_ic_notifications.png"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_taxi.png",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable-ldpi\\marker_taxi.png"
+=======
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg.jpg",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-ldpi/bg.jpg"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_destination.png",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-ldpi/marker_destination.png"
+>>>>>>> 8b79d14b8737a54d20ca8c1ad0ffde05cc3718bb
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\alerter_ic_face.png",
