@@ -2,12 +2,19 @@ package com.wizag.taxi.rider.activities.main;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.PendingIntent;
 import android.content.ActivityNotFoundException;
+import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.databinding.DataBindingUtil;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.location.Address;
 import android.location.Geocoder;
 import android.location.Location;
@@ -19,14 +26,19 @@ import android.os.Bundle;
 import android.speech.RecognizerIntent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomSheetBehavior;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
+import android.telephony.SmsManager;
 import android.text.TextUtils;
+import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.MenuItem;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -105,10 +117,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
+import java.util.StringTokenizer;
+import java.util.Timer;
+import java.util.TimerTask;
 
 import static org.greenrobot.eventbus.ThreadMode.MAIN;
 
-public class MainActivity extends RiderBaseActivity implements OnMapReadyCallback, ServiceCarousalFragment.OnServicesCarousalFragmentListener, LocationListener {
+public class MainActivity extends RiderBaseActivity implements OnMapReadyCallback, ServiceCarousalFragment.OnServicesCarousalFragmentListener, LocationListener, View.OnTouchListener {
 
     ActivityMainBinding binding;
     MyPreferenceManager SP;
@@ -119,6 +134,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     DriverAcceptedDialog driverAcceptedDialog;
     ArrayList<Marker> driverMarkers;
     private static final int ACTIVITY_PROFILE = 11;
+    private long firstTime=0,secondTime=0;
     private static final int ACTIVITY_WALLET = 12;
     private static final int ACTIVITY_PLACES = 13;
     private static final int ACTIVITY_TRAVEL = 14;
@@ -128,7 +144,12 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     LatLng currentLocation;
     public Service selectedService;
     Polyline polylineOriginDestination;
+    FloatingActionButton myButton;
     Travel travel = new Travel();
+    private final static float CLICK_DRAG_TOLERANCE = 10; // Often, there will be a slight, unintentional, drag when the user taps the FAB, so we need to account for this.
+
+    private float downRawX, downRawY;
+    private float dX, dY;
 
     @Override
     public void onServiceSelected(Service service) {
@@ -157,12 +178,18 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
     }
 
+    @Override
+    public boolean onTouch(View v, MotionEvent event) {
+        return false;
+    }
+
     private enum MarkerMode {
         origin,
         destination,
         serviceSelection
     }
 
+    @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.setImmersive(true);
@@ -176,6 +203,92 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         bottomSheetBehavior = BottomSheetBehavior.from(binding.bottomSheet);
         bottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
         binding.searchText.setSelected(true);
+        FloatingActionButton myButton=findViewById(R.id.floatingActionButton);
+        myButton.setBackgroundColor(Color.RED);
+        myButton.setOnTouchListener(new View.OnTouchListener() {
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                int action = event.getActionMasked();
+
+                if (action == MotionEvent.ACTION_DOWN) {
+                    firstTime = System.currentTimeMillis();
+
+                } else if (action == MotionEvent.ACTION_UP
+                        || action == MotionEvent.ACTION_CANCEL) {
+                    secondTime = System.currentTimeMillis();
+                    if (System.currentTimeMillis() - firstTime >= 3000) { // at least 5000 ms touch down time
+                        // launch your target activity from here
+                        Toast.makeText(MainActivity.this,"Wabeeee",Toast.LENGTH_LONG).show();
+                        AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this)
+                                //set icon
+                                .setIcon(android.R.drawable.ic_dialog_alert)
+                                //set title
+                                .setTitle("SOS MESSAGE")
+                                //set message
+                                .setMessage("Do you want to send an SOS message to your emergency contacts?")
+                                //set positive button
+                                .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialogInterface, int i) {
+                                        //set what would happen when positive button is clicked
+                                        //finish();
+                                            String message = "There is an emergency on an Anisa ride";
+                                            String phoneNo = "+254714980450";
+
+                                            //for getting multiple numbers that are separated by a comma eg 144,234
+                                            StringTokenizer st=new StringTokenizer(phoneNo,",");
+                                            while (st.hasMoreElements())
+                                            {
+                                                String tempMobileNumber = (String)st.nextElement();
+                                                if(tempMobileNumber.length()>0 && message.trim().length()>0) {
+                                                    sendSMS(tempMobileNumber, message);
+                                                }
+                                                //for making sure none of the two fields is null
+                                                else {
+                                                    Toast.makeText(getBaseContext(),
+                                                            "Please enter both phone number and message.",
+                                                            Toast.LENGTH_SHORT).show();
+                                                }
+                                            }
+
+
+                                        }
+
+                                })
+                                //set negative button
+                                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialogInterface, int i) {
+                                        //set what should happen when negative button is clicked
+                                        Toast.makeText(getApplicationContext(),"Nothing Happened",Toast.LENGTH_LONG).show();
+                                    }
+                                })
+                                .show();
+                    } else { //ignore it}
+                        firstTime = 0; //reseting the value for the next time
+                        secondTime = 0;//reseting the value for the next time
+
+                    }
+                    // TODO Auto-generated method stub
+
+                }
+                return false;
+            }
+        });
+//        myButton.setOnClickListener(new View.OnClickListener() {
+//            public void onClick(View v) {
+//                shortclick();
+//            }
+//         });
+//
+//        myButton.setOnLongClickListener(new View.OnLongClickListener() {
+//            public boolean onLongClick(View v) {
+//                longclick();
+//                return true;
+//            }
+//        });
+
         binding.drawerLayout.addDrawerListener(new DrawerLayout.DrawerListener() {
             @Override
             public void onDrawerSlide(@NonNull View drawerView, float slideOffset) {
@@ -695,4 +808,80 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         intent.putExtra("travel",travel.toJson());
         startActivityForResult(intent,ACTIVITY_TRAVEL);
     }
+
+public void shortclick()
+{
+    Toast.makeText(this, "Why did you do that? That hurts!!!", Toast.LENGTH_LONG).show();
+
+}
+
+    public void longclick()
+    {
+        Toast.makeText(this, "Why did you do that? That REALLY hurts!!!", Toast.LENGTH_LONG).show();
+
+    }
+    //method for sending sms
+    private void sendSMS(String phoneNumber, String message)
+    {
+        String SENT = "SMS_SENT";
+        String DELIVERED = "SMS_DELIVERED";
+
+        PendingIntent sentPI = PendingIntent.getBroadcast(this, 0,
+                new Intent(SENT), 0);
+
+        PendingIntent deliveredPI = PendingIntent.getBroadcast(this, 0,
+                new Intent(DELIVERED), 0);
+
+        //---when the SMS has been sent---
+        registerReceiver(new BroadcastReceiver(){
+            @Override
+            public void onReceive(Context arg0, Intent arg1) {
+                switch (getResultCode())
+                {
+                    case Activity.RESULT_OK:
+                        Toast.makeText(getBaseContext(), "SMS sent",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_GENERIC_FAILURE:
+                        Toast.makeText(getBaseContext(), "Generic failure",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_NO_SERVICE:
+                        Toast.makeText(getBaseContext(), "No service",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_NULL_PDU:
+                        Toast.makeText(getBaseContext(), "Null PDU",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_RADIO_OFF:
+                        Toast.makeText(getBaseContext(), "Radio off",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                }
+            }
+        },new IntentFilter(SENT));
+
+        //---when the SMS has been delivered---
+        registerReceiver(new BroadcastReceiver(){
+            @Override
+            public void onReceive(Context arg0, Intent arg1) {
+                switch (getResultCode())
+                {
+                    case Activity.RESULT_OK:
+                        Toast.makeText(getBaseContext(), "SMS delivered",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case Activity.RESULT_CANCELED:
+                        Toast.makeText(getBaseContext(), "SMS not delivered",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                }
+            }
+        }, new IntentFilter(DELIVERED));
+
+        SmsManager sms = SmsManager.getDefault();
+        sms.sendTextMessage(phoneNumber, null, message, sentPI, deliveredPI);
+    }
+
 }

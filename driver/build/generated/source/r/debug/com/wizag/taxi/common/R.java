@@ -1634,6 +1634,7 @@ public final class R {
         public static final int alerter_ic_notifications = 0x7f080063;
         public static final int amu_bubble_mask = 0x7f080064;
         public static final int amu_bubble_shadow = 0x7f080065;
+        public static final int annisa_bg = 0x7f080066;
         public static final int avd_hide_password = 0x7f080067;
         public static final int avd_show_password = 0x7f080068;
         public static final int bg = 0x7f080069;
@@ -1717,6 +1718,7 @@ public final class R {
         public static final int img_amex_center_face = 0x7f0800ba;
         public static final int in_location = 0x7f0800bb;
         public static final int logo = 0x7f0800bc;
+        public static final int logo5 = 0x7f0800bd;
         public static final int marker_destination = 0x7f0800be;
         public static final int marker_pickup = 0x7f0800bf;
         public static final int marker_taxi = 0x7f0800c0;

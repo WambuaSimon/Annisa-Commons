@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#a16cad</color>
+
+    <color name="md_red_A400">#FF1744</color>
+
     <color name="hint">#a16cad</color>
     <color name="text_color">#a16cad</color>
+
 </resources>

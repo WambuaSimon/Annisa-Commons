@@ -32,6 +32,7 @@ public class RiderBaseActivity extends BaseActivity {
         if (!isServiceRunning)
             startService(new Intent(this, RiderService.class));
     }
+    
     @Subscribe
     public void onServiceStarted(BackgroundServiceStartedEvent event) {
         tryConnect();

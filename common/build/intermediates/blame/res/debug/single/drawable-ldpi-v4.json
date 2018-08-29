@@ -24,6 +24,10 @@
         "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-ldpi/marker_taxi.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
     },

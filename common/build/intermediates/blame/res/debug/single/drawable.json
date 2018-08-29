@@ -592,10 +592,6 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable/ucrop_vector_loader_animated.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable/logo.png"
-    },
-    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_list_selector_holo_light.xml"
     },

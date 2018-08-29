@@ -1,9 +1,9 @@
 <resources>
-    <string name="email" translatable="false"></string>
-    <string name="website" translatable="false"></string>
-    <string name="twitter" translatable="false"></string>
-    <string name="instagram" translatable="false"></string>
-    <string name="facebook" translatable="false"></string>
+    <string name="email" translatable="false">info@annisataxi.com</string>
+    <string name="website" translatable="false">http://www.annisataxi.com</string>
+    <string name="twitter" translatable="false">http://twitter.com/annisataxi</string>
+    <string name="instagram" translatable="false">http://instagram.com/annisataxi</string>
+    <string name="facebook" translatable="false">http://facebook.com/annisataxi</string>
     <string name="playStore" translatable="false"></string>
     <string name="server_address" translatable="false">http://51.15.37.235:8080/</string>
     <string name="fabric_key" templateMergeStrategy="preserve" translatable="false"></string>
