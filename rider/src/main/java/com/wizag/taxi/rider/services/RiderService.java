@@ -93,7 +93,7 @@ public class RiderService extends Service {
             IO.Options options = new IO.Options();
             options.query = "token=" + connectEvent.token;
             options.reconnection = true;
-            socket = IO.socket(getString(R.string.server_address), options);
+            socket = IO.socket("http://51.15.37.235:8080/", options);
             socket.on(Socket.EVENT_CONNECT, args -> {
                 eventBus.post(new ConnectResultEvent(ServerResponse.OK.getValue()));
                 eventBus.post(new SocketConnectionEvent(Socket.EVENT_CONNECT));
@@ -157,7 +157,7 @@ public class RiderService extends Service {
         @Override
         protected String doInBackground(String... uri) {
             try {
-                URL url = new URL(getString(R.string.server_address) + "rider_login");
+                URL url = new URL("http://51.15.37.235:8080/" + "rider_login");
                 HttpURLConnection client = (HttpURLConnection) url.openConnection();
                 client.setRequestMethod("POST");
                 client.setDoOutput(true);

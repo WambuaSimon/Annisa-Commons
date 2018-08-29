@@ -169,9 +169,9 @@
                 android:layout_gravity="bottom|right"
                 android:clickable="true"
                 android:visibility="visible"
-                android:background="@android:color/holo_red_dark"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@android:drawable/stat_sys_phone_call" />
+                android:src="@drawable/alert"
+                app:backgroundTint="@android:color/transparent"/>
         </android.support.design.widget.CoordinatorLayout>
 
 

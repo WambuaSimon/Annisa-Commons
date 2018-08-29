@@ -360,8 +360,8 @@ public final class R {
         public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f080055;
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f080056;
         public static final int abc_textfield_search_material = 0x7f080057;
-        public static final int met_ic_clear = 0x7f0800dd;
-        public static final int met_ic_close = 0x7f0800de;
+        public static final int met_ic_clear = 0x7f0800de;
+        public static final int met_ic_close = 0x7f0800df;
     }
     public static final class id {
         public static final int action_bar = 0x7f0a0009;

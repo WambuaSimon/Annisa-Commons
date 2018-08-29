@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_btn_selected_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\card_color_round_rect_pink.xml",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_pink.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\start_travel.xml",
@@ -64,12 +64,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_facebook.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_facebook.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\call.xml",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable\\call.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_facebook.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_facebook.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\visacard_back.xml",
@@ -566,10 +566,6 @@
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\payment_online.xml",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable\\payment_online.xml"
-    },
-    {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
-        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable\\logo.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",

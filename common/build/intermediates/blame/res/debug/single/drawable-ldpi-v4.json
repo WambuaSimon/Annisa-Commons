@@ -20,6 +20,10 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
     },
     {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
     },

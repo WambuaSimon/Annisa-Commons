@@ -40,12 +40,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\layout\\fui_auth_method_picker_layout.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_met_ic_clear.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-2.0.3.aar\\b5df46ef5a21afc18bdf5f042bf40346\\res\\drawable-mdpi-v4\\met_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_sv_ic_chevron_double_right_white.png.flat",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e234d2b7765dbdbeda9a33d854d285b0\\res\\raw\\amu_default_balloon.kml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -100,12 +100,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_arrow_down_24dp.png.flat",
@@ -132,12 +132,12 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\chevron_right.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ucrop_ic_reset.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xhdpi-v4\\ucrop_ic_reset.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_chip_yellow_inner.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\chip_yellow_inner.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ucrop_ic_reset.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xhdpi-v4\\ucrop_ic_reset.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_md_dialog_list_check.xml.flat",
@@ -240,16 +240,16 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout-v14_md_stub_progress.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout-v14\\md_stub_progress.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_marker_destination.png.flat",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\marker_destination.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout-v14_md_stub_progress.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout-v14\\md_stub_progress.xml"
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -276,12 +276,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ucrop_ic_done.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xxhdpi-v4\\ucrop_ic_done.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_fui_confirmation_code_layout.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\layout\\fui_confirmation_code_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ucrop_ic_done.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xxhdpi-v4\\ucrop_ic_done.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -304,12 +304,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\isc_full.txt"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_fui_idp_button_twitter.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\layout\\fui_idp_button_twitter.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_ic_billing_amex_logo1.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\ic_billing_amex_logo1.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_fui_idp_button_twitter.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\layout\\fui_idp_button_twitter.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_md_nav_back.png.flat",
@@ -346,6 +346,10 @@
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_chip_inner.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\chip_inner.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_logo.png.flat",
+        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\logo.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_alerter_ic_notifications.xml.flat",
@@ -412,12 +416,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
-        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\font\\roboto.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\font\\roboto.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -500,12 +504,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ef_ic_done_white.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.12.0.aar\\325151e63eb861566aa4e828526af518\\res\\drawable-hdpi-v4\\ef_ic_done_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
@@ -522,10 +526,6 @@
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_nav_item_about.xml.flat",
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\nav_item_about.xml"
-    },
-    {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
-        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\logo.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
@@ -604,12 +604,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.12.0.aar\\325151e63eb861566aa4e828526af518\\res\\layout\\ef_imagepikcer_snackbar.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_about_icon_instagram.xml.flat",
@@ -840,20 +840,20 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_met_ic_clear.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-2.0.3.aar\\b5df46ef5a21afc18bdf5f042bf40346\\res\\drawable-xhdpi-v4\\met_ic_clear.png"
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_met_ic_clear.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-2.0.3.aar\\b5df46ef5a21afc18bdf5f042bf40346\\res\\drawable-xhdpi-v4\\met_ic_clear.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -864,20 +864,20 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\ccbysa_30_full.txt"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\raw_asl_20_summary.txt.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\asl_20_summary.txt"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-v21_fui_idp_button_background_facebook.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable-v21\\fui_idp_button_background_facebook.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\raw_asl_20_summary.txt.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\asl_20_summary.txt"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\raw_ccby_30_full.txt.flat",
@@ -1056,16 +1056,16 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout\\md_dialog_list.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\anim_interpolator_slight_overshoot.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\anim\\interpolator_slight_overshoot.xml"
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-v21_md_btn_shape.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable-v21\\md_btn_shape.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_expand_more_black_18dp.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-material-1.1.0.aar\\c9d7b8b90d74d45851e236f35d7d19d7\\res\\drawable-xhdpi\\ic_expand_more_black_18dp.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-v21_md_btn_shape.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable-v21\\md_btn_shape.xml"
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\anim_interpolator_slight_overshoot.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\anim\\interpolator_slight_overshoot.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us.xml.flat",
@@ -1136,12 +1136,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_nav_item_settings.xml.flat",
-        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\nav_item_settings.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_nav_item_settings.xml.flat",
+        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\nav_item_settings.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",

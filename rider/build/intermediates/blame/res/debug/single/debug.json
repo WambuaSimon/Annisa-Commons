@@ -112,6 +112,10 @@
         "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\src\\main\\res\\layout\\activity_edit_profile.xml"
     },
     {
+        "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_alert.png.flat",
+        "source": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
         "merged": "D:\\Projects\\Tikoni\\AndroidV1.3\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\drawable-xxhdpi-v4\\powered_by_google_dark.png"
     },

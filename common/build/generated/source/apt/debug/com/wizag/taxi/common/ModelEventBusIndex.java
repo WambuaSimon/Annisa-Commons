@@ -17,6 +17,18 @@ public class ModelEventBusIndex implements SubscriberInfoIndex {
     static {
         SUBSCRIBER_INDEX = new HashMap<Class<?>, SubscriberInfo>();
 
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.login.LoginActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onRequestValidation",
+                    com.wizag.taxi.common.activities.login.LoginActivity.RequestSMSEvent.class, ThreadMode.BACKGROUND),
+            new SubscriberMethodInfo("onRequestSMSResult",
+                    com.wizag.taxi.common.activities.login.LoginActivity.RequestSMSResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onVerifyCode",
+                    com.wizag.taxi.common.activities.login.LoginActivity.VerifyCodeEvent.class, ThreadMode.BACKGROUND),
+            new SubscriberMethodInfo("onVerifyResult",
+                    com.wizag.taxi.common.activities.login.LoginActivity.VerifyCodeResultEvent.class, ThreadMode.MAIN),
+        }));
+
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.travels.TravelsActivity.class, true,
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onWriteComplaintResult",
@@ -37,18 +49,6 @@ public class ModelEventBusIndex implements SubscriberInfoIndex {
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onConnectionEventReceived",
                     com.wizag.taxi.common.events.SocketConnectionEvent.class, ThreadMode.MAIN),
-        }));
-
-        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.login.LoginActivity.class, true,
-                new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onRequestValidation",
-                    com.wizag.taxi.common.activities.login.LoginActivity.RequestSMSEvent.class, ThreadMode.BACKGROUND),
-            new SubscriberMethodInfo("onRequestSMSResult",
-                    com.wizag.taxi.common.activities.login.LoginActivity.RequestSMSResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onVerifyCode",
-                    com.wizag.taxi.common.activities.login.LoginActivity.VerifyCodeEvent.class, ThreadMode.BACKGROUND),
-            new SubscriberMethodInfo("onVerifyResult",
-                    com.wizag.taxi.common.activities.login.LoginActivity.VerifyCodeResultEvent.class, ThreadMode.MAIN),
         }));
 
     }

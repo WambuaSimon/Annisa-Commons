@@ -366,7 +366,7 @@
     <string name="duration">Duration</string>
     <string name="edit_address">Edit</string>
     <string name="edit_address_dialog_title">Edit Address</string>
-    <string name="email" translatable="false"/>
+    <string name="email" translatable="false">info@annisataxi.com</string>
     <string name="email_title">E-Mail</string>
     <string name="error">Error</string>
     <string name="error_303">No Close Driver Found.</string>
@@ -402,7 +402,7 @@
     <string name="event_reconnect_failed">Reconnect Failed</string>
     <string name="event_reconnecting">Reconnecting…</string>
     <string name="fabric_key" templateMergeStrategy="preserve" translatable="false"/>
-    <string name="facebook" translatable="false"/>
+    <string name="facebook" translatable="false">http://facebook.com/annisataxi</string>
     <string name="finish_time">Finish Time</string>
     <string name="finish_travel">Finish</string>
     <string name="first_name">First Name</string>
@@ -418,7 +418,7 @@
     <string name="info">Info</string>
     <string name="info_edit_profile_success">Edit Profile was successful.</string>
     <string name="info_travel_hidden">Travel info hide successful.</string>
-    <string name="instagram" translatable="false"/>
+    <string name="instagram" translatable="false">http://instagram.com/annisataxi</string>
     <string name="last_name">Last Name</string>
     <string name="legal_notices">Legal Notices</string>
     <string name="login">Login/Sign Up</string>
@@ -529,7 +529,7 @@
     <string name="travel_status_travel_finished_credit">Travel finished (credit)</string>
     <string name="travel_status_travel_started">Travel Started</string>
     <string name="trip_mode">Trip Mode</string>
-    <string name="twitter" translatable="false"/>
+    <string name="twitter" translatable="false">http://twitter.com/annisataxi</string>
     <string name="ucrop_label_edit_photo" ns1:override="true">Edit Photo</string>
     <string name="ucrop_label_original" ns1:override="true">Original</string>
     <string name="ucrop_menu_crop" ns1:override="true">Crop</string>
@@ -550,7 +550,7 @@
     <string name="warning">Warning</string>
     <string name="warning_no_favorite_place">You haven\'t added any favorite place.</string>
     <string name="warning_voice_recognizer_failed">Voice recognizer failed to understand what you were saying.</string>
-    <string name="website" translatable="false"/>
+    <string name="website" translatable="false">http://www.annisataxi.com</string>
     <string name="write_complaint">Write Complaint</string>
     <string name="write_your_review_here">Write your review here…</string>
     <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
