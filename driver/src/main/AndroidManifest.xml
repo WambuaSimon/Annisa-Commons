@@ -18,9 +18,10 @@
         android:name="com.wizag.taxi.common.MyTaxiApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/new_logo"
         android:label="@string/driver_app_name"
         tools:replace="android:label"
+        android:largeHeap="true"
         android:supportsRtl="true">
 
         <meta-data

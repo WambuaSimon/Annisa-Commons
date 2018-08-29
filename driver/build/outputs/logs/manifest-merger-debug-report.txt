@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
 MERGED from [:common] /home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.databinding:adapters:3.1.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/83fd0713baf380fd4798dcd77d8586d2/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:3.1.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/62b9babaa43eb698feafbaeecaabcb82/AndroidManifest.xml:17:1-24:12
@@ -94,16 +94,16 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/wizag/.gradle/caches/
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/8aa5d3c1beb1200e49ae90247252b862/AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.5.aar/773e4d115ad580246f822b6c643d5bf9/AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/77a2ab38abfc1fa75601f4640ae1bedb/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
 	package
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:4:5-36
 		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
 		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
 		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:3:5-51
@@ -111,7 +111,7 @@ INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidMa
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:5:5-39
 	android:versionCode
 		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-68:12
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:1-69:12
 		INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:2:11-69
@@ -198,7 +198,7 @@ MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches
 	android:name
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:17:5-66:19
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:17:5-67:19
 MERGED from [:common] /home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-30:19
 MERGED from [:common] /home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-30:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:11:5-17:19
@@ -288,7 +288,7 @@ MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /home/wizag/.gradle/cache
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/77a2ab38abfc1fa75601f4640ae1bedb/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/77a2ab38abfc1fa75601f4640ae1bedb/AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:25:9-35
 	android:label
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:22:9-48
 		REJECTED from [com.github.kizitonwose.colorpreference:support:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/support-1.0.3.aar/d2420a1c3fce8398017fa56f03b5fae3/AndroidManifest.xml:13:9-41
@@ -297,8 +297,10 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home
 		REJECTED from [com.weiwangcn.betterspinner:library-material:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/library-material-1.1.0.aar/2fd2a63d821527706adc311da81f7d85/AndroidManifest.xml:13:9-41
 	android:fullBackupContent
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:20:9-41
+	android:largeHeap
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:24:9-33
 	android:icon
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:21:9-42
 	android:allowBackup
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:19:9-35
 	tools:replace
@@ -306,120 +308,120 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home
 	android:name
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:18:9-63
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:26:9-28:55
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:27:9-29:55
 	android:value
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:28:13-52
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:29:13-52
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:27:13-58
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:28:13-58
 meta-data#io.fabric.ApiKey
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:29:9-32:72
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:30:9-33:72
 	tools:replace
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:31:13-42
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:32:13-42
 	android:value
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:32:13-69
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:33:13-69
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:30:13-44
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:31:13-44
 meta-data#com.google.android.gms.maps.API_OPTIONS
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:33:9-34:45
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:34:9-35:45
 	android:value
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:34:13-43
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:33:20-74
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:34:20-74
 activity#com.wizag.taxi.common.activities.chargeAccount.ChargeAccountActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:35:9-105
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:36:9-105
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:35:19-102
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:36:19-102
 activity#com.wizag.taxi.driver.activities.splash.SplashActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:36:9-42:20
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:37:9-43:20
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:36:19-88
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:37:19-88
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:37:13-41:29
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:38:17-69
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:38:25-66
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:40:17-77
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:40:27-74
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:41:27-74
 activity#com.wizag.taxi.driver.activities.main.MainActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:43:9-189
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:9-189
 	android:clearTaskOnLaunch
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:43:117-149
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:117-149
 	android:launchMode
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:43:85-116
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:85-116
 	android:alwaysRetainTaskState
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:43:150-186
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:150-186
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:43:19-84
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:19-84
 activity#com.wizag.taxi.driver.activities.profile.ProfileActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:9-93
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:45:9-93
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:44:19-90
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:45:19-90
 receiver#com.wizag.taxi.driver.services.BootCompletedReceiver
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:46:9-50:20
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:47:9-51:20
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:46:19-86
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:47:19-86
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:47:13-49:29
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:48:13-50:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:48:17-79
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:49:17-79
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:48:25-76
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:49:25-76
 service#com.wizag.taxi.driver.services.DriverService
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:52:9-80
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:53:9-80
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:52:18-77
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:53:18-77
 activity#com.cooltechworks.creditcarddesign.CardEditActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:53:9-55:93
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:54:9-56:93
 	android:screenOrientation
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:55:13-49
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:56:13-49
 	android:theme
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:55:50-90
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:56:50-90
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:54:13-79
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:55:13-79
 activity#com.wizag.taxi.driver.activities.travel.TravelActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:56:9-128
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:57:9-128
 	android:screenOrientation
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:56:89-125
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:57:89-125
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:56:19-88
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:57:19-88
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:57:9-59:93
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:58:9-60:93
 	android:screenOrientation
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:59:13-49
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:60:13-49
 	android:theme
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:59:50-90
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:60:50-90
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:58:13-60
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:59:13-60
 activity#com.gun0912.tedpermission.TedPermissionActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:61:9-349
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:9-349
 MERGED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:10:9-14:67
 MERGED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:10:9-14:67
 	android:screenOrientation
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:61:214-253
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:214-253
 		REJECTED from [gun0912.ted:tedpermission:2.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.3.aar/cc8aaead194121d1ca4b2b5e702ba077/AndroidManifest.xml:13:13-49
 	android:configChanges
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:61:82-213
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:82-213
 	android:theme
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:61:254-305
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:254-305
 	tools:replace
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:61:306-347
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:306-347
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:61:19-81
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:19-81
 activity#com.wizag.taxi.driver.activities.statistics.StatisticsActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:62:9-63:92
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:63:9-64:92
 	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:63:13-90
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:64:13-90
 activity#com.wizag.taxi.driver.activities.about.AboutActivity
-ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:64:9-88
-	android:name
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:64:19-86
-activity#com.wizag.taxi.common.activities.login.LoginActivity
 ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:65:9-88
 	android:name
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:65:19-86
+activity#com.wizag.taxi.common.activities.login.LoginActivity
+ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:66:9-88
+	android:name
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml:66:19-86
 uses-sdk
 INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/wizag/Mobile Projects/android-v1.3/driver/src/main/AndroidManifest.xml

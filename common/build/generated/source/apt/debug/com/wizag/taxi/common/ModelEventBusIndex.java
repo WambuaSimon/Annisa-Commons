@@ -35,6 +35,12 @@ public class ModelEventBusIndex implements SubscriberInfoIndex {
                     ThreadMode.MAIN),
         }));
 
+        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.components.BaseActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onConnectionEventReceived",
+                    com.wizag.taxi.common.events.SocketConnectionEvent.class, ThreadMode.MAIN),
+        }));
+
         putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.activities.travels.TravelsActivity.class, true,
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onWriteComplaintResult",
@@ -43,12 +49,6 @@ public class ModelEventBusIndex implements SubscriberInfoIndex {
                     ThreadMode.MAIN),
             new SubscriberMethodInfo("onTravelsReceived", com.wizag.taxi.common.events.GetTravelsResultEvent.class,
                     ThreadMode.MAIN),
-        }));
-
-        putIndex(new SimpleSubscriberInfo(com.wizag.taxi.common.components.BaseActivity.class, true,
-                new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onConnectionEventReceived",
-                    com.wizag.taxi.common.events.SocketConnectionEvent.class, ThreadMode.MAIN),
         }));
 
     }

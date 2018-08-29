@@ -688,10 +688,6 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxxhdpi_annisa_bg.jpg.flat",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable-xxxhdpi/annisa_bg.jpg"
-    },
-    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
@@ -1264,6 +1260,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/anim/fui_slide_out_left.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_bottom_border.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable/bottom_border.xml"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_in_location.xml.flat",
         "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable/in_location.xml"
     },
@@ -1334,6 +1334,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-hdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-hdpi/ic_dehaze_black_24dp.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_md_dialog_basic_check.xml.flat",
@@ -1570,6 +1574,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_activity_travels.xml.flat",
         "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/layout/activity_travels.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-ldpi-v4_bg.jpg.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-ldpi-v4/bg.jpg"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -1972,6 +1980,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable-xxhdpi-v4/ucrop_ic_cross.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxxhdpi/ic_my_location_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_marker_taxi.png.flat",
         "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-hdpi-v4/marker_taxi.png"
     },
@@ -2038,6 +2050,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_fui_ic_mail_white_24dp.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_ic_mail_white_24dp.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxhdpi/ic_clear_black_24dp.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_invert_colors_black_24dp.png.flat",
@@ -2504,6 +2520,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/034aa994d6941571b47266eb5d2c0951/res/layout/notification_media_action.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/layout/header.xml"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_switch_thumb_material.xml"
     },
@@ -2596,6 +2616,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/floatingsearchview-0.3.aar/7676ae1add16469258d5e264bf7a7818/res/drawable-xhdpi-v4/ic_mic_black_24dp.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-mdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-mdpi/ic_dehaze_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -2632,6 +2656,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_btn_selector.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-hdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-hdpi/ic_my_location_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_history_black_24dp.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/floatingsearchview-0.3.aar/7676ae1add16469258d5e264bf7a7818/res/drawable-xxhdpi-v4/ic_history_black_24dp.png"
     },
@@ -2650,6 +2678,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xhdpi/ic_my_location_black_24dp.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -2778,6 +2810,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_round_red.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable/round_red.xml"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_fragment_travel_stats.xml.flat",
@@ -2956,6 +2992,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout/preference_category_material.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xhdpi/ic_dehaze_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_dialog_loading.xml.flat",
         "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/layout/dialog_loading.xml"
     },
@@ -3000,6 +3040,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable-xhdpi-v4/ucrop_ic_cross.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-mdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-mdpi/ic_my_location_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-v21/abc_btn_colored_material.xml"
     },
@@ -3026,6 +3070,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxhdpi/ic_dehaze_black_24dp.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_arrow_back_black_24dp.png.flat",
@@ -3108,12 +3156,20 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-mdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-mdpi/ic_clear_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_design_bottom_navigation_item_background.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi_annisa_bg.jpg.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable-xhdpi/annisa_bg.jpg"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_md_dialog_progress.xml.flat",
@@ -3194,6 +3250,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xhdpi/ic_clear_black_24dp.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_powered_by_google_light.png.flat",
@@ -3476,6 +3536,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/layout/fui_welcome_back_password_prompt_layout.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_dehaze_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxxhdpi/ic_dehaze_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/color_wallet_secondary_text_holo_dark.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.0.aar/089074d967fc6abd589aa15cb999b691/res/color/wallet_secondary_text_holo_dark.xml"
     },
@@ -3624,6 +3688,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-hdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-hdpi/ic_clear_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/layout_fragment_edit_address.xml.flat",
         "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/layout/fragment_edit_address.xml"
     },
@@ -3662,6 +3730,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_clear_black_24dp.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/floatingsearchview-0.3.aar/7676ae1add16469258d5e264bf7a7818/res/drawable-xxxhdpi-v4/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_logo5.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/logo5.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/raw_amu_ground_overlay.kml.flat",
@@ -3780,6 +3852,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-1.0.3.aar/62714c266f39e1e5e058ba279691661a/res/layout/dialog_colors.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-ldpi-v4_new_logo.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-ldpi-v4/new_logo.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_payment_online.xml.flat",
         "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable/payment_online.xml"
     },
@@ -3810,6 +3886,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ef_ic_done_white.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/2e9a25109dc11853b95080fe8368853a/res/drawable-xxxhdpi-v4/ef_ic_done_white.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_my_location_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxhdpi/ic_my_location_black_24dp.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_ic_billing_mastercard_logo.png.flat",
@@ -3984,6 +4064,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/layout/fui_provider_button_email.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_clear_black_24dp.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/mipmap-xxxhdpi/ic_clear_black_24dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_cab_background_top_material.xml"
     },
@@ -4074,6 +4158,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-v21_fui_idp_button_background_email.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable-v21/fui_idp_button_background_email.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_round_green.xml.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/rider/src/main/res/drawable/round_green.xml"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",

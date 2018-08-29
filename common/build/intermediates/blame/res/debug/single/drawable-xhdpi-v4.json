@@ -8,16 +8,20 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable-xhdpi-v4/ucrop_ic_rotate.png"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sv_ic_chevron_double_right_white.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/slideview-1.1.0.aar/95365512bfb9282a879d2e56c509cd41/res/drawable-xhdpi-v4/sv_ic_chevron_double_right_white.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo5.png",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-xhdpi/logo5.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
@@ -62,6 +66,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/annisa_bg.jpg",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-xhdpi/annisa_bg.jpg"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-xhdpi-v4/alerter_ic_face.png",

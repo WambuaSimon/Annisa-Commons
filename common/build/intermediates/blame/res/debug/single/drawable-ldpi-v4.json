@@ -32,6 +32,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/res/drawable-ldpi-v4/alerter_ic_notifications.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/new_logo.png",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-ldpi/new_logo.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/alerter_ic_face.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/res/drawable-ldpi-v4/alerter_ic_face.png"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg.jpg",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-ldpi/bg.jpg"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/marker_destination.png",

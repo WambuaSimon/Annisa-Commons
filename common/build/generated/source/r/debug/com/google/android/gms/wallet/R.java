@@ -81,7 +81,7 @@ public final class R {
         public static int wallet_test_layout = 0x7f0f00a6;
     }
     public static final class string {
-        public static int wallet_buy_button_place_holder = 0x7f1501bc;
+        public static int wallet_buy_button_place_holder = 0x7f1501be;
     }
     public static final class style {
         public static int WalletFragmentDefaultButtonTextAppearance = 0x7f1601b3;

@@ -332,7 +332,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home
 	android:fullBackupContent
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/rider/src/main/AndroidManifest.xml:26:9-42
 	android:icon
-		ADDED from /home/wizag/Mobile Projects/android-v1.3/rider/src/main/AndroidManifest.xml:27:9-43
+		ADDED from /home/wizag/Mobile Projects/android-v1.3/rider/src/main/AndroidManifest.xml:27:9-42
 	android:allowBackup
 		ADDED from /home/wizag/Mobile Projects/android-v1.3/rider/src/main/AndroidManifest.xml:24:9-35
 	tools:replace
