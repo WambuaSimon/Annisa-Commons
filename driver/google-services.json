@@ -67,6 +67,14 @@
           }
         },
         {
+          "client_id": "204295104071-4bieneq3n6n8nkjhghus47b8t9emmu5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wizag.taxi.rider",
+            "certificate_hash": "dc39a80444244cc12c2093a08f70c37caa3fc869"
+          }
+        },
+        {
           "client_id": "204295104071-4b8cmu0g21t52frc4u6cu19g53v6q0rq.apps.googleusercontent.com",
           "client_type": 3
         }

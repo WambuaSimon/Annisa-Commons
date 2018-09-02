@@ -11,6 +11,8 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.databinding.DataBindingUtil;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -27,12 +29,15 @@ import android.speech.RecognizerIntent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomSheetBehavior;
 import android.support.design.widget.FloatingActionButton;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.telephony.SmsManager;
 import android.text.TextUtils;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.MenuItem;
 import android.view.MotionEvent;
@@ -124,7 +129,7 @@ import java.util.TimerTask;
 import static org.greenrobot.eventbus.ThreadMode.MAIN;
 
 public class MainActivity extends RiderBaseActivity implements OnMapReadyCallback, ServiceCarousalFragment.OnServicesCarousalFragmentListener, LocationListener, View.OnTouchListener {
-
+    String SENT, DELIVERED;
     ActivityMainBinding binding;
     MyPreferenceManager SP;
     GoogleMap mMap;
@@ -134,7 +139,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     DriverAcceptedDialog driverAcceptedDialog;
     ArrayList<Marker> driverMarkers;
     private static final int ACTIVITY_PROFILE = 11;
-    private long firstTime=0,secondTime=0;
+    private long firstTime = 0, secondTime = 0;
     private static final int ACTIVITY_WALLET = 12;
     private static final int ACTIVITY_PLACES = 13;
     private static final int ACTIVITY_TRAVEL = 14;
@@ -147,9 +152,12 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     FloatingActionButton myButton;
     Travel travel = new Travel();
     private final static float CLICK_DRAG_TOLERANCE = 10; // Often, there will be a slight, unintentional, drag when the user taps the FAB, so we need to account for this.
-
+    String phone_number;
     private float downRawX, downRawY;
     private float dX, dY;
+
+    //    SharedPreferences prefs = getSharedPreferences(MY_PREFS_NAME, MODE_PRIVATE);
+    private static final int PERMISSION_REQUEST_CODE = 1;
 
     @Override
     public void onServiceSelected(Service service) {
@@ -160,7 +168,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
     @Override
     public void onLocationChanged(Location location) {
-        currentLocation = new LatLng(location.getLatitude(),location.getLongitude());
+        currentLocation = new LatLng(location.getLatitude(), location.getLongitude());
     }
 
     @Override
@@ -203,7 +211,9 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         bottomSheetBehavior = BottomSheetBehavior.from(binding.bottomSheet);
         bottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
         binding.searchText.setSelected(true);
-        FloatingActionButton myButton=findViewById(R.id.floatingActionButton);
+
+
+        FloatingActionButton myButton = findViewById(R.id.floatingActionButton);
         myButton.setBackgroundColor(Color.RED);
         myButton.setOnTouchListener(new View.OnTouchListener() {
 
@@ -217,43 +227,59 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                 } else if (action == MotionEvent.ACTION_UP
                         || action == MotionEvent.ACTION_CANCEL) {
                     secondTime = System.currentTimeMillis();
-                    if (System.currentTimeMillis() - firstTime >= 3000) { // at least 5000 ms touch down time
+                    if (System.currentTimeMillis() - firstTime >= 2000) {
+                        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.M) {
+
+                            if (checkSelfPermission(Manifest.permission.SEND_SMS)
+                                    == PackageManager.PERMISSION_DENIED) {
+
+                                Log.d("permission", "permission denied to SEND_SMS - requesting it");
+                                String[] permissions = {Manifest.permission.SEND_SMS};
+
+                                requestPermissions(permissions, PERMISSION_REQUEST_CODE);
+
+                            }
+                        }
+
+
+                        // at least 5000 ms touch down time
                         // launch your target activity from here
-                        Toast.makeText(MainActivity.this,"Wabeeee",Toast.LENGTH_LONG).show();
+//                        Toast.makeText(MainActivity.this,"Wabeeee",Toast.LENGTH_LONG).show();
                         AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this)
                                 //set icon
                                 .setIcon(android.R.drawable.ic_dialog_alert)
                                 //set title
                                 .setTitle("SOS MESSAGE")
                                 //set message
-                                .setMessage("Do you want to send an SOS message to your emergency contacts?")
+                                .setMessage("Do you want to Notify Annisa of an Emergency?")
                                 //set positive button
                                 .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                                     @Override
                                     public void onClick(DialogInterface dialogInterface, int i) {
                                         //set what would happen when positive button is clicked
                                         //finish();
-                                            String message = "There is an emergency on an Anisa ride";
-                                            String phoneNo = "+254714980450";
 
-                                            //for getting multiple numbers that are separated by a comma eg 144,234
-                                            StringTokenizer st=new StringTokenizer(phoneNo,",");
-                                            while (st.hasMoreElements())
-                                            {
-                                                String tempMobileNumber = (String)st.nextElement();
-                                                if(tempMobileNumber.length()>0 && message.trim().length()>0) {
-                                                    sendSMS(tempMobileNumber, message);
-                                                }
-                                                //for making sure none of the two fields is null
-                                                else {
-                                                    Toast.makeText(getBaseContext(),
-                                                            "Please enter both phone number and message.",
-                                                            Toast.LENGTH_SHORT).show();
-                                                }
+                                        String message = "There is an emergency on an Anisa ride for user\t" + phone_number;
+                                        String phoneNo = "+254714980450";
+
+                                        //for getting multiple numbers that are separated by a comma eg 144,234
+                                        StringTokenizer st = new StringTokenizer(phoneNo, ",");
+                                        while (st.hasMoreElements()) {
+                                            String tempMobileNumber = (String) st.nextElement();
+                                            if (tempMobileNumber.length() > 0 && message.trim().length() > 0) {
+
+                                                sendSMS(tempMobileNumber, message);
                                             }
-
-
+                                            //for making sure none of the two fields is null
+                                            else {
+                                                Toast.makeText(getBaseContext(),
+                                                        "Please enter both phone number and message.",
+                                                        Toast.LENGTH_SHORT).show();
+                                            }
                                         }
+
+
+                                    }
 
                                 })
                                 //set negative button
@@ -261,7 +287,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                                     @Override
                                     public void onClick(DialogInterface dialogInterface, int i) {
                                         //set what should happen when negative button is clicked
-                                        Toast.makeText(getApplicationContext(),"Nothing Happened",Toast.LENGTH_LONG).show();
+                                        Toast.makeText(getApplicationContext(), "Nothing Happened", Toast.LENGTH_LONG).show();
                                     }
                                 })
                                 .show();
@@ -360,7 +386,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                     case (R.id.nav_item_favorites):
                         Intent intent = new Intent(MainActivity.this, AddressesActivity.class);
                         double[] array = LocationHelper.LatLngToDoubleArray(currentLocation);
-                        intent.putExtra("currentLocation",array);
+                        intent.putExtra("currentLocation", array);
                         startActivity(intent);
                         break;
                     case (R.id.nav_item_travels):
@@ -406,17 +432,17 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         finish();
     }
 
-    private void showCurvedPolyline (LatLng p1, LatLng p2, double k) {
+    private void showCurvedPolyline(LatLng p1, LatLng p2, double k) {
         //Calculate distance and heading between two points
-        double d = SphericalUtil.computeDistanceBetween(p1,p2);
+        double d = SphericalUtil.computeDistanceBetween(p1, p2);
         double h = SphericalUtil.computeHeading(p1, p2);
 
         //Midpoint position
-        LatLng p = SphericalUtil.computeOffset(p1, d*0.5, h);
+        LatLng p = SphericalUtil.computeOffset(p1, d * 0.5, h);
 
         //Apply some mathematics to calculate position of the circle center
-        double x = (1-k*k)*d*0.5/(2*k);
-        double r = (1+k*k)*d*0.5/(2*k);
+        double x = (1 - k * k) * d * 0.5 / (2 * k);
+        double r = (1 + k * k) * d * 0.5 / (2 * k);
 
         LatLng c = SphericalUtil.computeOffset(p, x, h + 90.0);
 
@@ -430,9 +456,9 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
         //Calculate positions of points on circle border and add them to polyline options
         int numpoints = 100;
-        double step = (h2 -h1) / numpoints;
+        double step = (h2 - h1) / numpoints;
 
-        for (int i=0; i < numpoints; i++) {
+        for (int i = 0; i < numpoints; i++) {
             LatLng pi = SphericalUtil.computeOffset(c, r, h1 + i * step);
             options.add(pi);
         }
@@ -479,7 +505,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                 MainActivity.this.startActivityForResult(intent, ACTIVITY_VOICE_RECOGNITION);
             } catch (ActivityNotFoundException e) {
                 AlertDialogBuilder.show(MainActivity.this, getString(R.string.question_install_speech), getString(R.string.error), AlertDialogBuilder.DialogButton.OK_CANCEL, result -> {
-                    if(result == AlertDialogBuilder.DialogResult.OK) {
+                    if (result == AlertDialogBuilder.DialogResult.OK) {
                         Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://market.android.com/details?id=com.google.android.voicesearch"));
                         startActivity(browserIntent);
                     }
@@ -497,8 +523,8 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     public void onAddressesReceived(CRUDAddressResultEvent event) {
         if (event.crud != CRUD.READ || !isInForeground)
             return;
-        if(event.addresses.size() < 1) {
-            AlerterHelper.showWarning(MainActivity.this,getString(R.string.warning_no_favorite_place));
+        if (event.addresses.size() < 1) {
+            AlerterHelper.showWarning(MainActivity.this, getString(R.string.warning_no_favorite_place));
             return;
         }
         List<String> addressStrings = new ArrayList<>();
@@ -555,7 +581,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
             pickupPoint = mMap.addMarker(new MarkerOptions().position(travel.getPickupPoint()).icon(BitmapDescriptorFactory.fromBitmap(pickUpBitmap)));
             Bitmap dropBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.marker_destination);
             destinationPoint = mMap.addMarker(new MarkerOptions().position(travel.getDestinationPoint()).icon(BitmapDescriptorFactory.fromBitmap(dropBitmap)));
-            showCurvedPolyline(travel.getPickupPoint(),travel.getDestinationPoint(),0.2);
+            showCurvedPolyline(travel.getPickupPoint(), travel.getDestinationPoint(), 0.2);
             //Polyline polyline1 = mMap.addPolyline(new PolylineOptions().clickable(true).add(pickupLatLng,destinationLatLng).color(getPrimaryColor()).endCap(new RoundCap()).startCap(new RoundCap()));
         }, 1500);
         TransitionManager.beginDelayedTransition((ViewGroup) binding.getRoot(), (new TransitionSet()).addTransition(new Fade()));
@@ -566,7 +592,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
     private void goBackFromServiceSelection() {
         binding.drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED);
-        if(polylineOriginDestination!= null)
+        if (polylineOriginDestination != null)
             polylineOriginDestination.remove();
         markerMode = MarkerMode.origin;
         showPickupMarker();
@@ -587,16 +613,16 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         driverAcceptedDialog.show(getSupportFragmentManager(), "DialogDriversAccepted");
     }
 
-    private void showPickupMarker(){
+    private void showPickupMarker() {
         TransitionManager.beginDelayedTransition((ViewGroup) binding.getRoot(), new Fade());
-        if(binding.imageDestination.getVisibility() == View.VISIBLE)
+        if (binding.imageDestination.getVisibility() == View.VISIBLE)
             binding.imageDestination.setVisibility(View.GONE);
         binding.imagePickup.setVisibility(View.VISIBLE);
     }
 
-    private void showDestinationMarker(){
+    private void showDestinationMarker() {
         TransitionManager.beginDelayedTransition((ViewGroup) binding.getRoot(), new Fade());
-        if(binding.imagePickup.getVisibility() == View.VISIBLE)
+        if (binding.imagePickup.getVisibility() == View.VISIBLE)
             binding.imagePickup.setVisibility(View.GONE);
         binding.imageDestination.setVisibility(View.VISIBLE);
     }
@@ -650,7 +676,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                 if (result == AlertDialogBuilder.DialogResult.OK)
                     MainActivity.this.finishAffinity();
             });
-        if(markerMode == MarkerMode.destination)
+        if (markerMode == MarkerMode.destination)
             goBackFromDestinationSelection();
         if (markerMode == MarkerMode.serviceSelection)
             goBackFromServiceSelection();
@@ -746,13 +772,13 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
     @Subscribe(threadMode = MAIN)
     public void OnGetStatusResultReceived(GetStatusResultEvent event) {
-        if(event.hasError())
+        if (event.hasError())
             return;
         AlertDialogBuilder.show(MainActivity.this, getString(R.string.recovery_travel_message_rider), getString(R.string.message_default_title), AlertDialogBuilder.DialogButton.OK_CANCEL, result -> {
-            if(result == AlertDialogBuilder.DialogResult.OK) {
+            if (result == AlertDialogBuilder.DialogResult.OK) {
                 Intent intent = new Intent(MainActivity.this, TravelActivity.class);
-                intent.putExtra("travel",event.travel.toJson());
-                startActivityForResult(intent,ACTIVITY_TRAVEL);
+                intent.putExtra("travel", event.travel.toJson());
+                startActivityForResult(intent, ACTIVITY_TRAVEL);
 
             }
         });
@@ -805,26 +831,25 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         travel.setDriver(event.driverInfo.driver);
         travel.setCostBest(event.driverInfo.cost);
         Intent intent = new Intent(MainActivity.this, TravelActivity.class);
-        intent.putExtra("travel",travel.toJson());
-        startActivityForResult(intent,ACTIVITY_TRAVEL);
+        intent.putExtra("travel", travel.toJson());
+        startActivityForResult(intent, ACTIVITY_TRAVEL);
     }
 
-public void shortclick()
-{
-    Toast.makeText(this, "Why did you do that? That hurts!!!", Toast.LENGTH_LONG).show();
+    public void shortclick() {
+        Toast.makeText(this, "Why did you do that? That hurts!!!", Toast.LENGTH_LONG).show();
 
-}
+    }
 
-    public void longclick()
-    {
+    public void longclick() {
         Toast.makeText(this, "Why did you do that? That REALLY hurts!!!", Toast.LENGTH_LONG).show();
 
     }
+
     //method for sending sms
-    private void sendSMS(String phoneNumber, String message)
-    {
-        String SENT = "SMS_SENT";
-        String DELIVERED = "SMS_DELIVERED";
+    private void sendSMS(String phoneNumber, String message) {
+        SENT = "SMS_SENT";
+        DELIVERED = "SMS_DELIVERED";
+
 
         PendingIntent sentPI = PendingIntent.getBroadcast(this, 0,
                 new Intent(SENT), 0);
@@ -833,11 +858,10 @@ public void shortclick()
                 new Intent(DELIVERED), 0);
 
         //---when the SMS has been sent---
-        registerReceiver(new BroadcastReceiver(){
+        registerReceiver(new BroadcastReceiver() {
             @Override
             public void onReceive(Context arg0, Intent arg1) {
-                switch (getResultCode())
-                {
+                switch (getResultCode()) {
                     case Activity.RESULT_OK:
                         Toast.makeText(getBaseContext(), "SMS sent",
                                 Toast.LENGTH_SHORT).show();
@@ -860,14 +884,13 @@ public void shortclick()
                         break;
                 }
             }
-        },new IntentFilter(SENT));
+        }, new IntentFilter(SENT));
 
         //---when the SMS has been delivered---
-        registerReceiver(new BroadcastReceiver(){
+        registerReceiver(new BroadcastReceiver() {
             @Override
             public void onReceive(Context arg0, Intent arg1) {
-                switch (getResultCode())
-                {
+                switch (getResultCode()) {
                     case Activity.RESULT_OK:
                         Toast.makeText(getBaseContext(), "SMS delivered",
                                 Toast.LENGTH_SHORT).show();

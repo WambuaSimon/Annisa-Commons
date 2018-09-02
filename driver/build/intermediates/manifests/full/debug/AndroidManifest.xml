@@ -40,6 +40,7 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:fullBackupContent="true"
+        android:hardwareAccelerated="false"
         android:icon="@drawable/new_logo"
         android:label="@string/driver_app_name"
         android:largeHeap="true"

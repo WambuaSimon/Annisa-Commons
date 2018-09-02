@@ -93,7 +93,7 @@ public class RiderService extends Service {
             IO.Options options = new IO.Options();
             options.query = "token=" + connectEvent.token;
             options.reconnection = true;
-            socket = IO.socket("http://51.15.37.235:8080/", options);
+            socket = IO.socket("http://51.15.105.13:8080/", options);
             socket.on(Socket.EVENT_CONNECT, args -> {
                 eventBus.post(new ConnectResultEvent(ServerResponse.OK.getValue()));
                 eventBus.post(new SocketConnectionEvent(Socket.EVENT_CONNECT));
@@ -156,8 +156,8 @@ public class RiderService extends Service {
     private class LoginRequest extends AsyncTask<String, String, String> {
         @Override
         protected String doInBackground(String... uri) {
-            try {
-                URL url = new URL("http://51.15.37.235:8080/" + "rider_login");
+            try{
+                URL url = new URL( "http://51.15.105.13:8080/"+ "rider_login");
                 HttpURLConnection client = (HttpURLConnection) url.openConnection();
                 client.setRequestMethod("POST");
                 client.setDoOutput(true);
@@ -330,7 +330,7 @@ public class RiderService extends Service {
 
     @Override
     public void onDestroy() {
-        socket.disconnect();
+//        socket.disconnect();
         EventBus.getDefault().unregister(this);
         super.onDestroy();
     }

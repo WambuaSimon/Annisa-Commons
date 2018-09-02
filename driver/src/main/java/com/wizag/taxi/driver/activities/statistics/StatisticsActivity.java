@@ -3,8 +3,10 @@ package com.wizag.taxi.driver.activities.statistics;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
+import android.text.InputType;
 import android.view.View;
 
+import com.afollestad.materialdialogs.MaterialDialog;
 import com.wizag.taxi.common.components.BaseActivity;
 import com.wizag.taxi.common.utils.AlertDialogBuilder;
 import com.wizag.taxi.common.utils.AlerterHelper;
@@ -18,6 +20,14 @@ import com.wizag.taxi.driver.events.GetStatisticsResultEvent;
 import com.wizag.taxi.driver.events.PaymentRequestEvent;
 import com.wizag.taxi.driver.events.PaymentRequestResultEvent;
 import com.wizag.taxi.driver.models.Report;
+import com.wizag.taxi.common.components.BaseActivity;
+import com.wizag.taxi.common.utils.AlertDialogBuilder;
+import com.wizag.taxi.common.utils.CommonUtils;
+import com.wizag.taxi.common.utils.DateConverter;
+import com.wizag.taxi.driver.R;
+import com.wizag.taxi.driver.activities.statistics.charts.IncomeLineChart;
+import com.wizag.taxi.driver.events.GetStatisticsEvent;
+import com.wizag.taxi.driver.events.GetStatisticsResultEvent;
 
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
@@ -42,8 +52,7 @@ public class StatisticsActivity extends BaseActivity {
         binding.tabDate.addOnTabSelectedListener(tabSelectedListener);
         eventBus.post(new GetStatisticsEvent(GetStatisticsEvent.QueryTime.DAILY));
         binding.tabDate.setEnabled(false);
-        binding.textPaymentBound.setText(getString(R.string.payment_bound,CommonUtils.driver.getBalance(),
-                getResources().getInteger(R.integer.minimum_payment_request)));
+        binding.textPaymentBound.setText(getString(R.string.payment_bound, getString(R.string.unit_money,CommonUtils.driver.getBalance()), getString(R.string.unit_money, (double)getResources().getInteger(R.integer.minimum_payment_request))));
         if (!getResources().getBoolean(R.bool.request_payment_enabled)) {
             binding.paymentRequestCard.setVisibility(View.GONE);
         }

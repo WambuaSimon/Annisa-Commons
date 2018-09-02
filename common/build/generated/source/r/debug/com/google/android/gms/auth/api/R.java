@@ -84,7 +84,7 @@ public final class R {
         public static int common_open_on_phone = 0x7f15005f;
         public static int common_signin_button_text = 0x7f150060;
         public static int common_signin_button_text_long = 0x7f150061;
-        public static int pre_release_do_not_ship = 0x7f150150;
+        public static int pre_release_do_not_ship = 0x7f15014e;
     }
     public static final class styleable {
         public static int[] LoadingImageView = { 0x7f04007a, 0x7f040109, 0x7f04010a };

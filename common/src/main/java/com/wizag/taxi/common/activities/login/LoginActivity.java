@@ -2,6 +2,7 @@ package com.wizag.taxi.common.activities.login;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.databinding.DataBindingUtil;
 import android.graphics.Color;
 import android.os.Build;
@@ -112,6 +113,8 @@ public class LoginActivity extends BaseActivity {
                 txtCode = view.findViewById(R.id.text_code);
                 btnVerify.setOnClickListener(v -> {
                     eventBus.post(new VerifyCodeEvent(txtMobile.getText().toString(), txtCode.getText().toString()));
+
+
                     LoadingDialog.show(LoginActivity.this,getString(R.string.verifying));
                 });
             }
@@ -193,6 +196,7 @@ public class LoginActivity extends BaseActivity {
 
             HashMap<String, String> postDataParams = new HashMap<>();
             postDataParams.put("mobile", event.mobileNumber);
+
             StringBuilder result = new StringBuilder();
             boolean first = true;
             for (Map.Entry<String, String> entry : postDataParams.entrySet()) {
@@ -250,6 +254,7 @@ public class LoginActivity extends BaseActivity {
             HashMap<String, String> postDataParams = new HashMap<>();
             postDataParams.put("mobile", event.mobileNumber);
             postDataParams.put("code", event.code);
+
             StringBuilder result = new StringBuilder();
             boolean first = true;
             for (Map.Entry<String, String> entry : postDataParams.entrySet()) {

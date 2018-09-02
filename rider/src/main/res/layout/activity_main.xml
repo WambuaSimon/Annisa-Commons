@@ -86,6 +86,16 @@
                     app:layout_constraintTop_toTopOf="parent"
                     app:srcCompat="@drawable/marker_pickup"
                     tools:ignore="ContentDescription" />
+<!--
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:id="@+id/phone_txt"
+                    android:text="@{String.valueOf(user.mobileNumber)}"
+                    android:visibility="gone"
+                    android:layout_height="wrap_content" />
+-->
+
 
                 <ImageView
                     android:id="@+id/image_destination"
@@ -176,7 +186,7 @@
                 android:clickable="true"
                 android:src="@drawable/alert"
                 android:visibility="visible"
-                app:backgroundTint="@android:color/transparent"
+                app:backgroundTint="@android:color/holo_red_dark"
                 app:layout_constraintTop_toTopOf="parent" />
         </android.support.design.widget.CoordinatorLayout>
 
