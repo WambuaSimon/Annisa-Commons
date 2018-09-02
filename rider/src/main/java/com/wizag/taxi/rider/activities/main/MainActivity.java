@@ -469,7 +469,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
     public void findPlace(String preText) {
         try {
-            AutocompleteFilter autocompleteFilter = (new AutocompleteFilter.Builder()).setTypeFilter(AutocompleteFilter.TYPE_FILTER_ADDRESS).build();
+            AutocompleteFilter autocompleteFilter = (new AutocompleteFilter.Builder()).setTypeFilter(Place.TYPE_COUNTRY).setCountry("KE").build();
             Intent intent =
                     new PlaceAutocomplete.IntentBuilder(PlaceAutocomplete.MODE_FULLSCREEN)
                             .setFilter(autocompleteFilter)

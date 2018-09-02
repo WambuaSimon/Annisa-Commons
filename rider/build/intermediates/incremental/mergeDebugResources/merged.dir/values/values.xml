@@ -1774,7 +1774,7 @@
     <string name="alert_ok">OK</string>
     <string name="alert_retry">Retry</string>
     <string name="alert_send">Send</string>
-    <string name="app_name">Annisa</string>
+    <string name="app_name">Taxi</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="call">Call</string>
@@ -1793,7 +1793,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">74338ff2-7f5e-4539-ac98-6c0775ba4aaa</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">70410416-34ea-49db-b6ab-c29de4d85a3e</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1818,7 +1818,7 @@
     <string name="confirm_service_empty">Confirm Service</string>
     <string name="connecting_server">Connecting Server…</string>
     <string name="connection_dialog_title">Connecting…</string>
-    <string name="copyright_notice">www.wizag.biz</string>
+    <string name="copyright_notice">Copyright© 2018 Innomalist All Rights reserved.</string>
     <string name="cost">Travel Cost</string>
     <string name="current_balance">Current balance</string>
     <string name="defaultLocation" translatable="false">-1.292066, 36.821945</string>
@@ -1845,13 +1845,12 @@
     <string name="drawer_statistics">Statistics</string>
     <string name="drawer_support">Support</string>
     <string name="drawer_travels">Travels</string>
-    <string name="driver_app_name">Annisa Driver</string>
+    <string name="driver_app_name">Taxi Driver</string>
     <string name="driver_card_distance">Distance</string>
     <string name="driver_card_eta">ETA</string>
     <string name="driver_card_fee">Fee</string>
     <string name="driver_card_rating">Rating</string>
     <string name="driver_id">ID</string>
-    <string name="drop_location">"Drop Location"</string>
     <string name="duration">Duration</string>
     <string name="edit_address">Edit</string>
     <string name="edit_address_dialog_title">Edit Address</string>
@@ -2032,7 +2031,7 @@
     <string name="message_loading_travels">Loading Travel List</string>
     <string name="message_logout">Are you sure you want to logout?</string>
     <string name="message_payment_request_sent">Payment Request has been sent.</string>
-    <string name="message_permission_denied"><![CDATA[If you reject permission,you can not use this service  Please turn on permissions at [Setting] > [Permission]]]></string>
+    <string name="message_permission_denied">If you reject permission,you can not use this service  Please turn on permissions at [Setting] > [Permission]</string>
     <string name="message_review_sent">You review has been sent.</string>
     <string name="message_travel_started">Travel has been started.</string>
     <string name="message_verification">Enter your mobile number that you want to receive activation code.</string>
@@ -2068,12 +2067,11 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="payment_bound">%1$.2f of %2$.2f</string>
+    <string name="payment_bound">%s of %s</string>
     <string name="payment_currency" translatable="false">usd</string>
     <string name="payment_request">payment request</string>
     <string name="picker_folder">Folder</string>
     <string name="picker_tap_select">Tap to select</string>
-    <string name="pickup_location">"Pickup Location"</string>
     <string name="place_autocomplete_clear_button">Clear search</string>
     <string name="place_autocomplete_search_hint">Search</string>
     <string name="plate_number">Plate Number</string>
@@ -2174,6 +2172,7 @@
     <string name="ucrop_mutate_exception_hint">Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices</string>
     <string name="unit_distance">%.1f Km</string>
     <string name="unit_distance_bare">Km</string>
+    <string name="unit_distance_miles">%.1f miles</string>
     <string name="unit_minute">%d min</string>
     <string name="unit_money">$%.2f</string>
     <string name="unit_second">%s sec</string>

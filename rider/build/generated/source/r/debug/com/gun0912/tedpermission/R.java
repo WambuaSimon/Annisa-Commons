@@ -596,10 +596,10 @@ public final class R {
         public static final int abc_shareactionprovider_share_with_application = 0x7f11001b;
         public static final int abc_toolbar_collapse_description = 0x7f11001c;
         public static final int app_name = 0x7f110035;
-        public static final int status_bar_notification_info_overflow = 0x7f11017b;
-        public static final int tedpermission_close = 0x7f110182;
-        public static final int tedpermission_confirm = 0x7f110183;
-        public static final int tedpermission_setting = 0x7f110184;
+        public static final int status_bar_notification_info_overflow = 0x7f110179;
+        public static final int tedpermission_close = 0x7f110180;
+        public static final int tedpermission_confirm = 0x7f110181;
+        public static final int tedpermission_setting = 0x7f110182;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat = 0x7f120000;
