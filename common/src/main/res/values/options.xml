@@ -7,7 +7,8 @@
     <string name="playStore" translatable="false"></string>
     <string name="server_address" translatable="false">http://51.15.105.13:8080/</string>
     <string name="fabric_key" templateMergeStrategy="preserve" translatable="false"></string>
-    <string name="stripe_publishable_key" translatable="false"></string>
+    <string name="stripe_publishable_key" translatable="false">pk_test_N9sMYtk8vr0C8Gc9qgLdfFfU
+</string>
     <string name="payment_currency" translatable="false">usd</string>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCuvpAtxIaBBscUIyIv6wQ69rh093UOTpY</string>
     <string name="defaultLocation" translatable="false">-1.292066, 36.821945</string>

@@ -2041,7 +2041,8 @@
     <string name="stats_monthly">Monthly</string>
     <string name="stats_weekly">Weekly</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stripe_publishable_key" translatable="false"/>
+    <string name="stripe_publishable_key" translatable="false">pk_test_N9sMYtk8vr0C8Gc9qgLdfFfU
+</string>
     <string name="subject">Subject</string>
     <string name="summary_collapsed_preference_list"><ns2:g id="current_items">%1$s</ns2:g>, <ns2:g id="added_items">%2$s</ns2:g></string>
     <string name="tab_driver_info">Driver Info</string>
