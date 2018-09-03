@@ -1793,7 +1793,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">d62b2229-5b10-48e6-80cd-91691a78b666</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">40c25dc4-ba9c-4903-99db-66f893c6f34a</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1818,7 +1818,7 @@
     <string name="confirm_service_empty">Confirm Service</string>
     <string name="connecting_server">Connecting Server…</string>
     <string name="connection_dialog_title">Connecting…</string>
-    <string name="copyright_notice">Copyright© 2018 Innomalist All Rights reserved.</string>
+    <string name="copyright_notice">For women, by women.</string>
     <string name="cost">Travel Cost</string>
     <string name="current_balance">Current balance</string>
     <string name="defaultLocation" translatable="false">-1.292066, 36.821945</string>
@@ -2006,7 +2006,7 @@
     <string name="google_api_key" translatable="false">AIzaSyAOSh0kRr6VJwff7fckyAVEjhgVF-QhUV8</string>
     <string name="google_app_id" translatable="false">1:204295104071:android:db7d72c9f13d673d</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOSh0kRr6VJwff7fckyAVEjhgVF-QhUV8</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCuvpAtxIaBBscUIyIv6wQ69rh093UOTpY</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBv30VKm6OBN1GOJS0uPhICURZBa-0vSzQ</string>
     <string name="google_storage_bucket" translatable="false">anisa-reloaded.appspot.com</string>
     <string name="hello_world">Hello world!</string>
     <string name="hide_travel">Hide Travel</string>

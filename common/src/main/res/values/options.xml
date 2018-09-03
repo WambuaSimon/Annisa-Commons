@@ -10,7 +10,7 @@
     <string name="stripe_publishable_key" translatable="false">pk_test_N9sMYtk8vr0C8Gc9qgLdfFfU
 </string>
     <string name="payment_currency" translatable="false">usd</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCuvpAtxIaBBscUIyIv6wQ69rh093UOTpY</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBv30VKm6OBN1GOJS0uPhICURZBa-0vSzQ</string>
     <string name="defaultLocation" translatable="false">-1.292066, 36.821945</string>
     <string name="theme" translatable="false">Amaranth</string>
     <string name="default_country_code" translatable="false">+254</string>

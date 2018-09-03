@@ -154,7 +154,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@={user.address}"/>
-                    <com.arlib.floatingsearchview.FloatingSearchView
+                   <!-- <com.arlib.floatingsearchview.FloatingSearchView
                         android:id="@+id/search_place"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -184,7 +184,7 @@
                             android:layout_marginTop="22dp"/>
 
 
-                    </com.arlib.floatingsearchview.FloatingSearchView>
+                    </com.arlib.floatingsearchview.FloatingSearchView>-->
                 </android.support.design.widget.TextInputLayout>
             </LinearLayout>
         </android.support.v4.widget.NestedScrollView>

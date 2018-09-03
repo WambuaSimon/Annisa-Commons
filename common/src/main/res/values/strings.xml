@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="login">Login/Sign Up</string>
-    <string name="copyright_notice">Copyright© 2018 Innomalist All Rights reserved.</string>
+    <string name="copyright_notice">For women, by women.</string>
     <string name="connecting_server">Connecting Server…</string>
     <string name="drawer_header_unknown">Unknown</string>
     <string name="alert_ok">OK</string>

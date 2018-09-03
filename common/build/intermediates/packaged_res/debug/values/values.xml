@@ -332,7 +332,7 @@
     <string name="confirm_service_empty">Confirm Service</string>
     <string name="connecting_server">Connecting Server…</string>
     <string name="connection_dialog_title">Connecting…</string>
-    <string name="copyright_notice">Copyright© 2018 Innomalist All Rights reserved.</string>
+    <string name="copyright_notice">For women, by women.</string>
     <string name="cost">Travel Cost</string>
     <string name="current_balance">Current balance</string>
     <string name="defaultLocation" translatable="false">-1.292066, 36.821945</string>
@@ -412,7 +412,7 @@
     <string name="gender_female">Female</string>
     <string name="gender_male">Male</string>
     <string name="gender_unknown">Unknown</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCuvpAtxIaBBscUIyIv6wQ69rh093UOTpY</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBv30VKm6OBN1GOJS0uPhICURZBa-0vSzQ</string>
     <string name="hide_travel">Hide Travel</string>
     <string name="id_header"># %d</string>
     <string name="info">Info</string>

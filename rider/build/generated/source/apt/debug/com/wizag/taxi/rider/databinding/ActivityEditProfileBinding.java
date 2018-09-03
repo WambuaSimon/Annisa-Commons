@@ -23,8 +23,6 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
         sViewsWithIds.put(R.id.first_name_text_layout, 14);
         sViewsWithIds.put(R.id.last_name_text_layout, 15);
         sViewsWithIds.put(R.id.address_text_layout, 16);
-        sViewsWithIds.put(R.id.search_place, 17);
-        sViewsWithIds.put(R.id.search_text, 18);
     }
     // views
     @NonNull
@@ -57,10 +55,6 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
     public final android.support.design.widget.TextInputLayout mobileTextLayout;
     @NonNull
     public final de.hdodenhof.circleimageview.CircleImageView profileImage;
-    @NonNull
-    public final com.arlib.floatingsearchview.FloatingSearchView searchPlace;
-    @NonNull
-    public final android.widget.TextView searchText;
     @NonNull
     public final com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner spinnerGender;
     @NonNull
@@ -206,7 +200,7 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
 
     public ActivityEditProfileBinding(@NonNull android.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
         super(bindingComponent, root, 1);
-        final Object[] bindings = mapBindings(bindingComponent, root, 19, sIncludes, sViewsWithIds);
+        final Object[] bindings = mapBindings(bindingComponent, root, 17, sIncludes, sViewsWithIds);
         this.addressTextLayout = (android.support.design.widget.TextInputLayout) bindings[16];
         this.appBarLayout = (android.support.design.widget.AppBarLayout) bindings[8];
         this.collapseToolbar = (android.support.design.widget.CollapsingToolbarLayout) bindings[9];
@@ -229,8 +223,6 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
         this.mobileTextLayout = (android.support.design.widget.TextInputLayout) bindings[12];
         this.profileImage = (de.hdodenhof.circleimageview.CircleImageView) bindings[1];
         this.profileImage.setTag(null);
-        this.searchPlace = (com.arlib.floatingsearchview.FloatingSearchView) bindings[17];
-        this.searchText = (android.widget.TextView) bindings[18];
         this.spinnerGender = (com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner) bindings[6];
         this.spinnerGender.setTag(null);
         this.toolbar = (android.support.v7.widget.Toolbar) bindings[11];
