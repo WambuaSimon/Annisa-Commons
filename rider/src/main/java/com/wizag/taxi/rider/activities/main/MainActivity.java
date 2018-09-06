@@ -287,7 +287,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                                     @Override
                                     public void onClick(DialogInterface dialogInterface, int i) {
                                         //set what should happen when negative button is clicked
-                                        Toast.makeText(getApplicationContext(), "Nothing Happened", Toast.LENGTH_LONG).show();
+                                        Toast.makeText(getApplicationContext(), "SOS message cancelled.", Toast.LENGTH_LONG).show();
                                     }
                                 })
                                 .show();
@@ -905,6 +905,11 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
 
         SmsManager sms = SmsManager.getDefault();
         sms.sendTextMessage(phoneNumber, null, message, sentPI, deliveredPI);
+    }
+    public void displayToast(View v)
+    {
+        Toast.makeText(MainActivity.this,"Emergency button",Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this,"Long press to send SOS",Toast.LENGTH_SHORT).show();
     }
 
 }

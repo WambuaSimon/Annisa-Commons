@@ -24,7 +24,10 @@
     <string name="prompt_location_service">You need to enable driverLocations service in following dialog</string>
     <string name="prompt_storage_rw">You need to grant access to storage in following dialog</string>
     <string name="prompt_contacts_rw">Contacts Read and write are needed for app functionality.</string>
+
     <string name="service_card_cost">Cost: %.2f Ksh</string>
+
+
     <string name="unit_money">Ksh%.2f</string>
     <string name="unit_distance">%.1f Km</string>
     <string name="unit_distance_miles">%.1f miles</string>

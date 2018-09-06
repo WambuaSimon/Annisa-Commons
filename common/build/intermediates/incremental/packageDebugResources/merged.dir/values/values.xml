@@ -350,7 +350,7 @@
     <string name="drawer_edit_profile">Edit Profile</string>
     <string name="drawer_exit">Exit</string>
     <string name="drawer_favorite_locations">Favorite Locations</string>
-    <string name="drawer_header_balance">Credit: %.2f $</string>
+    <string name="drawer_header_balance">Credit: %.2f Ksh</string>
     <string name="drawer_header_unknown">Unknown</string>
     <string name="drawer_invite_friends">Send Invitation</string>
     <string name="drawer_options">Options</string>
@@ -481,7 +481,7 @@
     <string name="sending_complaint">Sending Complaint…</string>
     <string name="server_address" translatable="false">http://51.15.105.13:8080/</string>
     <string name="service_canceled">Service Was canceled</string>
-    <string name="service_card_cost">Cost: %.2f $</string>
+    <string name="service_card_cost">Cost: %.2f Ksh</string>
     <string name="service_finished_cash">Service has been finished but there was not sufficient credit. Ask for cash</string>
     <string name="service_finished_credit">Service has been finished and credit has been added to your account.</string>
     <string name="service_finishing">Service finishing…</string>
@@ -538,7 +538,7 @@
     <string name="unit_distance_bare">Km</string>
     <string name="unit_distance_miles">%.1f miles</string>
     <string name="unit_minute">%d min</string>
-    <string name="unit_money">$%.2f</string>
+    <string name="unit_money">Ksh%.2f</string>
     <string name="unit_second">%s sec</string>
     <string name="unknown_location">Unknown</string>
     <string name="upload_ride">Upload your ride\'s image</string>
@@ -564,7 +564,7 @@
         <item name="colorAccent">#d678ad</item>
         <item name="colorControlHighlight">#d678ad</item>
         <item name="fontFamily">@font/roboto</item>
-        
+        <!--Note:This Line will be needed when we are going to user preference compat library<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
     </style>
     <style name="AppTheme.Amber" parent="Theme.AppCompat.DayNight.NoActionBar">
         <item name="colorPrimary">@color/md_amber_500</item>

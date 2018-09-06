@@ -292,6 +292,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-hdpi-v4/marker_taxiold.png",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/drawable-hdpi/marker_taxiold.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },

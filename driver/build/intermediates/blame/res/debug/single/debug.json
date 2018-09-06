@@ -892,6 +892,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/res/merged/debug/drawable-xxhdpi_alert.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/drawable-xxhdpi/alert.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
@@ -3686,6 +3690,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/res/merged/debug/drawable-v21_ic_arrow_down_24dp.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/drawable-v21/ic_arrow_down_24dp.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/res/merged/debug/drawable-hdpi-v4_marker_taxiold.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-hdpi-v4/marker_taxiold.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",

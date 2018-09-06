@@ -3900,6 +3900,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/2e9a25109dc11853b95080fe8368853a/res/drawable-xxxhdpi-v4/ef_ic_done_white.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_marker_taxiold.png.flat",
+        "source": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/packaged_res/debug/drawable-hdpi-v4/marker_taxiold.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/android-v1.3/rider/build/intermediates/res/merged/debug/drawable_ic_billing_mastercard_logo.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/ic_billing_mastercard_logo.png"
     },

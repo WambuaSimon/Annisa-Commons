@@ -21,8 +21,9 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
         sViewsWithIds.put(R.id.map_layout, 5);
         sViewsWithIds.put(R.id.bottom_sheet, 6);
         sViewsWithIds.put(R.id.requests_view_pager, 7);
-        sViewsWithIds.put(R.id.request_show_fab, 8);
-        sViewsWithIds.put(R.id.navigation_view, 9);
+        sViewsWithIds.put(R.id.floatingActionButton, 8);
+        sViewsWithIds.put(R.id.request_show_fab, 9);
+        sViewsWithIds.put(R.id.navigation_view, 10);
     }
     // views
     @NonNull
@@ -33,6 +34,8 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
     public final android.support.v7.widget.CardView bottomSheet;
     @NonNull
     public final android.support.v4.widget.DrawerLayout drawerLayout;
+    @NonNull
+    public final android.support.design.widget.FloatingActionButton floatingActionButton;
     @NonNull
     public final android.widget.LinearLayout mapLayout;
     @NonNull
@@ -52,15 +55,16 @@ public class ActivityMainBinding extends android.databinding.ViewDataBinding  {
 
     public ActivityMainBinding(@NonNull android.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
         super(bindingComponent, root, 0);
-        final Object[] bindings = mapBindings(bindingComponent, root, 10, sIncludes, sViewsWithIds);
+        final Object[] bindings = mapBindings(bindingComponent, root, 11, sIncludes, sViewsWithIds);
         this.appbar = (android.support.v7.widget.Toolbar) bindings[2];
         this.appbarLayout = (android.support.design.widget.AppBarLayout) bindings[1];
         this.bottomSheet = (android.support.v7.widget.CardView) bindings[6];
         this.drawerLayout = (android.support.v4.widget.DrawerLayout) bindings[0];
         this.drawerLayout.setTag(null);
+        this.floatingActionButton = (android.support.design.widget.FloatingActionButton) bindings[8];
         this.mapLayout = (android.widget.LinearLayout) bindings[5];
-        this.navigationView = (android.support.design.widget.NavigationView) bindings[9];
-        this.requestShowFab = (android.support.design.widget.FloatingActionButton) bindings[8];
+        this.navigationView = (android.support.design.widget.NavigationView) bindings[10];
+        this.requestShowFab = (android.support.design.widget.FloatingActionButton) bindings[9];
         this.requestsViewPager = (android.support.v4.view.ViewPager) bindings[7];
         this.switchConnection = (android.widget.Switch) bindings[4];
         this.textView3 = (android.widget.TextView) bindings[3];

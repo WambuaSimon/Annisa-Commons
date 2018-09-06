@@ -127,7 +127,9 @@ public class DriverService extends Service {
                     .on("requestReceived", args -> {
                         try {
                             eventBus.post(new RequestReceivedEvent(args[0].toString(), (Integer) args[1], (Integer) args[2], Double.valueOf(args[3].toString())));
-                           Intent notificationIntent = new Intent(getBaseContext(), MainActivity.class);
+
+                            Intent notificationIntent = new Intent(getBaseContext(), MainActivity.class);
+
                             PendingIntent contentIntent = PendingIntent.getActivity(getBaseContext(), 0, notificationIntent, 0);
                             NotificationCompat.Builder mBuilder =
                                     new NotificationCompat.Builder(DriverService.this)
@@ -140,6 +142,7 @@ public class DriverService extends Service {
                                             .setContentText(getString(R.string.notification_requests_waiting));
                             NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
                             Notification notification = mBuilder.build();
+
                           notification.flags |= Notification.FLAG_ONGOING_EVENT;
                             notificationManager.notify(0, notification);
                         } catch (Exception c) {

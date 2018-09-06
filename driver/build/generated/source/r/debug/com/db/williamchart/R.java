@@ -40,9 +40,9 @@ public final class R {
         public static final int set_spacing = 0x7f07011b;
     }
     public static final class id {
-        public static final int inside = 0x7f0a00f0;
-        public static final int none = 0x7f0a014e;
-        public static final int outside = 0x7f0a0155;
+        public static final int inside = 0x7f0a00f1;
+        public static final int none = 0x7f0a014f;
+        public static final int outside = 0x7f0a0156;
     }
     public static final class styleable {
         public static final int[] BarChartAttrs = { 0x7f04007b, 0x7f04007c, 0x7f04007d, 0x7f040081 };

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.medyo:android-about-page-1.2.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/52a0b61ea5b0c80a7e99bdd8ca3c03b3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/52a0b61ea5b0c80a7e99bdd8ca3c03b3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
