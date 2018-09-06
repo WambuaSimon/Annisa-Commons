@@ -441,7 +441,7 @@
     <string name="message_verify">A code has been sent to your phone. Enter it here.</string>
     <string name="mobile_number">Mobile Number</string>
     <string name="notification_driver_in_location">Driver in driverLocations</string>
-    <string name="notification_requests_waiting"/>
+    <string name="notification_requests_waiting">Incoming request</string>
     <string name="operator_call">Request Operator Call</string>
     <string name="origin">Origin</string>
     <string name="payment_bound">%s of %s</string>
@@ -515,7 +515,7 @@
     <string name="travel_fee_dialog_content">Enter the fee of travel:</string>
     <string name="travel_fee_dialog_hint">Amount</string>
     <string name="travel_fee_dialog_title">Travel Fee</string>
-    <string name="travel_finished_not_sufficient_balance">Trip has been finished balance was not sufficient. Please pay %.2f in cash.</string>
+    <string name="travel_finished_not_sufficient_balance">Trip has been finished. Please pay %.2f in cash.</string>
     <string name="travel_finished_taken_from_balance">Trip has been finished and amount of Balance Amount: %.2f has been removed from your balance</string>
     <string name="travel_number_title">No.: %d</string>
     <string name="travel_status_driver_accepted">Driver Accepted</string>

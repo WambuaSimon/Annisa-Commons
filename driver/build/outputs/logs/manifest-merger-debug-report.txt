@@ -72,6 +72,7 @@ MERGED from [com.ramotion.foldingcell:folding-cell:1.2.1] /home/wizag/.gradle/ca
 MERGED from [se.emilsjolander:stickylistheaders:2.7.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/stickylistheaders-2.7.0.aar/66748236e4d7fb4e6c4561d56862b823/AndroidManifest.xml:2:1-11:12
 MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/AndroidManifest.xml:2:1-20:12
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:2:1-11:12
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:2:1-13:12
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.1.aar/42b89784562de6568c190093d4d90c4f/AndroidManifest.xml:45:1-56:12
 MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/b7eb4c0458083d2191641d6b6f618118/AndroidManifest.xml:2:1-13:12
@@ -271,6 +272,8 @@ MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/trans
 MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/AndroidManifest.xml:12:5-18:19
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:12:5-20
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:12:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:9:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.1.aar/42b89784562de6568c190093d4d90c4f/AndroidManifest.xml:54:5-20
@@ -564,6 +567,8 @@ MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/trans
 MERGED from [com.tapadoo.android:alerter:2.0.4] /home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/AndroidManifest.xml:7:5-10:72
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:8:5-10:41
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] /home/wizag/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.8.aar/0d49dd30f30d45389c124402ead0d6a2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/wizag/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/e7e2f6d67ba597cb8bcc84e9b6fea5f8/AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.1.aar/42b89784562de6568c190093d4d90c4f/AndroidManifest.xml:50:5-43

@@ -54,7 +54,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
-public class TravelActivity extends DriverBaseActivity implements OnMapReadyCallback {
+public class  TravelActivity extends DriverBaseActivity implements OnMapReadyCallback {
     Travel travel;
     GoogleMap gMap;
     boolean endTravel = false;

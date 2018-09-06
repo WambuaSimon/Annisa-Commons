@@ -1,5 +1,8 @@
 package com.wizag.taxi.driver.services;
 
+import android.app.Notification;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
@@ -7,6 +10,7 @@ import android.os.AsyncTask;
 import android.os.IBinder;
 import android.os.Vibrator;
 import android.support.annotation.Nullable;
+import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
 import com.google.gson.Gson;
@@ -40,6 +44,7 @@ import com.wizag.taxi.common.utils.CommonUtils;
 import com.wizag.taxi.common.utils.MyPreferenceManager;
 import com.wizag.taxi.common.utils.ServerResponse;
 import com.wizag.taxi.driver.R;
+import com.wizag.taxi.driver.activities.main.MainActivity;
 import com.wizag.taxi.driver.events.ChangeHeaderImageEvent;
 import com.wizag.taxi.driver.events.ChangeHeaderImageResultEvent;
 import com.wizag.taxi.driver.events.ChangeStatusEvent;
@@ -122,7 +127,7 @@ public class DriverService extends Service {
                     .on("requestReceived", args -> {
                         try {
                             eventBus.post(new RequestReceivedEvent(args[0].toString(), (Integer) args[1], (Integer) args[2], Double.valueOf(args[3].toString())));
-                            /*Intent notificationIntent = new Intent(getBaseContext(), MainActivity.class);
+                           Intent notificationIntent = new Intent(getBaseContext(), MainActivity.class);
                             PendingIntent contentIntent = PendingIntent.getActivity(getBaseContext(), 0, notificationIntent, 0);
                             NotificationCompat.Builder mBuilder =
                                     new NotificationCompat.Builder(DriverService.this)
@@ -132,11 +137,11 @@ public class DriverService extends Service {
                                             .setContentIntent(contentIntent)
                                             .setAutoCancel(true)
                                             .setOngoing(true)
-                                            .setContentText(getString(R.string.notification_requests_waiting, CommonUtils.requests.size()));
+                                            .setContentText(getString(R.string.notification_requests_waiting));
                             NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
                             Notification notification = mBuilder.build();
-                            //notification.flags |= Notification.FLAG_ONGOING_EVENT;
-                            notificationManager.notify(0, notification);*/
+                          notification.flags |= Notification.FLAG_ONGOING_EVENT;
+                            notificationManager.notify(0, notification);
                         } catch (Exception c) {
                             c.printStackTrace();
                         }

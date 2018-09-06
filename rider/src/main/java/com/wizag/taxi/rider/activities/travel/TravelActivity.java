@@ -2,6 +2,7 @@ package com.wizag.taxi.rider.activities.travel;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.net.Uri;
@@ -10,8 +11,14 @@ import android.support.design.widget.TabLayout;
 import android.support.v4.app.FragmentManager;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
@@ -34,6 +41,7 @@ import com.wizag.taxi.common.models.Travel;
 import com.wizag.taxi.common.utils.AlertDialogBuilder;
 import com.wizag.taxi.common.utils.AlerterHelper;
 import com.wizag.taxi.common.utils.CommonUtils;
+import com.wizag.taxi.common.utils.MyPreferenceManager;
 import com.wizag.taxi.common.utils.ServerResponse;
 import com.wizag.taxi.rider.R;
 import com.wizag.taxi.rider.activities.travel.adapters.TravelTabsViewPagerAdapter;
@@ -48,10 +56,14 @@ import com.transitionseverywhere.TransitionManager;
 
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.sql.Timestamp;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class TravelActivity extends BaseActivity implements OnMapReadyCallback, ReviewDialog.onReviewFragmentInteractionListener, TabStatisticsFragment.onTravelInfoReceived {
     ActivityTravelBinding binding;
@@ -62,10 +74,13 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
     LatLng driverLocation;
     GoogleMap gMap;
     TravelTabsViewPagerAdapter travelTabsViewPagerAdapter;
+    MyPreferenceManager SP;
+    String Pay_URL = "http://ipayannisa.wizag.biz/api/pay";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        SP = MyPreferenceManager.getInstance(getApplicationContext());
         binding = DataBindingUtil.setContentView(this, R.layout.activity_travel);
         travel = Travel.fromJson(getIntent().getStringExtra("travel"));
         binding.slideCancel.setOnSlideCompleteListener(slideView -> eventBus.post(new ServiceCancelEvent()));
@@ -75,13 +90,13 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
         travelTabsViewPagerAdapter = new TravelTabsViewPagerAdapter(getSupportFragmentManager(), TravelActivity.this, travel);
         binding.viewpager.setAdapter(travelTabsViewPagerAdapter);
         binding.tabLayout.setupWithViewPager(binding.viewpager);
-        if(travel.getRating() != null) {
+        if (travel.getRating() != null) {
             travelTabsViewPagerAdapter.deletePage(2);
             TabLayout.Tab tab = binding.tabLayout.getTabAt(0);
             if (tab != null)
                 tab.select();
         }
-        if(travel.getStartTimestamp() != null) {
+        if (travel.getStartTimestamp() != null) {
             TransitionManager.beginDelayedTransition((ViewGroup) (binding.getRoot()));
             binding.slideCall.setVisibility(View.GONE);
             binding.slideCancel.setVisibility(View.GONE);
@@ -95,12 +110,22 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
         if (event.isCreditUsed)
             message = getString(R.string.travel_finished_taken_from_balance, event.amount);
         else
+
             message = getString(R.string.travel_finished_not_sufficient_balance, event.amount);
+
+        long riderMobile = travel.getRider().getMobileNumber();
+//        Toast.makeText(this, ""+riderMobile, Toast.LENGTH_SHORT).show();
+
         new MaterialDialog.Builder(this)
                 .title(R.string.message_default_title)
                 .content(message)
-                .positiveText(R.string.alert_ok)
+                .positiveText("Pay via Mpesa")
                 .onPositive((dialog, which) -> {
+                    /*get rider's phone number*/
+
+                    /*invoke stk push*/
+                    Pay();
+
                     if (travelTabsViewPagerAdapter.getCount() == 2) {
                         finish();
                         return;
@@ -108,7 +133,14 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
                     FragmentManager fm = getSupportFragmentManager();
                     ReviewDialog reviewDialog = ReviewDialog.newInstance();
                     reviewDialog.show(fm, "fragment_review_travel");
-                }).show();
+                })
+                .negativeText("Pay Cash")
+                .onNegative(((dialog, which) -> {
+                    finish();
+                }))
+
+                .show();
+
     }
 
     @Subscribe(threadMode = ThreadMode.MAIN)
@@ -266,4 +298,71 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
         this.driverLocation = driverLocation;
         updateMarkers();
     }
+
+    private void Pay() {
+
+        com.android.volley.RequestQueue queue = Volley.newRequestQueue(TravelActivity.this);
+        final ProgressDialog pDialog = new ProgressDialog(this);
+        pDialog.setMessage("Loading...");
+        pDialog.setCancelable(false);
+//        pDialog.setIndeterminate(false);
+        pDialog.show();
+        // Request a string response from the provided URL.
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, Pay_URL,
+                new com.android.volley.Response.Listener<String>() {
+                    @Override
+                    public void onResponse(String response) {
+                        try {
+
+                            JSONObject jsonObject = new JSONObject(response);
+                            pDialog.dismiss();
+                           /* JSONObject data = jsonObject.getJSONObject("data");
+                            String success_message = data.getString("message");
+                            // Snackbar.make(sell_layout, "New Request Created Successfully" , Snackbar.LENGTH_LONG).show();
+                            //Snackbar.make(sell_layout, "New request created successfully", Snackbar.LENGTH_LONG).show();
+                            Toast.makeText(getApplicationContext(), success_message, Toast.LENGTH_SHORT).show();
+//                            createEmployee(scanned_id_to_int, scanned_name, current_location, time, date, wage_txt, dob_txt, id_photo,flag_checkin);
+
+                            startActivity(new Intent(getApplicationContext(), Activity_Dashboard.class));
+                            finish();
+*/
+
+
+//                            finish();
+
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+
+                        //Toast.makeText(Activity_Buy.this, "", Toast.LENGTH_SHORT).show();
+                    }
+                }, new com.android.volley.Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+
+                Toast.makeText(TravelActivity.this, "An Error Occurred", Toast.LENGTH_SHORT).show();
+
+                pDialog.dismiss();
+            }
+        }) {
+            //adding parameters to the request
+            @Override
+            protected Map<String, String> getParams() throws AuthFailureError {
+                Map<String, String> params = new HashMap<>();
+                params.put("amount", "100");
+                params.put("rider_number", "0714980450");
+
+
+                //params.put("code", "blst786");
+                //  params.put("")
+                return params;
+            }
+
+
+        };
+// Add the request to the RequestQueue.
+        queue.add(stringRequest);
+    }
+
+
 }

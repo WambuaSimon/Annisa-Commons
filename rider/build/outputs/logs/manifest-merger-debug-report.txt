@@ -15,6 +15,7 @@ MERGED from [com.airbnb.android:lottie:2.2.5] /home/wizag/.gradle/caches/transfo
 MERGED from [at.wirecube:additive_animations:1.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/additive_animations-1.3.1.aar/fed2b67ae6089387b40e3088375a12f4/AndroidManifest.xml:17:1-28:12
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.gms:play-services-places:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/eec48507d69f593a781a769de98883cb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:2:1-9:12
 MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:2:1-15:12
@@ -238,6 +239,8 @@ MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.android.gms:play-services-places:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/eec48507d69f593a781a769de98883cb/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/eec48507d69f593a781a769de98883cb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:9:5-20
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:7:5-20
@@ -484,6 +487,8 @@ MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:7:5-43
 MERGED from [com.google.android.gms:play-services-places:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/eec48507d69f593a781a769de98883cb/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/eec48507d69f593a781a769de98883cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/3b7c93e5dfc105a7a0e5ac2524579671/AndroidManifest.xml:7:5-43
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:5:5-43
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:5:5-43
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:5:5-44

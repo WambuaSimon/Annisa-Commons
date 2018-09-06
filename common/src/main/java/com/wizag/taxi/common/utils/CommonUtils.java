@@ -11,10 +11,12 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.wizag.taxi.common.R;
 import com.wizag.taxi.common.models.Driver;
+import com.wizag.taxi.common.models.Request;
 import com.wizag.taxi.common.models.Rider;
 
 public class CommonUtils {
     public static Driver driver;
+    public static Request request;
     public static Rider rider;
     public static int timeOut = 20000;
     public final static int MY_PERMISSIONS_REQUEST_STORAGE = 2;

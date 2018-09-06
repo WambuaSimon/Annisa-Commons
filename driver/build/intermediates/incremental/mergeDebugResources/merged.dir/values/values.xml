@@ -1741,7 +1741,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">3ae18fb1-ec8f-4f7a-9874-5b72bb3c37ee</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">5e48fdd6-34e3-4319-a5a3-b9feb7bddc89</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -2007,7 +2007,7 @@
     </string>
     <string name="notices_title">Notices</string>
     <string name="notification_driver_in_location">Driver in driverLocations</string>
-    <string name="notification_requests_waiting"/>
+    <string name="notification_requests_waiting">Incoming request</string>
     <string name="operator_call">Request Operator Call</string>
     <string name="origin">Origin</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -2094,7 +2094,7 @@
     <string name="travel_fee_dialog_content">Enter the fee of travel:</string>
     <string name="travel_fee_dialog_hint">Amount</string>
     <string name="travel_fee_dialog_title">Travel Fee</string>
-    <string name="travel_finished_not_sufficient_balance">Trip has been finished balance was not sufficient. Please pay %.2f in cash.</string>
+    <string name="travel_finished_not_sufficient_balance">Trip has been finished. Please pay %.2f in cash.</string>
     <string name="travel_finished_taken_from_balance">Trip has been finished and amount of Balance Amount: %.2f has been removed from your balance</string>
     <string name="travel_number_title">No.: %d</string>
     <string name="travel_status_driver_accepted">Driver Accepted</string>
