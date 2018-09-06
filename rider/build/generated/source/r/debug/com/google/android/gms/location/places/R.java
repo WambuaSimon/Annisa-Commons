@@ -28,10 +28,10 @@ public final class R {
         public static final int place_autocomplete_separator_start = 0x7f070118;
     }
     public static final class drawable {
-        public static final int places_ic_clear = 0x7f0800ff;
-        public static final int places_ic_search = 0x7f080100;
-        public static final int powered_by_google_dark = 0x7f080101;
-        public static final int powered_by_google_light = 0x7f080102;
+        public static final int places_ic_clear = 0x7f0800fe;
+        public static final int places_ic_search = 0x7f0800ff;
+        public static final int powered_by_google_dark = 0x7f080100;
+        public static final int powered_by_google_light = 0x7f080101;
     }
     public static final class id {
         public static final int place_autocomplete_clear_button = 0x7f0a017c;

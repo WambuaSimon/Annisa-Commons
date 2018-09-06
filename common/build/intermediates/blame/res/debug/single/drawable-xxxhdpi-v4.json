@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ucrop_ic_done.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xxxhdpi-v4\\ucrop_ic_done.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ucrop_ic_rotate.png",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xxxhdpi-v4\\ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ucrop_ic_done.png",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-xxxhdpi-v4\\ucrop_ic_done.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png",
@@ -36,12 +36,12 @@
         "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable-xxxhdpi\\marker_pickup.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fab_requests.png",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable-xxxhdpi\\fab_requests.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fab_requests.png",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable-xxxhdpi\\fab_requests.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\sv_ic_chevron_double_right_white.png",

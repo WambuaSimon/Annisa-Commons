@@ -459,8 +459,8 @@ public final class R {
         public static int abc_textfield_search_default_mtrl_alpha = 0x7f09005f;
         public static int abc_textfield_search_material = 0x7f090060;
         public static int ic_expand_more_black_18dp = 0x7f0900c4;
-        public static int met_ic_clear = 0x7f0900e1;
-        public static int met_ic_close = 0x7f0900e2;
+        public static int met_ic_clear = 0x7f0900e0;
+        public static int met_ic_close = 0x7f0900e1;
     }
     public static final class id {
         public static int action_bar = 0x7f0c0009;

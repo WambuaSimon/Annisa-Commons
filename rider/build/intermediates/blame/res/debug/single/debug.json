@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -84,20 +84,20 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_clear_black_24dp.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-hdpi-v4\\ic_clear_black_24dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ucrop_ic_cross.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-hdpi-v4\\ucrop_ic_cross.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_clear_black_24dp.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-hdpi-v4\\ic_clear_black_24dp.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_marker_taxi.png.flat",
         "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-xxxhdpi-v4\\marker_taxi.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ucrop_ic_cross.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-hdpi-v4\\ucrop_ic_cross.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout\\preference_widget_seekbar.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_nav_item_settings.xml.flat",
         "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\nav_item_settings.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -124,20 +124,20 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_idp_button_background_google.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_asl_20_summary.txt.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\asl_20_summary.txt"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_md_btn_selected.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_btn_selected.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_asl_20_summary.txt.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\asl_20_summary.txt"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_md_btn_selected.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_btn_selected.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
@@ -192,12 +192,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-v21_preference_list_divider_material.xml.flat",
@@ -216,28 +216,28 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_lyt_card_number.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\layout\\lyt_card_number.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_new_logo.png.flat",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\new_logo.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_new_logo.png.flat",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\new_logo.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_sv_ic_chevron_double_right_white.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\slideview-1.1.0.aar\\ef28dd78466f7fa79bb5d4e2b042426e\\res\\drawable-xxxhdpi-v4\\sv_ic_chevron_double_right_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -256,12 +256,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
@@ -272,20 +272,20 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_green.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_sign_strip_mod.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\sign_strip_mod.xml"
-    },
-    {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_met_ic_clear.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-2.0.3.aar\\b5df46ef5a21afc18bdf5f042bf40346\\res\\drawable-xhdpi-v4\\met_ic_clear.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_met_ic_clear.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\library-2.0.3.aar\\b5df46ef5a21afc18bdf5f042bf40346\\res\\drawable-xhdpi-v4\\met_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_sign_strip_mod.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\sign_strip_mod.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -300,12 +300,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout\\preference_widget_switch_compat.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ucrop_ic_reset.png.flat",
@@ -348,12 +348,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\slideview-1.1.0.aar\\ef28dd78466f7fa79bb5d4e2b042426e\\res\\drawable-hdpi-v4\\sv_ic_chevron_double_right.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_gpl_20_full.txt.flat",
@@ -428,24 +428,24 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\drawable-hdpi-v4\\places_ic_search.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\color\\common_google_signin_btn_tint.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_add.xml.flat",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\add.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_add.xml.flat",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\add.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_card_color_round_rect_pink.xml.flat",
@@ -472,12 +472,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_search_black_24dp.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-xhdpi-v4\\ic_search_black_24dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_amu_basic_placemark.kml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e234d2b7765dbdbeda9a33d854d285b0\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-xhdpi-v4\\ic_search_black_24dp.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_expand_more_black_18dp.png.flat",
@@ -516,12 +516,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\ic_billing_mastercard_logo.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_places_ic_clear.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\drawable-hdpi-v4\\places_ic_clear.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_places_ic_clear.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\drawable-hdpi-v4\\places_ic_clear.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -624,24 +624,24 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_fab_requests.png.flat",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\fab_requests.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_nav_item_edit_profile.xml.flat",
         "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\nav_item_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_fab_requests.png.flat",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\fab_requests.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mic_black_24dp.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-xhdpi-v4\\ic_mic_black_24dp.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\raw_amu_extended_data.kml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e234d2b7765dbdbeda9a33d854d285b0\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -660,20 +660,20 @@
         "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\header.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_powered_by_google_dark.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\ic_info.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\ic_info.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
@@ -736,16 +736,16 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\layout\\ucrop_view.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_wallet_secondary_text_holo_dark.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-15.0.0.aar\\97032f2613b4aa2cc605bbc6d05b379b\\res\\color\\wallet_secondary_text_holo_dark.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_marker_pickup.png.flat",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\marker_pickup.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_marker_pickup.png.flat",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\marker_pickup.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\color_wallet_secondary_text_holo_dark.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-15.0.0.aar\\97032f2613b4aa2cc605bbc6d05b379b\\res\\color\\wallet_secondary_text_holo_dark.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
@@ -780,12 +780,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_fui_welcome_back_password_prompt_layout.xml.flat",
@@ -808,12 +808,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mic_black_24dp.png.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-xxhdpi-v4\\ic_mic_black_24dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mic_black_24dp.png.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\floatingsearchview-0.3.aar\\93aedb82a8f954f0056313f2b8c1f59a\\res\\drawable-xxhdpi-v4\\ic_mic_black_24dp.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_annisa_bg.jpg.flat",
@@ -884,12 +884,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_md_listitem_multichoice.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -3618,10 +3618,6 @@
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_switch.xml.flat",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout\\preference_widget_switch.xml"
-    },
-    {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_marker_taxiold.png.flat",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\marker_taxiold.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\res\\merged\\debug\\layout_dialog_request_service.xml.flat",

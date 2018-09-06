@@ -20,24 +20,20 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable-hdpi-v4\\ucrop_ic_next.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\marker_taxiold.png",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable-hdpi\\marker_taxiold.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alerter_ic_notifications.png",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\drawable-hdpi-v4\\alerter_ic_notifications.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alerter_ic_notifications.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\drawable-hdpi-v4\\alerter_ic_notifications.png"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ef_ic_camera_white.png",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.12.0.aar\\325151e63eb861566aa4e828526af518\\res\\drawable-hdpi-v4\\ef_ic_camera_white.png"
-    },
-    {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
