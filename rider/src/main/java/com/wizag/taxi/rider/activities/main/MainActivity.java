@@ -259,7 +259,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                                         //set what would happen when positive button is clicked
                                         //finish();
 
-                                        String message = "There is an emergency on an Anisa ride for user\t" + phone_number;
+                                        String message = "There is an emergency on an Anisa ride for user\t";
                                         String phoneNo = "+254714980450";
 
                                         //for getting multiple numbers that are separated by a comma eg 144,234
@@ -558,7 +558,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         pickupPoint = mMap.addMarker(new MarkerOptions()
                 .position(travel.getPickupPoint())
                 .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_pickup)));
-        mMap.animateCamera(CameraUpdateFactory.newLatLng(new LatLng(mMap.getCameraPosition().target.latitude + 0.001, mMap.getCameraPosition().target.longitude)));
+        mMap.animateCamera(CameraUpdateFactory.newLatLng(new LatLng(mMap.getCameraPosition().target.latitude, mMap.getCameraPosition().target.longitude)));
     }
 
     private void onButtonConfirmDestinationClicked() {

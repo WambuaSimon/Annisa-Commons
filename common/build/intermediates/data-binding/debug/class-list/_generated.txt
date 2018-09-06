@@ -1,5 +1,0 @@
-com.wizag.taxi.common.databinding.ActivityLoginBinding
-com.wizag.taxi.common.databinding.DialogWriteComplaintBinding
-com.wizag.taxi.common.databinding.ActivityChargeAccountBinding
-com.wizag.taxi.common.databinding.ItemTravelBinding
-android.databinding.DataBindingComponent
