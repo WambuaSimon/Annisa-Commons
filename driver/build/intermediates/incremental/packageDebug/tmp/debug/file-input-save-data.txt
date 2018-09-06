@@ -1,31 +1,31 @@
 #Internal package file, do not edit.
-#Wed Aug 29 16:47:23 EAT 2018
-2.base=/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/transforms/dexMerger/debug/1
+#Wed Sep 05 14:12:06 EAT 2018
+2.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 5.set=DEX
 0.path=classes.dex
 2.baseType=DIRECTORY
-3.base=/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/transforms/dexMerger/debug/4
+3.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\assets\\debug
 2.set=DEX
-1.path=crashlytics-build.properties
-4.base=/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/transforms/dexMerger/debug/2
+1.path=classes.dex
+4.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 count=7
 5.baseType=DIRECTORY
 2.path=classes.dex
-5.base=/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/transforms/dexMerger/debug/1
+5.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 4.set=DEX
-3.path=classes.dex
-6.base=/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/transforms/dexMerger/debug/0
+3.path=crashlytics-build.properties
+6.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 3.baseType=DIRECTORY
-1.set=ASSET
+1.set=DEX
 4.path=classes.dex
 6.set=DEX
 1.baseType=DIRECTORY
 6.baseType=DIRECTORY
 5.path=classes2.dex
-0.base=/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/transforms/dexMerger/debug/3
+0.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 0.baseType=DIRECTORY
-3.set=DEX
+3.set=ASSET
 6.path=classes.dex
-1.base=/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/assets/debug
+1.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 4.baseType=DIRECTORY
 0.set=DEX

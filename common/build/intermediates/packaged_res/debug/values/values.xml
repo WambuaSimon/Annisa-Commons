@@ -538,7 +538,7 @@
     <string name="unit_distance_bare">Km</string>
     <string name="unit_distance_miles">%.1f miles</string>
     <string name="unit_minute">%d min</string>
-    <string name="unit_money">$%.2f</string>
+    <string name="unit_money">Ksh%.2f</string>
     <string name="unit_second">%s sec</string>
     <string name="unknown_location">Unknown</string>
     <string name="upload_ride">Upload your ride\'s image</string>
@@ -564,7 +564,7 @@
         <item name="colorAccent">#d678ad</item>
         <item name="colorControlHighlight">#d678ad</item>
         <item name="fontFamily">@font/roboto</item>
-        
+        <!--Note:This Line will be needed when we are going to user preference compat library<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
     </style>
     <style name="AppTheme.Amber" parent="Theme.AppCompat.DayNight.NoActionBar">
         <item name="colorPrimary">@color/md_amber_500</item>

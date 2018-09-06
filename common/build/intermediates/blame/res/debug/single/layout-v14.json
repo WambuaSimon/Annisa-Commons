@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/layout-v14/md_stub_progress_indeterminate.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/layout-v14/md_stub_progress.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\layout-v14\\md_stub_progress.xml"
     }
 ]

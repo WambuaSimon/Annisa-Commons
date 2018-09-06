@@ -1,30 +1,30 @@
 [
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/layout/activity_main.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_edit_profile.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/layout/activity_edit_profile.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_request.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\card_request.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_request_card.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/layout/fragment_request_card.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_travel.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/layout/activity_travel.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_travel.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_travel.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_statistics.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/layout/activity_statistics.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_request_card.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\fragment_request_card.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/layout/activity_splash.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_profile.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_edit_profile.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/driver/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_request.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/driver/src/main/res/layout/card_request.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_statistics.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_statistics.xml"
     }
 ]

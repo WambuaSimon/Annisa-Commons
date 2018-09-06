@@ -2,20 +2,30 @@ package com.wizag.taxi.driver.activities.main;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.PendingIntent;
+import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.pm.PackageManager;
 import android.databinding.DataBindingUtil;
+import android.graphics.Color;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.support.design.widget.BottomSheetBehavior;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v7.app.ActionBar;
+import android.telephony.SmsManager;
 import android.util.Log;
 import android.view.MenuItem;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.CompoundButton;
@@ -67,10 +77,13 @@ import org.greenrobot.eventbus.ThreadMode;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.StringTokenizer;
 
+import static com.wizag.taxi.driver.BR.user;
 import static org.greenrobot.eventbus.ThreadMode.MAIN;
 
 public class MainActivity extends DriverBaseActivity implements OnMapReadyCallback, LocationListener, RequestCardFragment.OnFragmentInteractionListener {
+    String SENT, DELIVERED;
     MyPreferenceManager SP;
     private GoogleMap mMap;
     Marker driverPoint;
@@ -78,13 +91,17 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
     private RequestsFragmentPagerAdapter requestCardsAdapter;
     static final int ACTIVITY_PROFILE = 11;
     static final int ACTIVITY_WALLET = 12;
+    private long firstTime = 0, secondTime = 0;
     static final int ACTIVITY_TRAVEL = 14;
+    String phone_number;
     SupportMapFragment mapFragment;
-
+    private static final int PERMISSION_REQUEST_CODE = 1;
+    TextView numberPlaceholder;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(MainActivity.this, R.layout.activity_main);
+       // TextView numberPlaceholder=(TextView) findViewById(R.id.numberPlaceholder);
         mapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
         requestCardsAdapter = new RequestsFragmentPagerAdapter(getSupportFragmentManager(), new ArrayList<>());
@@ -135,6 +152,101 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
             else
                 bottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
         });
+
+
+        //sos button code for sending sms
+        FloatingActionButton myButton = findViewById(R.id.floatingActionButton);
+        myButton.setBackgroundColor(Color.RED);
+        myButton.setOnTouchListener(new View.OnTouchListener() {
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                int action = event.getActionMasked();
+
+                if (action == MotionEvent.ACTION_DOWN) {
+                    firstTime = System.currentTimeMillis();
+
+                } else if (action == MotionEvent.ACTION_UP
+                        || action == MotionEvent.ACTION_CANCEL) {
+                    secondTime = System.currentTimeMillis();
+                    if (System.currentTimeMillis() - firstTime >= 2000) {
+                        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.M) {
+
+                            if (checkSelfPermission(Manifest.permission.SEND_SMS)
+                                    == PackageManager.PERMISSION_DENIED) {
+
+                                Log.d("permission", "permission denied to SEND_SMS - requesting it");
+                                String[] permissions = {Manifest.permission.SEND_SMS};
+
+                                requestPermissions(permissions, PERMISSION_REQUEST_CODE);
+
+                            }
+                        }
+
+
+                        // at least 5000 ms touch down time
+                        // launch your target activity from here
+//                        Toast.makeText(MainActivity.this,"Wabeeee",Toast.LENGTH_LONG).show();
+                        AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this)
+                                //set icon
+                                .setIcon(android.R.drawable.ic_dialog_alert)
+                                //set title
+                                .setTitle("SOS MESSAGE")
+                                //set message
+                                .setMessage("Do you want to Notify Annisa of an Emergency?")
+                                //set positive button
+                                .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialogInterface, int i) {
+                                        //set what would happen when positive button is clicked
+                                        //finish();
+                                      //  phone_number=numberPlaceholder.getText().toString();
+                                        String message = "There is an emergency on an Anisa ride for user/t ";
+                                        String phoneNo = "+254714980450";
+
+                                        //for getting multiple numbers that are separated by a comma eg 144,234
+                                        StringTokenizer st = new StringTokenizer(phoneNo, ",");
+                                        while (st.hasMoreElements()) {
+                                            String tempMobileNumber = (String) st.nextElement();
+                                            if (tempMobileNumber.length() > 0 && message.trim().length() > 0) {
+
+                                                sendSMS(tempMobileNumber, message);
+                                            }
+                                            //for making sure none of the two fields is null
+                                            else {
+                                                Toast.makeText(getBaseContext(),
+                                                        "Please enter both phone number and message.",
+                                                        Toast.LENGTH_SHORT).show();
+                                            }
+                                        }
+
+
+                                    }
+
+                                })
+                                //set negative button
+                                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialogInterface, int i) {
+                                        //set what should happen when negative button is clicked
+                                        Toast.makeText(getApplicationContext(), "SOS message cancelled.", Toast.LENGTH_LONG).show();
+                                    }
+                                })
+                                .show();
+                    } else { //ignore it}
+                        firstTime = 0; //reseting the value for the next time
+                        secondTime = 0;//reseting the value for the next time
+
+                    }
+                    // TODO Auto-generated method stub
+
+                }
+                return false;
+            }
+        });
+
+
+
     }
 
     @SuppressLint("MissingPermission")
@@ -384,5 +496,72 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
         int position = requestCardsAdapter.getPosition(request);
         if (position >= 0)
             requestCardsAdapter.remove(position);
+    }
+
+    //method for sending sms
+    private void sendSMS(String phoneNumber, String message) {
+        SENT = "SMS_SENT";
+        DELIVERED = "SMS_DELIVERED";
+
+
+        PendingIntent sentPI = PendingIntent.getBroadcast(this, 0,
+                new Intent(SENT), 0);
+
+        PendingIntent deliveredPI = PendingIntent.getBroadcast(this, 0,
+                new Intent(DELIVERED), 0);
+
+        //---when the SMS has been sent---
+        registerReceiver(new BroadcastReceiver() {
+            @Override
+            public void onReceive(Context arg0, Intent arg1) {
+                switch (getResultCode()) {
+                    case Activity.RESULT_OK:
+                        Toast.makeText(getBaseContext(), "SMS sent",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_GENERIC_FAILURE:
+                        Toast.makeText(getBaseContext(), "Generic failure",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_NO_SERVICE:
+                        Toast.makeText(getBaseContext(), "No service",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_NULL_PDU:
+                        Toast.makeText(getBaseContext(), "Null PDU",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case SmsManager.RESULT_ERROR_RADIO_OFF:
+                        Toast.makeText(getBaseContext(), "Radio off",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                }
+            }
+        }, new IntentFilter(SENT));
+
+        //---when the SMS has been delivered---
+        registerReceiver(new BroadcastReceiver() {
+            @Override
+            public void onReceive(Context arg0, Intent arg1) {
+                switch (getResultCode()) {
+                    case Activity.RESULT_OK:
+                        Toast.makeText(getBaseContext(), "SMS delivered",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                    case Activity.RESULT_CANCELED:
+                        Toast.makeText(getBaseContext(), "SMS not delivered",
+                                Toast.LENGTH_SHORT).show();
+                        break;
+                }
+            }
+        }, new IntentFilter(DELIVERED));
+
+        SmsManager sms = SmsManager.getDefault();
+        sms.sendTextMessage(phoneNumber, null, message, sentPI, deliveredPI);
+    }
+    public void displayToast(View v)
+    {
+        Toast.makeText(MainActivity.this,"Emergency button",Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this,"Long press to send SOS",Toast.LENGTH_SHORT).show();
     }
 }

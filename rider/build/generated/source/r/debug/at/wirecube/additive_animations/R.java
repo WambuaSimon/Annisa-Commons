@@ -635,8 +635,8 @@ public final class R {
         public static final int design_fab_background = 0x7f080093;
         public static final int design_ic_visibility = 0x7f080094;
         public static final int design_snackbar_background = 0x7f080097;
-        public static final int navigation_empty_icon = 0x7f0800ec;
-        public static final int notification_template_icon_bg = 0x7f0800f6;
+        public static final int navigation_empty_icon = 0x7f0800ed;
+        public static final int notification_template_icon_bg = 0x7f0800f7;
     }
     public static final class id {
         public static final int action0 = 0x7f0a0007;

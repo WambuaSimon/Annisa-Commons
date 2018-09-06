@@ -1,30 +1,30 @@
 [
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/font/roboto_bold.ttf",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/font/roboto_bold.ttf"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_bold.ttf",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\font\\roboto_bold.ttf"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/font/roboto_black.ttf",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/font/roboto_black.ttf"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_thin.ttf",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\font\\roboto_thin.ttf"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/font/roboto_thin.ttf",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/font/roboto_thin.ttf"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_light.ttf",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\font\\roboto_light.ttf"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/font/roboto_medium.ttf",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/font/roboto_medium.ttf"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_medium.ttf",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\font\\roboto_medium.ttf"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/font/roboto_regular.ttf",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/font/roboto_regular.ttf"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_black.ttf",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\font\\roboto_black.ttf"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/font/roboto.xml",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/font/roboto.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\font\\roboto.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/font/roboto_light.ttf",
-        "source": "/home/wizag/Mobile Projects/android-v1.3/common/src/main/res/font/roboto_light.ttf"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_regular.ttf",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\font\\roboto_regular.ttf"
     }
 ]

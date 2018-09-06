@@ -51,21 +51,21 @@ public final class R {
         public static final int common_google_signin_btn_text_light_pressed = 0x7f060064;
     }
     public static final class drawable {
-        public static final int amu_bubble_mask = 0x7f080064;
-        public static final int amu_bubble_shadow = 0x7f080065;
-        public static final int common_full_open_on_phone = 0x7f08007b;
-        public static final int common_google_signin_btn_icon_dark = 0x7f08007c;
-        public static final int common_google_signin_btn_icon_dark_focused = 0x7f08007d;
-        public static final int common_google_signin_btn_icon_dark_normal = 0x7f08007e;
-        public static final int common_google_signin_btn_icon_light = 0x7f080081;
-        public static final int common_google_signin_btn_icon_light_focused = 0x7f080082;
-        public static final int common_google_signin_btn_icon_light_normal = 0x7f080083;
-        public static final int common_google_signin_btn_text_dark = 0x7f080085;
-        public static final int common_google_signin_btn_text_dark_focused = 0x7f080086;
-        public static final int common_google_signin_btn_text_dark_normal = 0x7f080087;
-        public static final int common_google_signin_btn_text_light = 0x7f08008a;
-        public static final int common_google_signin_btn_text_light_focused = 0x7f08008b;
-        public static final int common_google_signin_btn_text_light_normal = 0x7f08008c;
+        public static final int amu_bubble_mask = 0x7f080065;
+        public static final int amu_bubble_shadow = 0x7f080066;
+        public static final int common_full_open_on_phone = 0x7f08007c;
+        public static final int common_google_signin_btn_icon_dark = 0x7f08007d;
+        public static final int common_google_signin_btn_icon_dark_focused = 0x7f08007e;
+        public static final int common_google_signin_btn_icon_dark_normal = 0x7f08007f;
+        public static final int common_google_signin_btn_icon_light = 0x7f080082;
+        public static final int common_google_signin_btn_icon_light_focused = 0x7f080083;
+        public static final int common_google_signin_btn_icon_light_normal = 0x7f080084;
+        public static final int common_google_signin_btn_text_dark = 0x7f080086;
+        public static final int common_google_signin_btn_text_dark_focused = 0x7f080087;
+        public static final int common_google_signin_btn_text_dark_normal = 0x7f080088;
+        public static final int common_google_signin_btn_text_light = 0x7f08008b;
+        public static final int common_google_signin_btn_text_light_focused = 0x7f08008c;
+        public static final int common_google_signin_btn_text_light_normal = 0x7f08008d;
     }
     public static final class id {
         public static final int adjust_height = 0x7f0a0020;
@@ -73,17 +73,17 @@ public final class R {
         public static final int amu_text = 0x7f0a0025;
         public static final int auto = 0x7f0a002e;
         public static final int dark = 0x7f0a0089;
-        public static final int hybrid = 0x7f0a00d8;
-        public static final int icon_only = 0x7f0a00dc;
-        public static final int light = 0x7f0a010c;
-        public static final int none = 0x7f0a014e;
-        public static final int normal = 0x7f0a014f;
-        public static final int satellite = 0x7f0a0186;
-        public static final int standard = 0x7f0a01bc;
-        public static final int terrain = 0x7f0a01cd;
-        public static final int webview = 0x7f0a0225;
-        public static final int wide = 0x7f0a0229;
-        public static final int window = 0x7f0a022a;
+        public static final int hybrid = 0x7f0a00d9;
+        public static final int icon_only = 0x7f0a00dd;
+        public static final int light = 0x7f0a010d;
+        public static final int none = 0x7f0a014f;
+        public static final int normal = 0x7f0a0150;
+        public static final int satellite = 0x7f0a0187;
+        public static final int standard = 0x7f0a01bd;
+        public static final int terrain = 0x7f0a01ce;
+        public static final int webview = 0x7f0a0226;
+        public static final int wide = 0x7f0a022a;
+        public static final int window = 0x7f0a022b;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0b000b;

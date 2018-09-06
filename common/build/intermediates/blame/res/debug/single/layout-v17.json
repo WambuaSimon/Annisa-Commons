@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout-v17/preference_material.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout-v17/preference_material.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_category_material.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout-v17\\preference_category_material.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout-v17/preference_dropdown_material.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout-v17/preference_dropdown_material.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_information_material.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout-v17\\preference_information_material.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout-v17/preference_category_material.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout-v17/preference_category_material.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_dropdown_material.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout-v17\\preference_dropdown_material.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/layout-v17/preference_information_material.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout-v17/preference_information_material.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_material.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\layout-v17\\preference_material.xml"
     }
 ]

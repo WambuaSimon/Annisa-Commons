@@ -38,7 +38,7 @@
                 <com.arlib.floatingsearchview.FloatingSearchView
                     android:id="@+id/search_place"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="507dp"
                     app:floatingSearch_close_search_on_keyboard_dismiss="true"
                     app:floatingSearch_dimBackground="true"
                     app:floatingSearch_leftActionMode="showHamburger"
@@ -48,7 +48,8 @@
                     app:floatingSearch_searchBarMarginTop="8dp"
                     app:floatingSearch_searchHint=""
                     app:floatingSearch_showSearchKey="false"
-                    app:floatingSearch_suggestionsListAnimDuration="250">
+                    app:floatingSearch_suggestionsListAnimDuration="250"
+                    tools:layout_editor_absoluteY="4dp">
 
                     <!-- <include
                          android:layout_marginTop="80dp"
@@ -186,8 +187,9 @@
                 android:clickable="true"
                 android:src="@drawable/alert"
                 android:visibility="visible"
-                app:backgroundTint="@android:color/holo_red_dark"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:backgroundTint="@android:color/holo_red_light"
+                app:layout_constraintTop_toTopOf="parent"
+                android:onClick="displayToast"/>
         </android.support.design.widget.CoordinatorLayout>
 
 

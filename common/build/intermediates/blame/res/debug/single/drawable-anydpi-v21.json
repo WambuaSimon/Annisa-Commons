@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable-anydpi-v21/md_nav_back.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable-anydpi-v21\\md_nav_back.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/alerter_ic_notifications.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/res/drawable-anydpi-v21/alerter_ic_notifications.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\alerter_ic_face.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\drawable-anydpi-v21\\alerter_ic_face.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_down_24dp.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\drawable-anydpi-v21\\ic_arrow_down_24dp.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/alerter_ic_face.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/alerter-2.0.4.aar/9222c8f6f2f8fdbef74f0265c17b1e97/res/drawable-anydpi-v21/alerter_ic_face.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/android-v1.3/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_down_24dp.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/drawable-anydpi-v21/ic_arrow_down_24dp.xml"
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\alerter_ic_notifications.xml",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.4.aar\\bb7399bc9de5afd0fd4af42f8b72099e\\res\\drawable-anydpi-v21\\alerter_ic_notifications.xml"
     }
 ]

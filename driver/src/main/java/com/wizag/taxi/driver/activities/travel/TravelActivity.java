@@ -266,6 +266,7 @@ public class TravelActivity extends DriverBaseActivity implements OnMapReadyCall
             });
             return;
         }
+        //when credit card is used for making payment
         if (event.isCreditUsed) {
             new MaterialDialog.Builder(this)
                     .title(R.string.message_default_title)
