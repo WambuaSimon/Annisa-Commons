@@ -301,8 +301,8 @@
     <integer name="charge_third">50</integer>
     <integer name="minimum_charge_amount">10</integer>
     <integer name="minimum_payment_request">10</integer>
-    <string name="about_contacts">Contact Information</string>
-    <string name="about_driver_description">Driver Taxi application.</string>
+    <string name="about_contacts">About \n An Nisa is a convenient, safe, and inexpensive taxi service designed to empower Women. You can hire a private driver to pick you up and take you to your desired destination with the tap of a button on any smartphone device.</string>
+    <string name="about_driver_description">An Nisa Taxi application.</string>
     <string name="about_rider_description">Rider Taxi application.</string>
     <string name="account_balance">Account balance</string>
     <string name="account_charge_success">Wallet credit has been charged Successfully.</string>
@@ -350,14 +350,14 @@
     <string name="drawer_edit_profile">Edit Profile</string>
     <string name="drawer_exit">Exit</string>
     <string name="drawer_favorite_locations">Favorite Locations</string>
-    <string name="drawer_header_balance">Credit: %.2f Ksh</string>
+    <string name="drawer_header_balance">Credit: %.2f KES</string>
     <string name="drawer_header_unknown">Unknown</string>
     <string name="drawer_invite_friends">Send Invitation</string>
     <string name="drawer_options">Options</string>
     <string name="drawer_statistics">Statistics</string>
     <string name="drawer_support">Support</string>
     <string name="drawer_travels">Travels</string>
-    <string name="driver_app_name">Taxi Driver</string>
+    <string name="driver_app_name">An Nisa Driver</string>
     <string name="driver_card_distance">Distance</string>
     <string name="driver_card_eta">ETA</string>
     <string name="driver_card_fee">Fee</string>

@@ -579,8 +579,10 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
             //((TrailSupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).setUpPath(latLngs, mMap, RouteOverlayView.AnimType.ARC);
             Bitmap pickUpBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.marker_pickup);
             pickupPoint = mMap.addMarker(new MarkerOptions().position(travel.getPickupPoint()).icon(BitmapDescriptorFactory.fromBitmap(pickUpBitmap)));
+            Log.d("Coordinates are",String.valueOf(travel.getPickupPoint()));
             Bitmap dropBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.marker_destination);
             destinationPoint = mMap.addMarker(new MarkerOptions().position(travel.getDestinationPoint()).icon(BitmapDescriptorFactory.fromBitmap(dropBitmap)));
+            Log.d("Coordinates for destination",String.valueOf(travel.getDestinationPoint()));
             showCurvedPolyline(travel.getPickupPoint(), travel.getDestinationPoint(), 0.2);
             //Polyline polyline1 = mMap.addPolyline(new PolylineOptions().clickable(true).add(pickupLatLng,destinationLatLng).color(getPrimaryColor()).endCap(new RoundCap()).startCap(new RoundCap()));
         }, 1500);
@@ -734,7 +736,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     private class GetMarkerAddress extends AsyncTask<Double, Void, String> {
         @Override
         protected String doInBackground(Double... floats) {
-            Geocoder geocoder = new Geocoder(MainActivity.this, Locale.getDefault());
+            Geocoder geocoder = new Geocoder(MainActivity.this, Locale.US);
             List<Address> addresses = null;
             try {
                 addresses = geocoder.getFromLocation(floats[0], floats[1], 1);

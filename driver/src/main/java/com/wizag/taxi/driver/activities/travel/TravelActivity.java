@@ -9,9 +9,11 @@ import android.location.LocationListener;
 import android.net.Uri;
 import android.os.Bundle;
 import android.text.InputType;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
+import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.google.android.gms.maps.CameraUpdate;
@@ -87,6 +89,8 @@ public class  TravelActivity extends DriverBaseActivity implements OnMapReadyCal
         gMap.setTrafficEnabled(true);
         LatLng dLocation = new LatLng(getIntent().getDoubleExtra("driverLat", -1), getIntent().getDoubleExtra("driverLng", -1));
         currentLocation = dLocation;
+        Log.d("Get pick up", String.valueOf(travel.getPickupPoint()));
+        Log.d("Get drop point", String.valueOf(travel.getDestinationPoint()));
         currentMarker = googleMap.addMarker(new MarkerOptions()
                 .position(dLocation)
                 .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi)));
@@ -100,6 +104,10 @@ public class  TravelActivity extends DriverBaseActivity implements OnMapReadyCal
             locations.add(currentMarker.getPosition());
             locations.add(destinationMarker.getPosition());
             MapHelper.centerLatLngsInMap(gMap, locations, true);
+            //setroutehere
+            Log.d("Get pick up", String.valueOf(travel.getPickupPoint()));
+            Log.d("Get drop point", String.valueOf(travel.getDestinationPoint()));
+           // Toast.makeText(getApplicationContext(),"Pick up:",+String.valueOf(travel.getPickupPoint()),Toast.LENGTH_LONG).show();
             directionToPassengerRouter = new DirectionsJSONParser(gMap, currentMarker.getPosition(), destinationMarker.getPosition());
             directionToPassengerRouter.run();
         });
@@ -183,6 +191,7 @@ public class  TravelActivity extends DriverBaseActivity implements OnMapReadyCal
             if (directionToPassengerRouter != null)
                 directionToPassengerRouter.removeLine();
             DirectionsJSONParser directionsJSONParser = new DirectionsJSONParser(gMap, currentMarker.getPosition(), destinationMarker.getPosition());
+
             directionsJSONParser.run();
         }
         Timer();

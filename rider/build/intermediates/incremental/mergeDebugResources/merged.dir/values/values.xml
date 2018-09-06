@@ -1751,8 +1751,8 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns2:g example="Mail" id="application_name">%s</ns2:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_contact_us">Contact us</string>
-    <string name="about_contacts">Contact Information</string>
-    <string name="about_driver_description">Driver Taxi application.</string>
+    <string name="about_contacts">About \n An Nisa is a convenient, safe, and inexpensive taxi service designed to empower Women. You can hire a private driver to pick you up and take you to your desired destination with the tap of a button on any smartphone device.</string>
+    <string name="about_driver_description">An Nisa Taxi application.</string>
     <string name="about_facebook">Like us on Facebook</string>
     <string name="about_github">Fork us on GitHub</string>
     <string name="about_instagram">Follow us on Instagram</string>
@@ -1793,7 +1793,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">818ea16a-0fc5-4952-a539-c27fcb778eb0</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">b382ea40-1d90-464a-aacd-5dc32f7495ad</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1838,14 +1838,14 @@
     <string name="drawer_edit_profile">Edit Profile</string>
     <string name="drawer_exit">Exit</string>
     <string name="drawer_favorite_locations">Favorite Locations</string>
-    <string name="drawer_header_balance">Credit: %.2f Ksh</string>
+    <string name="drawer_header_balance">Credit: %.2f KES</string>
     <string name="drawer_header_unknown">Unknown</string>
     <string name="drawer_invite_friends">Send Invitation</string>
     <string name="drawer_options">Options</string>
     <string name="drawer_statistics">Statistics</string>
     <string name="drawer_support">Support</string>
     <string name="drawer_travels">Travels</string>
-    <string name="driver_app_name">Taxi Driver</string>
+    <string name="driver_app_name">An Nisa Driver</string>
     <string name="driver_card_distance">Distance</string>
     <string name="driver_card_eta">ETA</string>
     <string name="driver_card_fee">Fee</string>

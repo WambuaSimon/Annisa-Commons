@@ -378,7 +378,8 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
         if (driverPoint == null)
             driverPoint = mMap.addMarker(new MarkerOptions()
                     .position(latLng)
-                    .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi)));
+                    .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi))
+                    .flat(true));
         else
             driverPoint.setPosition(latLng);
         if (binding.switchConnection.isChecked())
