@@ -72,7 +72,7 @@ MERGED from [com.ramotion.foldingcell:folding-cell:1.2.1] C:\Users\Polycarp Kavo
 MERGED from [se.emilsjolander:stickylistheaders:2.7.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\stickylistheaders-2.7.0.aar\5cd7c16152d758b2d1376aff2d90c3b1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.tapadoo.android:alerter:2.0.4] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\alerter-2.0.4.aar\bb7399bc9de5afd0fd4af42f8b72099e\AndroidManifest.xml:2:1-20:12
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.8.aar\328ccb3e15aba5cea0c90f2038b856d3\AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\a01d583085711fb6408b3fdd7b1c7879\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\e72f519d0cef62e82b42da0dc904c2e7\AndroidManifest.xml:2:1-11:12
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:2:1-13:12
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\2389965fbfef61ba8c2efbe1bf2d7ef7\AndroidManifest.xml:45:1-56:12
 MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\375698fab37910b4b3072b2ce2035187\AndroidManifest.xml:2:1-13:12
@@ -280,8 +280,8 @@ MERGED from [com.tapadoo.android:alerter:2.0.4] C:\Users\Polycarp Kavoo\.gradle\
 MERGED from [com.tapadoo.android:alerter:2.0.4] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\alerter-2.0.4.aar\bb7399bc9de5afd0fd4af42f8b72099e\AndroidManifest.xml:12:5-18:19
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.8.aar\328ccb3e15aba5cea0c90f2038b856d3\AndroidManifest.xml:12:5-20
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.8.aar\328ccb3e15aba5cea0c90f2038b856d3\AndroidManifest.xml:12:5-20
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\a01d583085711fb6408b3fdd7b1c7879\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\a01d583085711fb6408b3fdd7b1c7879\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\e72f519d0cef62e82b42da0dc904c2e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\e72f519d0cef62e82b42da0dc904c2e7\AndroidManifest.xml:9:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\2389965fbfef61ba8c2efbe1bf2d7ef7\AndroidManifest.xml:54:5-20
@@ -575,8 +575,8 @@ MERGED from [com.tapadoo.android:alerter:2.0.4] C:\Users\Polycarp Kavoo\.gradle\
 MERGED from [com.tapadoo.android:alerter:2.0.4] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\alerter-2.0.4.aar\bb7399bc9de5afd0fd4af42f8b72099e\AndroidManifest.xml:7:5-10:72
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.8.aar\328ccb3e15aba5cea0c90f2038b856d3\AndroidManifest.xml:8:5-10:41
 MERGED from [com.andkulikov:transitionseverywhere:1.7.8] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.8.aar\328ccb3e15aba5cea0c90f2038b856d3\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\a01d583085711fb6408b3fdd7b1c7879\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\a01d583085711fb6408b3fdd7b1c7879\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\e72f519d0cef62e82b42da0dc904c2e7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\e72f519d0cef62e82b42da0dc904c2e7\AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\2389965fbfef61ba8c2efbe1bf2d7ef7\AndroidManifest.xml:50:5-43

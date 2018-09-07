@@ -46,7 +46,8 @@
         android:icon="@drawable/new_logo"
         android:label="@string/driver_app_name"
         android:largeHeap="true"
-        android:supportsRtl="true" >
+        android:supportsRtl="true"
+        android:testOnly="true" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
