@@ -2,14 +2,17 @@ package com.wizag.taxi.rider.activities.profile;
 
 import android.Manifest;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.databinding.DataBindingUtil;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.v7.preference.PreferenceManager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.EditText;
 
 import com.esafirm.imagepicker.features.ImagePicker;
 import com.esafirm.imagepicker.features.ReturnMode;
@@ -43,10 +46,12 @@ public class ProfileActivity extends BaseActivity {
     ActivityEditProfileBinding binding;
     Rider rider;
     MyPreferenceManager SP;
+    EditText mobile_no;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         SP = MyPreferenceManager.getInstance(getApplicationContext());
         binding = DataBindingUtil.setContentView(this, R.layout.activity_edit_profile);
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_dropdown_item_1line, getResources().getStringArray(R.array.genders));
@@ -54,6 +59,7 @@ public class ProfileActivity extends BaseActivity {
         rider = Rider.fromJson(new Gson().toJson(CommonUtils.rider));
         binding.setUser(rider);
         binding.profileImage.setOnClickListener(onProfileImageClicked);
+        mobile_no = findViewById(R.id.mobile_no);
 
         initializeToolbar("");
     }
@@ -67,7 +73,7 @@ public class ProfileActivity extends BaseActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
 
-        if(rider.getEmail() != null && !rider.getEmail().equals("") && !Validators.validateEmailAddress(rider.getEmail())) {
+        if (rider.getEmail() != null && !rider.getEmail().equals("") && !Validators.validateEmailAddress(rider.getEmail())) {
             AlerterHelper.showError(ProfileActivity.this, getString(R.string.error_invalid_email));
             return false;
         }
@@ -78,6 +84,7 @@ public class ProfileActivity extends BaseActivity {
 
     void saveUserInfo() {
         SP.putString("rider_user", new Gson().toJson(CommonUtils.rider));
+
     }
 
     @Subscribe(threadMode = ThreadMode.MAIN)

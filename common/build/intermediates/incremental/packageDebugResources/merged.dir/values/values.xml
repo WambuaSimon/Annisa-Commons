@@ -301,8 +301,8 @@
     <integer name="charge_third">50</integer>
     <integer name="minimum_charge_amount">10</integer>
     <integer name="minimum_payment_request">10</integer>
-    <string name="about_contacts">About \n An Nisa is a convenient, safe, and inexpensive taxi service designed to empower Women. You can hire a private driver to pick you up and take you to your desired destination with the tap of a button on any smartphone device.</string>
-    <string name="about_driver_description">An Nisa Taxi application.</string>
+    <string name="about_contacts">Contact Information</string>
+    <string name="about_driver_description">Driver Taxi application.</string>
     <string name="about_rider_description">Rider Taxi application.</string>
     <string name="account_balance">Account balance</string>
     <string name="account_charge_success">Wallet credit has been charged Successfully.</string>
@@ -350,14 +350,14 @@
     <string name="drawer_edit_profile">Edit Profile</string>
     <string name="drawer_exit">Exit</string>
     <string name="drawer_favorite_locations">Favorite Locations</string>
-    <string name="drawer_header_balance">Credit: %.2f KES</string>
+    <string name="drawer_header_balance">Credit: %.0f Ksh</string>
     <string name="drawer_header_unknown">Unknown</string>
     <string name="drawer_invite_friends">Send Invitation</string>
     <string name="drawer_options">Options</string>
     <string name="drawer_statistics">Statistics</string>
     <string name="drawer_support">Support</string>
     <string name="drawer_travels">Travels</string>
-    <string name="driver_app_name">An Nisa Driver</string>
+    <string name="driver_app_name">Taxi Driver</string>
     <string name="driver_card_distance">Distance</string>
     <string name="driver_card_eta">ETA</string>
     <string name="driver_card_fee">Fee</string>
@@ -481,7 +481,7 @@
     <string name="sending_complaint">Sending Complaint…</string>
     <string name="server_address" translatable="false">http://51.15.105.13:8080/</string>
     <string name="service_canceled">Service Was canceled</string>
-    <string name="service_card_cost">Cost: %.2f Ksh</string>
+    <string name="service_card_cost">Cost: %.0f Ksh</string>
     <string name="service_finished_cash">Service has been finished but there was not sufficient credit. Ask for cash</string>
     <string name="service_finished_credit">Service has been finished and credit has been added to your account.</string>
     <string name="service_finishing">Service finishing…</string>
@@ -515,8 +515,8 @@
     <string name="travel_fee_dialog_content">Enter the fee of travel:</string>
     <string name="travel_fee_dialog_hint">Amount</string>
     <string name="travel_fee_dialog_title">Travel Fee</string>
-    <string name="travel_finished_not_sufficient_balance">Trip has been finished. Please pay %.2f in cash.</string>
-    <string name="travel_finished_taken_from_balance">Trip has been finished and amount of Balance Amount: %.2f has been removed from your balance</string>
+    <string name="travel_finished_not_sufficient_balance">Trip has been finished. Please pay %.0f in cash.</string>
+    <string name="travel_finished_taken_from_balance">Trip has been finished and amount of Balance Amount: %.0f has been removed from your balance</string>
     <string name="travel_number_title">No.: %d</string>
     <string name="travel_status_driver_accepted">Driver Accepted</string>
     <string name="travel_status_driver_canceled">Driver Canceled</string>
@@ -538,7 +538,7 @@
     <string name="unit_distance_bare">Km</string>
     <string name="unit_distance_miles">%.1f miles</string>
     <string name="unit_minute">%d min</string>
-    <string name="unit_money">Ksh%.2f</string>
+    <string name="unit_money">Ksh%.0f</string>
     <string name="unit_second">%s sec</string>
     <string name="unknown_location">Unknown</string>
     <string name="upload_ride">Upload your ride\'s image</string>
@@ -564,7 +564,7 @@
         <item name="colorAccent">#d678ad</item>
         <item name="colorControlHighlight">#d678ad</item>
         <item name="fontFamily">@font/roboto</item>
-        <!--Note:This Line will be needed when we are going to user preference compat library<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
+        
     </style>
     <style name="AppTheme.Amber" parent="Theme.AppCompat.DayNight.NoActionBar">
         <item name="colorPrimary">@color/md_amber_500</item>

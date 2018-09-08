@@ -40,8 +40,6 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
     @NonNull
     private final android.support.design.widget.CoordinatorLayout mboundView0;
     @NonNull
-    private final android.widget.EditText mboundView2;
-    @NonNull
     private final android.widget.EditText mboundView3;
     @NonNull
     private final android.widget.EditText mboundView4;
@@ -51,6 +49,8 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
     private final android.widget.EditText mboundView7;
     @NonNull
     public final android.widget.ImageView media;
+    @NonNull
+    public final android.widget.EditText mobileNo;
     @NonNull
     public final android.support.design.widget.TextInputLayout mobileTextLayout;
     @NonNull
@@ -209,8 +209,6 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
         this.lastNameTextLayout = (android.support.design.widget.TextInputLayout) bindings[15];
         this.mboundView0 = (android.support.design.widget.CoordinatorLayout) bindings[0];
         this.mboundView0.setTag(null);
-        this.mboundView2 = (android.widget.EditText) bindings[2];
-        this.mboundView2.setTag(null);
         this.mboundView3 = (android.widget.EditText) bindings[3];
         this.mboundView3.setTag(null);
         this.mboundView4 = (android.widget.EditText) bindings[4];
@@ -220,6 +218,8 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
         this.mboundView7 = (android.widget.EditText) bindings[7];
         this.mboundView7.setTag(null);
         this.media = (android.widget.ImageView) bindings[10];
+        this.mobileNo = (android.widget.EditText) bindings[2];
+        this.mobileNo.setTag(null);
         this.mobileTextLayout = (android.support.design.widget.TextInputLayout) bindings[12];
         this.profileImage = (de.hdodenhof.circleimageview.CircleImageView) bindings[1];
         this.profileImage.setTag(null);
@@ -420,11 +420,6 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
             }
         }
         // batch finished
-        if ((dirtyFlags & 0x209L) != 0) {
-            // api target 1
-
-            android.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView2, stringValueOfUserMobileNumber);
-        }
         if ((dirtyFlags & 0x211L) != 0) {
             // api target 1
 
@@ -453,6 +448,11 @@ public class ActivityEditProfileBinding extends android.databinding.ViewDataBind
             // api target 1
 
             android.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView7, userAddress);
+        }
+        if ((dirtyFlags & 0x209L) != 0) {
+            // api target 1
+
+            android.databinding.adapters.TextViewBindingAdapter.setText(this.mobileNo, stringValueOfUserMobileNumber);
         }
         if ((dirtyFlags & 0x205L) != 0) {
             // api target 1
