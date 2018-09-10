@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Sep 08 17:04:53 EAT 2018
+1.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\assets\\release
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\release\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes2.dex
+0.set=DEX
+0.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\release\\0
+2.baseType=DIRECTORY
+1.path=crashlytics-build.properties

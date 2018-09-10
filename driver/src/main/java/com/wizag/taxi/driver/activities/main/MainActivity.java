@@ -13,10 +13,13 @@ import android.content.IntentFilter;
 import android.content.pm.PackageManager;
 import android.databinding.DataBindingUtil;
 import android.graphics.Color;
+import android.graphics.Interpolator;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.SystemClock;
 import android.support.design.widget.BottomSheetBehavior;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.ActivityCompat;
@@ -28,6 +31,7 @@ import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
+import android.view.animation.LinearInterpolator;
 import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -97,11 +101,16 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
     SupportMapFragment mapFragment;
     private static final int PERMISSION_REQUEST_CODE = 1;
     TextView numberPlaceholder;
+//    LatLng oldLocation;
+//    LatLng newLocaation;
+
+    private boolean isMarkerRotating;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(MainActivity.this, R.layout.activity_main);
        // TextView numberPlaceholder=(TextView) findViewById(R.id.numberPlaceholder);
+        isMarkerRotating = false;
         mapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
         requestCardsAdapter = new RequestsFragmentPagerAdapter(getSupportFragmentManager(), new ArrayList<>());
@@ -111,6 +120,13 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
         SP = MyPreferenceManager.getInstance(this.getApplicationContext());
         setSupportActionBar(binding.appbar);
         ActionBar actionBar = getSupportActionBar();
+        //rotating icon
+
+
+
+
+
+
         if (actionBar != null) {
             actionBar.setHomeAsUpIndicator(R.drawable.menu);
             actionBar.setDisplayHomeAsUpEnabled(true);
@@ -201,7 +217,7 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
                                         //set what would happen when positive button is clicked
                                         //finish();
                                       //  phone_number=numberPlaceholder.getText().toString();
-                                        String message = "There is an emergency on an Anisa ride for user/t ";
+                                        String message = "There is an emergency on an An nisa ride for:\t Driver";
                                         String phoneNo = "+254714980450";
 
                                         //for getting multiple numbers that are separated by a comma eg 144,234
@@ -379,9 +395,16 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
             driverPoint = mMap.addMarker(new MarkerOptions()
                     .position(latLng)
                     .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi))
+                    .flat(true)
+                    .anchor(0.5f, 0.5f).rotation(90.0f)
+
+                    //.rotation(new LocationChangedEvent(latLng))
+
                     );
         else
-            driverPoint.setPosition(latLng);
+//        driverPoint.setPosition(latLng);
+//        float bearing = (float) bearingBetweenLocations(oldLocation, newLocaation);
+//        rotateMarker(driverPoint, bearing);
         if (binding.switchConnection.isChecked())
             eventBus.post(new LocationChangedEvent(latLng));
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng, 16));
@@ -501,8 +524,8 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
 
     //method for sending sms
     private void sendSMS(String phoneNumber, String message) {
-        SENT = "SMS_SENT";
-        DELIVERED = "SMS_DELIVERED";
+        SENT = "SOS_SENT";
+        DELIVERED = "SOS_DELIVERED";
 
 
         PendingIntent sentPI = PendingIntent.getBroadcast(this, 0,
@@ -517,7 +540,7 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
             public void onReceive(Context arg0, Intent arg1) {
                 switch (getResultCode()) {
                     case Activity.RESULT_OK:
-                        Toast.makeText(getBaseContext(), "SMS sent",
+                        Toast.makeText(getBaseContext(), "SOS sent",
                                 Toast.LENGTH_SHORT).show();
                         break;
                     case SmsManager.RESULT_ERROR_GENERIC_FAILURE:
@@ -546,11 +569,11 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
             public void onReceive(Context arg0, Intent arg1) {
                 switch (getResultCode()) {
                     case Activity.RESULT_OK:
-                        Toast.makeText(getBaseContext(), "SMS delivered",
+                        Toast.makeText(getBaseContext(), "SOS delivered",
                                 Toast.LENGTH_SHORT).show();
                         break;
                     case Activity.RESULT_CANCELED:
-                        Toast.makeText(getBaseContext(), "SMS not delivered",
+                        Toast.makeText(getBaseContext(), "SOS not delivered",
                                 Toast.LENGTH_SHORT).show();
                         break;
                 }
@@ -565,4 +588,60 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
         Toast.makeText(MainActivity.this,"Emergency button",Toast.LENGTH_SHORT).show();
         Toast.makeText(MainActivity.this,"Long press to send SOS",Toast.LENGTH_SHORT).show();
     }
+//    private double bearingBetweenLocations(LatLng latLng1,LatLng latLng2) {
+//
+//        double PI = 3.14159;
+//        double lat1 = latLng1.latitude * PI / 180;
+//        double long1 = latLng1.longitude * PI / 180;
+//        double lat2 = latLng2.latitude * PI / 180;
+//        double long2 = latLng2.longitude * PI / 180;
+//
+//        double dLon = (long2 - long1);
+//
+//        double y = Math.sin(dLon) * Math.cos(lat2);
+//        double x = Math.cos(lat1) * Math.sin(lat2) - Math.sin(lat1)
+//                * Math.cos(lat2) * Math.cos(dLon);
+//
+//        double brng = Math.atan2(y, x);
+//
+//        brng = Math.toDegrees(brng);
+//        brng = (brng + 360) % 360;
+//
+//        return brng;
+//
+//    }
+//
+//    private void rotateMarker(final Marker marker, final float toRotation) {
+//        if(!isMarkerRotating) {
+//            final Handler handler = new Handler();
+//            final long start = SystemClock.uptimeMillis();
+//            final float startRotation = marker.getRotation();
+//            final long duration = 2000;
+//
+//            final android.view.animation.Interpolator interpolator = new LinearInterpolator();
+//
+//            handler.post(new Runnable() {
+//                @Override
+//                public void run() {
+//                    isMarkerRotating = true;
+//
+//                    long elapsed = SystemClock.uptimeMillis() - start;
+//                    float t = interpolator.getInterpolation((float) elapsed / duration);
+//
+//                    float rot = t * toRotation + (1 - t) * startRotation;
+//
+//                    float bearing =  -rot > 180 ? rot / 2 : rot;
+//
+//                    marker.setRotation(bearing);
+//
+//                    if (t < 1.0) {
+//                        // Post again 16ms later.
+//                        handler.postDelayed(this, 16);
+//                    } else {
+//                        isMarkerRotating = false;
+//                    }
+//                }
+//            });
+//        }
+//    }
 }

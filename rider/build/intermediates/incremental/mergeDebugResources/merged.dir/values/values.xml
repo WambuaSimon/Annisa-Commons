@@ -1752,13 +1752,13 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_contact_us">Contact us</string>
     <string name="about_contacts">Contact Information</string>
-    <string name="about_driver_description">Driver Taxi application.</string>
+    <string name="about_driver_description">Driver An nisa application.</string>
     <string name="about_facebook">Like us on Facebook</string>
     <string name="about_github">Fork us on GitHub</string>
     <string name="about_instagram">Follow us on Instagram</string>
     <string name="about_page_description" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula ligula tortor, in pellentesque dui congue ac. Vestibulum lacinia urna magna, quis cursus ante iaculis nec. Nunc ut ligula sit amet odio ultrices euismod vel vel purus. Sed lacus mauris, aliquam et placerat id</string>
     <string name="about_play_store">Rate us on the Play Store</string>
-    <string name="about_rider_description">Rider Taxi application.</string>
+    <string name="about_rider_description">Rider An nisa application.</string>
     <string name="about_twitter">Follow us on Twitter</string>
     <string name="about_website">Visit our website</string>
     <string name="about_youtube">Watch us on Youtube</string>
@@ -1774,7 +1774,7 @@
     <string name="alert_ok">OK</string>
     <string name="alert_retry">Retry</string>
     <string name="alert_send">Send</string>
-    <string name="app_name">Taxi</string>
+    <string name="app_name">An nisa</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="call">Call</string>
@@ -1793,7 +1793,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">828dd63f-0cf8-4659-b2eb-abd9960e3d25</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">032dab32-1a4a-4873-943a-46195e64e1a2</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1845,7 +1845,7 @@
     <string name="drawer_statistics">Statistics</string>
     <string name="drawer_support">Support</string>
     <string name="drawer_travels">Travels</string>
-    <string name="driver_app_name">Taxi Driver</string>
+    <string name="driver_app_name">An nisa Driver</string>
     <string name="driver_card_distance">Distance</string>
     <string name="driver_card_eta">ETA</string>
     <string name="driver_card_fee">Fee</string>
@@ -2110,7 +2110,7 @@
     <string name="server_address" translatable="false">http://51.15.105.13:8080/</string>
     <string name="service_canceled">Service Was canceled</string>
     <string name="service_card_cost">Cost: %.0f Ksh</string>
-    <string name="service_finished_cash">Service has been finished but there was not sufficient credit. Ask for cash</string>
+    <string name="service_finished_cash">Trip has ended. Ask for Payment from Rider</string>
     <string name="service_finished_credit">Service has been finished and credit has been added to your account.</string>
     <string name="service_finishing">Service finishing…</string>
     <string name="services">Services</string>
@@ -2148,7 +2148,7 @@
     <string name="travel_fee_dialog_content">Enter the fee of travel:</string>
     <string name="travel_fee_dialog_hint">Amount</string>
     <string name="travel_fee_dialog_title">Travel Fee</string>
-    <string name="travel_finished_not_sufficient_balance">Trip has been finished. Please pay %.0f in cash.</string>
+    <string name="travel_finished_not_sufficient_balance">Trip has ended. Please pay %.0f.</string>
     <string name="travel_finished_taken_from_balance">Trip has been finished and amount of Balance Amount: %.0f has been removed from your balance</string>
     <string name="travel_number_title">No.: %d</string>
     <string name="travel_status_driver_accepted">Driver Accepted</string>

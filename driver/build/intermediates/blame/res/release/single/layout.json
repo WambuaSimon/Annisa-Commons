@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_travel.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_travel.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_edit_profile.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_statistics.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\card_request.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\card_request.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_request_card.xml",
+        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\src\\main\\res\\layout\\fragment_request_card.xml"
+    }
+]

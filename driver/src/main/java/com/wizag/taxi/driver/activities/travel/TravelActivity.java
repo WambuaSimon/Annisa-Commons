@@ -105,8 +105,8 @@ public class  TravelActivity extends DriverBaseActivity implements OnMapReadyCal
             locations.add(destinationMarker.getPosition());
             MapHelper.centerLatLngsInMap(gMap, locations, true);
             //setroutehere
-            Log.d("Get pick up", String.valueOf(travel.getPickupPoint()));
-            Log.d("Get drop point", String.valueOf(travel.getDestinationPoint()));
+            //Log.d("Get pick up", String.valueOf(travel.getPickupPoint()));
+           // Log.d("Get drop point", String.valueOf(travel.getDestinationPoint()));
            // Toast.makeText(getApplicationContext(),"Pick up:",+String.valueOf(travel.getPickupPoint()),Toast.LENGTH_LONG).show();
             directionToPassengerRouter = new DirectionsJSONParser(gMap, currentMarker.getPosition(), destinationMarker.getPosition());
             directionToPassengerRouter.run();

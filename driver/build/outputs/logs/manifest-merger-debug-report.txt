@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
-INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
-INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
-INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.databinding:adapters:3.1.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\adapters-3.1.3.aar\19acd8fa0c298a39873600b9ad534a7a\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:3.1.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\library-3.1.3.aar\30d56d4f9aa338be1f35e086c53752d4\AndroidManifest.xml:17:1-24:12
@@ -95,16 +95,16 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Polycarp Kavoo\.gr
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\f4fc777942e6fada9951b46a1c89ca29\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.0.5.aar\4e134423cc0ae185ed17b5f1e7ecc1e2\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\4c3a5d78b7743252deec90915850434d\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
-INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
-INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
 	package
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml
 		INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
 		INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:3:5-51
@@ -112,7 +112,7 @@ INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:5:5-39
 	android:versionCode
 		INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-72:12
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:1-74:12
 		INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:2:11-69
@@ -128,70 +128,74 @@ MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediat
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:8:22-78
-uses-permission#android.permission.INTERNET
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\3749fd0c16d2d78d61fdf1e54556b50b\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\3749fd0c16d2d78d61fdf1e54556b50b\AndroidManifest.xml:9:5-67
-MERGED from [com.firebaseui:firebase-ui:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-3.3.1.aar\14143bad8abee8b73cc72672475f3bf1\AndroidManifest.xml:11:5-67
-MERGED from [com.firebaseui:firebase-ui:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-3.3.1.aar\14143bad8abee8b73cc72672475f3bf1\AndroidManifest.xml:11:5-67
-MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\c8f45b4abafd3826a2138e497222d71f\AndroidManifest.xml:13:5-67
-MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\c8f45b4abafd3826a2138e497222d71f\AndroidManifest.xml:13:5-67
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\fd6f570003d40cf66ed9bcfbb4baeb64\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\fd6f570003d40cf66ed9bcfbb4baeb64\AndroidManifest.xml:24:5-67
-MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-firestore-3.3.1.aar\a957af9e137bb3d59c0981acc6ecd218\AndroidManifest.xml:11:5-67
-MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-firestore-3.3.1.aar\a957af9e137bb3d59c0981acc6ecd218\AndroidManifest.xml:11:5-67
-MERGED from [com.firebaseui:firebase-ui-database:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-3.3.1.aar\caba4e601910d70c43c700cfe9cf0949\AndroidManifest.xml:11:5-67
-MERGED from [com.firebaseui:firebase-ui-database:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-3.3.1.aar\caba4e601910d70c43c700cfe9cf0949\AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\da5f1bc2b1757c9fe91b1986e4bcda0b\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\da5f1bc2b1757c9fe91b1986e4bcda0b\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\0de369d3d3490180e637803b5306e224\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\0de369d3d3490180e637803b5306e224\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\d1389193cfe009b513c3ecb226b64614\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\d1389193cfe009b513c3ecb226b64614\AndroidManifest.xml:23:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\2389965fbfef61ba8c2efbe1bf2d7ef7\AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\2389965fbfef61ba8c2efbe1bf2d7ef7\AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\375698fab37910b4b3072b2ce2035187\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\375698fab37910b4b3072b2ce2035187\AndroidManifest.xml:9:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\d3b12115d0f39968219d6fde0a915299\AndroidManifest.xml:29:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\d3b12115d0f39968219d6fde0a915299\AndroidManifest.xml:29:5-67
+uses-permission#com.javapapers.currentlocationinmap.permission.MAPS_RECEIVE
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:9:5-99
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:9:22-64
-uses-permission#android.permission.VIBRATE
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:10:5-66
-	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:10:22-63
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:9:22-96
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:11:5-98
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:10:5-98
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:11:22-95
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:10:22-95
+uses-permission#android.permission.INTERNET
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\3749fd0c16d2d78d61fdf1e54556b50b\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\3749fd0c16d2d78d61fdf1e54556b50b\AndroidManifest.xml:9:5-67
+MERGED from [com.firebaseui:firebase-ui:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-3.3.1.aar\14143bad8abee8b73cc72672475f3bf1\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-3.3.1.aar\14143bad8abee8b73cc72672475f3bf1\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\c8f45b4abafd3826a2138e497222d71f\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\c8f45b4abafd3826a2138e497222d71f\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\fd6f570003d40cf66ed9bcfbb4baeb64\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\fd6f570003d40cf66ed9bcfbb4baeb64\AndroidManifest.xml:24:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-firestore-3.3.1.aar\a957af9e137bb3d59c0981acc6ecd218\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-firestore-3.3.1.aar\a957af9e137bb3d59c0981acc6ecd218\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-3.3.1.aar\caba4e601910d70c43c700cfe9cf0949\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-3.3.1.aar\caba4e601910d70c43c700cfe9cf0949\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\da5f1bc2b1757c9fe91b1986e4bcda0b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\da5f1bc2b1757c9fe91b1986e4bcda0b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\0de369d3d3490180e637803b5306e224\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\0de369d3d3490180e637803b5306e224\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\d1389193cfe009b513c3ecb226b64614\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\d1389193cfe009b513c3ecb226b64614\AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\8c5f87cb7d11439b7d4a10466c254f64\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\2389965fbfef61ba8c2efbe1bf2d7ef7\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\2389965fbfef61ba8c2efbe1bf2d7ef7\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\375698fab37910b4b3072b2ce2035187\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\375698fab37910b4b3072b2ce2035187\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\d3b12115d0f39968219d6fde0a915299\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\d3b12115d0f39968219d6fde0a915299\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:12:22-63
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:12:5-80
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:14:5-80
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-81
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-81
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:1.12.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\imagepicker-1.12.0.aar\325151e63eb861566aa4e828526af518\AndroidManifest.xml:12:5-81
 MERGED from [com.github.esafirm.android-image-picker:imagepicker:1.12.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\imagepicker-1.12.0.aar\325151e63eb861566aa4e828526af518\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:12:22-78
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.CALL_PHONE
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:13:5-69
-	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:13:22-66
-uses-permission#android.permission.SEND_SMS
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:14:5-66
-	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:14:22-64
-uses-permission#android.permission.RECEIVE_SMS
 ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:15:5-69
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:15:22-67
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:15:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:17:5-69
+	android:name
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:17:22-67
 uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:16:5-93
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:18:5-93
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:16:22-90
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:18:22-90
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:17:5-79
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:19:5-79
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-79
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-79
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\c8f45b4abafd3826a2138e497222d71f\AndroidManifest.xml:12:5-79
@@ -205,9 +209,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Polyca
 MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\d1389193cfe009b513c3ecb226b64614\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\d1389193cfe009b513c3ecb226b64614\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:17:22-76
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:19:22-76
 application
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:19:5-70:19
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:21:5-72:19
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-30:19
 MERGED from [:common] D:\Projects\Tikoni\Annisa-Commons\common\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-30:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\3749fd0c16d2d78d61fdf1e54556b50b\AndroidManifest.xml:11:5-17:19
@@ -299,142 +303,142 @@ MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] C:\Users\Polycarp Kavoo\.
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\4c3a5d78b7743252deec90915850434d\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\4c3a5d78b7743252deec90915850434d\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:28:9-35
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:30:9-35
 	android:label
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:24:9-48
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:26:9-48
 		REJECTED from [com.github.kizitonwose.colorpreference:support:1.0.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\support-1.0.3.aar\61d1433a5ffdbd89a25270042e88ca24\AndroidManifest.xml:13:9-41
 		REJECTED from [com.github.sharish:CreditCardView:v1.0.4] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\CreditCardView-v1.0.4.aar\1f6f313f0e82c8849bbd6db966c5370a\AndroidManifest.xml:13:9-41
 		REJECTED from [com.github.kizitonwose.colorpreference:core:1.0.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\core-1.0.3.aar\cf9ccad0e83874813a3c214ebbbd5470\AndroidManifest.xml:13:9-41
 		REJECTED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\c9d7b8b90d74d45851e236f35d7d19d7\AndroidManifest.xml:13:9-41
 	android:hardwareAccelerated
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:26:9-44
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:28:9-44
 	android:fullBackupContent
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:22:9-41
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:24:9-41
 	android:largeHeap
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:27:9-33
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:29:9-33
 	android:icon
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:23:9-42
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:25:9-42
 	android:allowBackup
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:21:9-35
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:23:9-35
 	tools:replace
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:25:9-38
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:20:9-63
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:22:9-63
 meta-data#com.google.android.geo.API_KEY
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:30:9-32:55
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:32:9-34:55
 	android:value
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:32:13-52
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:34:13-52
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:31:13-58
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:33:13-58
 meta-data#io.fabric.ApiKey
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:33:9-36:72
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:35:9-38:72
 	tools:replace
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:35:13-42
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:37:13-42
 	android:value
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:36:13-69
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:34:13-44
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:36:13-44
 meta-data#com.google.android.gms.maps.API_OPTIONS
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:37:9-38:45
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:39:9-40:45
 	android:value
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:38:13-43
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:40:13-43
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:37:20-74
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:39:20-74
 activity#com.wizag.taxi.common.activities.chargeAccount.ChargeAccountActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:39:9-105
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:41:9-105
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:39:19-102
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:41:19-102
 activity#com.wizag.taxi.driver.activities.splash.SplashActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:40:9-46:20
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:42:9-48:20
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:40:19-88
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:42:19-88
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:41:13-45:29
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:43:13-47:29
 action#android.intent.action.MAIN
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:42:17-69
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:44:17-69
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:42:25-66
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:44:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:44:17-77
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:46:17-77
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:44:27-74
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:46:27-74
 activity#com.wizag.taxi.driver.activities.main.MainActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:47:9-189
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:49:9-189
 	android:clearTaskOnLaunch
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:47:117-149
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:49:117-149
 	android:launchMode
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:47:85-116
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:49:85-116
 	android:alwaysRetainTaskState
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:47:150-186
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:49:150-186
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:47:19-84
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:49:19-84
 activity#com.wizag.taxi.driver.activities.profile.ProfileActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:48:9-93
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:50:9-93
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:48:19-90
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:50:19-90
 receiver#com.wizag.taxi.driver.services.BootCompletedReceiver
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:50:9-54:20
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:52:9-56:20
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:50:19-86
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:52:19-86
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:51:13-53:29
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:53:13-55:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:52:17-79
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:54:17-79
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:52:25-76
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:54:25-76
 service#com.wizag.taxi.driver.services.DriverService
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:56:9-80
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:58:9-80
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:56:18-77
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:58:18-77
 activity#com.cooltechworks.creditcarddesign.CardEditActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:57:9-59:93
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:59:9-61:93
 	android:screenOrientation
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:59:13-49
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:61:13-49
 	android:theme
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:59:50-90
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:61:50-90
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:58:13-79
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:60:13-79
 activity#com.wizag.taxi.driver.activities.travel.TravelActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:60:9-128
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:62:9-128
 	android:screenOrientation
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:60:89-125
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:62:89-125
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:60:19-88
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:62:19-88
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:61:9-63:93
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:63:9-65:93
 	android:screenOrientation
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:63:13-49
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:13-49
 	android:theme
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:63:50-90
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:50-90
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:62:13-60
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:64:13-60
 activity#com.gun0912.tedpermission.TedPermissionActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:9-349
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:67:9-349
 MERGED from [gun0912.ted:tedpermission:2.0.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.3.aar\59b62c71717f383b84eefcb16dfbfbf4\AndroidManifest.xml:10:9-14:67
 MERGED from [gun0912.ted:tedpermission:2.0.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.3.aar\59b62c71717f383b84eefcb16dfbfbf4\AndroidManifest.xml:10:9-14:67
 	android:screenOrientation
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:214-253
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:67:214-253
 		REJECTED from [gun0912.ted:tedpermission:2.0.3] C:\Users\Polycarp Kavoo\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.3.aar\59b62c71717f383b84eefcb16dfbfbf4\AndroidManifest.xml:13:13-49
 	android:configChanges
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:82-213
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:67:82-213
 	android:theme
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:254-305
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:67:254-305
 	tools:replace
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:306-347
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:67:306-347
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:65:19-81
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:67:19-81
 activity#com.wizag.taxi.driver.activities.statistics.StatisticsActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:66:9-67:92
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:68:9-69:92
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:67:13-90
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:69:13-90
 activity#com.wizag.taxi.driver.activities.about.AboutActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:68:9-88
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:70:9-88
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:68:19-86
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:70:19-86
 activity#com.wizag.taxi.common.activities.login.LoginActivity
-ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:69:9-88
+ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:71:9-88
 	android:name
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:69:19-86
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:71:19-86
 uses-sdk
 INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml

@@ -259,7 +259,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                                         //set what would happen when positive button is clicked
                                         //finish();
 
-                                        String message = "There is an emergency on an Anisa ride for user\t";
+                                        String message = "There is an emergency on an Anisa ride for:\t Rider";
                                         String phoneNo = "+254714980450";
 
                                         //for getting multiple numbers that are separated by a comma eg 144,234
@@ -579,10 +579,10 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
             //((TrailSupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).setUpPath(latLngs, mMap, RouteOverlayView.AnimType.ARC);
             Bitmap pickUpBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.marker_pickup);
             pickupPoint = mMap.addMarker(new MarkerOptions().position(travel.getPickupPoint()).icon(BitmapDescriptorFactory.fromBitmap(pickUpBitmap)));
-            Log.d("Coordinates are",String.valueOf(travel.getPickupPoint()));
+           // Log.d("Coordinates are",String.valueOf(travel.getPickupPoint()));
             Bitmap dropBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.marker_destination);
             destinationPoint = mMap.addMarker(new MarkerOptions().position(travel.getDestinationPoint()).icon(BitmapDescriptorFactory.fromBitmap(dropBitmap)));
-            Log.d("Coordinates for destination",String.valueOf(travel.getDestinationPoint()));
+           // Log.d("Coordinates for destination",String.valueOf(travel.getDestinationPoint()));
             showCurvedPolyline(travel.getPickupPoint(), travel.getDestinationPoint(), 0.2);
             //Polyline polyline1 = mMap.addPolyline(new PolylineOptions().clickable(true).add(pickupLatLng,destinationLatLng).color(getPrimaryColor()).endCap(new RoundCap()).startCap(new RoundCap()));
         }, 1500);
@@ -864,7 +864,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
             @Override
             public void onReceive(Context arg0, Intent arg1) {
                 switch (getResultCode()) {
-                    case Activity.RESULT_OK:
+                    case RESULT_OK:
                         Toast.makeText(getBaseContext(), "SMS sent",
                                 Toast.LENGTH_SHORT).show();
                         break;
@@ -893,7 +893,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
             @Override
             public void onReceive(Context arg0, Intent arg1) {
                 switch (getResultCode()) {
-                    case Activity.RESULT_OK:
+                    case RESULT_OK:
                         Toast.makeText(getBaseContext(), "SMS delivered",
                                 Toast.LENGTH_SHORT).show();
                         break;

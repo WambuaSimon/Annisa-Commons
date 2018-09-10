@@ -4,12 +4,14 @@ import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.FragmentManager;
+import android.support.v7.app.AlertDialog;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
@@ -120,10 +122,11 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
         new MaterialDialog.Builder(this)
                 .title(R.string.message_default_title)
                 .content(message)
+                .cancelable(false)
                 .positiveText("Pay via Paybill")
                 .onPositive((dialog, which) -> {
                     /*alert helper->initiating payment*/
-
+                    AlerterHelper.showInfo(TravelActivity.this, "Initiating Payment...");
                     Pay();
                     if (travelTabsViewPagerAdapter.getCount() == 2) {
                         finish();
@@ -184,11 +187,23 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void onTravelStarted(ServiceStartedEvent event) {
         travel.setStartTimestamp(new Timestamp(System.currentTimeMillis()));
-        AlerterHelper.showInfo(TravelActivity.this, getString(R.string.message_travel_started));
-        updateMarkers();
-        TransitionManager.beginDelayedTransition((ViewGroup) (binding.getRoot()));
-        binding.slideCall.setVisibility(View.GONE);
-        binding.slideCancel.setVisibility(View.GONE);
+        /*alert dialog*/
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setMessage("Travel has been started.")
+                .setCancelable(false)
+                .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        updateMarkers();
+                        TransitionManager.beginDelayedTransition((ViewGroup) (binding.getRoot()));
+                        binding.slideCall.setVisibility(View.GONE);
+                        binding.slideCancel.setVisibility(View.GONE);
+                    }
+                });
+        AlertDialog alert = builder.create();
+        alert.show();
+
+//        AlerterHelper.showInfo(TravelActivity.this, getString(R.string.message_travel_started));
+
     }
 
     @Override
