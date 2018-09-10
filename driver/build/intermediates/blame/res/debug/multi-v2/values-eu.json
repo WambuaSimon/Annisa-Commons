@@ -1,61 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "/home/wizag/Mobile Projects/Annisa-Commons/driver/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\values-eu\\values-eu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,312,422,508,614,738,825,909,991,1100,1210,1309,1418,1524,1635,1806,1905",
-                        "endColumns": "108,97,109,85,105,123,86,83,81,108,109,98,108,105,110,170,98,81",
-                        "endOffsets": "209,307,417,503,609,733,820,904,986,1095,1205,1304,1413,1519,1630,1801,1900,1982"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,312,422,508,614,738,825,909,991,1100,1210,1309,1418,1524,1635,1806,4681",
-                        "endColumns": "108,97,109,85,105,123,86,83,81,108,109,98,108,105,110,170,98,81",
-                        "endOffsets": "209,307,417,503,609,733,820,904,986,1095,1205,1304,1413,1519,1630,1801,1900,4758"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-15.0.0.aar\\97032f2613b4aa2cc605bbc6d05b379b\\res\\values-eu\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "200",
-                        "endColumns": "106",
-                        "endOffsets": "306"
-                    },
-                    "to": {
-                        "startLines": "39",
-                        "startColumns": "4",
-                        "startOffsets": "4864",
-                        "endColumns": "110",
-                        "endOffsets": "4970"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\values-eu\\values-eu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4763",
-                        "endColumns": "100",
-                        "endOffsets": "4859"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\values-eu\\values.xml",
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/values-eu/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\c2c539f0e081fa93ae7c468a84e22f2f\\res\\values-eu\\values.xml",
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/eb2fddcf9d761e1ef01cb7239e7e8fe4/res/values-eu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -86,6 +35,57 @@
                         "startOffsets": "3082",
                         "endColumns": "200",
                         "endOffsets": "3278"
+                    }
+                },
+                {
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4763",
+                        "endColumns": "100",
+                        "endOffsets": "4859"
+                    }
+                },
+                {
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.0.aar/089074d967fc6abd589aa15cb999b691/res/values-eu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "200",
+                        "endColumns": "106",
+                        "endOffsets": "306"
+                    },
+                    "to": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "4864",
+                        "endColumns": "110",
+                        "endOffsets": "4970"
+                    }
+                },
+                {
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,312,422,508,614,738,825,909,991,1100,1210,1309,1418,1524,1635,1806,1905",
+                        "endColumns": "108,97,109,85,105,123,86,83,81,108,109,98,108,105,110,170,98,81",
+                        "endOffsets": "209,307,417,503,609,733,820,904,986,1095,1205,1304,1413,1519,1630,1801,1900,1982"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,312,422,508,614,738,825,909,991,1100,1210,1309,1418,1524,1635,1806,4681",
+                        "endColumns": "108,97,109,85,105,123,86,83,81,108,109,98,108,105,110,170,98,81",
+                        "endOffsets": "209,307,417,503,609,733,820,904,986,1095,1205,1304,1413,1519,1630,1801,1900,4758"
                     }
                 }
             ]

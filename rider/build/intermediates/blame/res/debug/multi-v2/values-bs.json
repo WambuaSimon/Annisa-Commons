@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\values-bs\\values.xml",
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/values-bs/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\c2c539f0e081fa93ae7c468a84e22f2f\\res\\values-bs\\values.xml",
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/eec48507d69f593a781a769de98883cb/res/values-bs/values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "193,300",
+                        "endColumns": "106,90",
+                        "endOffsets": "299,390"
+                    },
+                    "to": {
+                        "startLines": "37,38",
+                        "startColumns": "4,4",
+                        "startOffsets": "4587,4698",
+                        "endColumns": "110,94",
+                        "endOffsets": "4693,4788"
+                    }
+                },
+                {
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/eb2fddcf9d761e1ef01cb7239e7e8fe4/res/values-bs/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\values-bs\\values-bs.xml",
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/values-bs/values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -55,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\values-bs\\values-bs.xml",
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/values-bs/values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -69,23 +86,6 @@
                         "startOffsets": "105,224,333,440,526,630,752,834,915,1001,1104,1209,1307,1412,1525,1630,1805,4793",
                         "endColumns": "118,108,106,85,103,121,81,80,85,102,104,97,104,112,104,174,96,83",
                         "endOffsets": "219,328,435,521,625,747,829,910,996,1099,1204,1302,1407,1520,1625,1800,1897,4872"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\a833133c2ea6112147bfb6e4bcdf2448\\res\\values-bs\\values.xml",
-                    "from": {
-                        "startLines": "4,5",
-                        "startColumns": "0,0",
-                        "startOffsets": "193,300",
-                        "endColumns": "106,90",
-                        "endOffsets": "299,390"
-                    },
-                    "to": {
-                        "startLines": "37,38",
-                        "startColumns": "4,4",
-                        "startOffsets": "4587,4698",
-                        "endColumns": "110,94",
-                        "endOffsets": "4693,4788"
                     }
                 }
             ]

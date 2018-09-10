@@ -157,6 +157,7 @@ public class SplashActivity extends BaseActivity {
         }
 
         CommonUtils.driver = new Gson().fromJson(SP.getString("driver_user", "{}"), Driver.class);
+
         startMainActivity();
     }
 

@@ -123,12 +123,12 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
                 .title(R.string.message_default_title)
                 .content(message)
                 .cancelable(false)
-                .positiveText("Pay via Paybill")
+                .positiveText("Pay Cash")
                 .onPositive((dialog, which) -> {
                     /*alert helper->initiating payment*/
-                    AlerterHelper.showInfo(TravelActivity.this, "Initiating Payment...");
+                /*    AlerterHelper.showInfo(TravelActivity.this, "Initiating Payment...");
                     Pay();
-                    if (travelTabsViewPagerAdapter.getCount() == 2) {
+                */    if (travelTabsViewPagerAdapter.getCount() == 2) {
                         finish();
                         return;
 
@@ -139,12 +139,12 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
                     ReviewDialog reviewDialog = ReviewDialog.newInstance();
                     reviewDialog.show(fm, "fragment_review_travel");
                 })
-                .negativeText("Pay Cash")
+             /*   .negativeText("Pay Cash")
                 .onNegative(((dialog, which) -> {
                     FragmentManager fm = getSupportFragmentManager();
                     ReviewDialog reviewDialog = ReviewDialog.newInstance();
                     reviewDialog.show(fm, "fragment_review_travel");
-                }))
+                }))*/
                 .show();
     }
 

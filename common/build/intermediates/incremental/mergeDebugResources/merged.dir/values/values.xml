@@ -1769,6 +1769,7 @@
     <string name="drawer_edit_profile">Edit Profile</string>
     <string name="drawer_exit">Exit</string>
     <string name="drawer_favorite_locations">Favorite Locations</string>
+    <string name="drawer_header_balance">Credit: %.0f Ksh</string>
     <string name="drawer_header_unknown">Unknown</string>
     <string name="drawer_invite_friends">Send Invitation</string>
     <string name="drawer_options">Options</string>

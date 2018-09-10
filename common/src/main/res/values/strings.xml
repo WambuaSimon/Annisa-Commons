@@ -96,7 +96,7 @@
     <string name="activity_settings">Settings</string>
     <string name="drawer_charge_account">Wallet</string>
     <string name="about_rider_description">Rider An nisa application.</string>
-    <!--<string name="drawer_header_balance">Credit: %.0f Ksh</string>-->
+    <string name="drawer_header_balance">Credit: %.0f Ksh</string>
     <string name="account_balance">Account balance</string>
     <string name="write_your_review_here">Write your review here…</string>
     <string name="review_action">Review</string>

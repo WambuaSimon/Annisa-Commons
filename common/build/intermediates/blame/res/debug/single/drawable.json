@@ -1,602 +1,602 @@
 [
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_mail_white_24dp.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_ic_mail_white_24dp.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_idp_button_background_phone.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_idp_button_background_phone.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_billing_mastercard_logo.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\ic_billing_mastercard_logo.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_error.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/ic_error.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\ic_info.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\travel_card_cost.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\travel_card_cost.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_google.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_idp_button_background_google.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_idp_button_background_google.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_idp_button_background_google.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_google_play.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_google_play.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/card_color_round_rect_default.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/card_color_round_rect_default.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_selector.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_selector.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_facebook.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_facebook.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_twitter_bird_white_24dp.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_ic_twitter_bird_white_24dp.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_idp_button_background_twitter.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_idp_button_background_twitter.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/sign_strip.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/sign_strip.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_email.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_email.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\visacard_back.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\visacard_back.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\ic_photo_camera.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/chevron_left.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/chevron_left.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\copyright.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\copyright.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/tooltip_frame_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_auth_icon.png",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\phone_auth_icon.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/tooltip_frame_light.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\sv_thumb.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\slideview-1.1.0.aar\\ef28dd78466f7fa79bb5d4e2b042426e\\res\\drawable\\sv_thumb.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_btn_selector.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_vector_loader_animated.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable\\ucrop_vector_loader_animated.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_info.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/ic_info.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/payment_online.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/payment_online.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\card_color_round_rect_pink.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_pink.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_item_selected.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_billing_amex_logo1.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/ic_billing_amex_logo1.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\design_password_eye.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\menu.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/preference_list_divider_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/drawable/preference_list_divider_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_billing_visa_logo.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\ic_billing_visa_logo.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_strip_mod.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\sign_strip_mod.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_destination.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/ic_destination.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_link.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_link.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/finish_travel.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/finish_travel.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\payment_stripe.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\payment_stripe.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\drawable\\notification_bg.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/call.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/call.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_ic_facebook_white_22dp.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_ic_facebook_white_22dp.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_selector_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_done_check_mark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_done_check_mark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/mastercard_back_bg.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/mastercard_back_bg.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/add.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/add.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/start_travel.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/start_travel.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/chevron_right.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/chevron_right.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_item_invite.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\nav_item_invite.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_ic_googleg_color_24dp.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_ic_googleg_color_24dp.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\add.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\add.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable/design_password_eye.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\user_placeholder.png",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\user_placeholder.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/check.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/check.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\finish_travel.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\finish_travel.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/visacard_back_bg.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/visacard_back_bg.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/nav_item_edit_profile.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/nav_item_edit_profile.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_item_selected_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ef_folder_placeholder.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.12.0.aar\\325151e63eb861566aa4e828526af518\\res\\drawable\\ef_folder_placeholder.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/copyright.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/copyright.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_transparent.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_instagram.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_instagram.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ucrop_vector_ic_crop.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable/ucrop_vector_ic_crop.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_item_travels.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\nav_item_travels.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_selector.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_youtube.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_youtube.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ucrop_shadow_upside.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable/ucrop_shadow_upside.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_destination.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\ic_destination.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/img_amex_center_face.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/img_amex_center_face.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_github.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_github.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ucrop_vector_loader.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable/ucrop_vector_loader.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_strip.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\sign_strip.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\chevron_right.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\chevron_right.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/chip_yellow_inner.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/chip_yellow_inner.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_item_selected.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_item_selected.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ef_image_placeholder.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/2e9a25109dc11853b95080fe8368853a/res/drawable/ef_image_placeholder.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_item_settings.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\nav_item_settings.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_pickup_dropoff.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/ic_pickup_dropoff.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\chip.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\chip.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\master_back.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\master_back.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/nav_item_about.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/nav_item_about.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_photo_camera.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/ic_photo_camera.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_list_divider_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-27.1.0.aar\\dc0d2a3778a86660732d2eba6775cec1\\res\\drawable\\preference_list_divider_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/sv_thumb.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/slideview-1.1.0.aar/95365512bfb9282a879d2e56c509cd41/res/drawable/sv_thumb.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\start_travel.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\start_travel.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_billing_amex_logo.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/ic_billing_amex_logo.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_twitter.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_twitter.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/divider_8dp.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/divider_8dp.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\card_color_round_rect_green.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_green.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_googleg_color_24dp.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_ic_googleg_color_24dp.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/user_placeholder.png",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/user_placeholder.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_vector_loader.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable\\ucrop_vector_loader.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_ic_mail_white_24dp.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_ic_mail_white_24dp.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\mastercard_back_bg.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\mastercard_back_bg.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/travel_card_duration.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/travel_card_duration.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/nav_item_exit.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/nav_item_exit.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\travel_card_distance.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\travel_card_distance.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\sv_view_bg.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\slideview-1.1.0.aar\\ef28dd78466f7fa79bb5d4e2b042426e\\res\\drawable\\sv_view_bg.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/chip_yellow.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/chip_yellow.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_btn_selector_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_item_exit.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\nav_item_exit.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_billing_amex_logo1.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\ic_billing_amex_logo1.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\card_color_round_rect_blue.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_blue.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_btn_selected_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\payment_online.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\payment_online.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/card_color_round_rect_pink.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/card_color_round_rect_pink.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_item_edit_profile.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\nav_item_edit_profile.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_idp_button_background_facebook.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_idp_button_background_facebook.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_shadow_upside.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable\\ucrop_shadow_upside.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/menu.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/menu.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_8dp.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\divider_8dp.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/nav_item_charge_account.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/nav_item_charge_account.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_btn_selected_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/chip.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/chip.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/card_color_round_rect_brown.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/card_color_round_rect_brown.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_google_play.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_google_play.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\chip_inner.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\chip_inner.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/nav_item_travels.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/nav_item_travels.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ef_image_placeholder.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.12.0.aar\\325151e63eb861566aa4e828526af518\\res\\drawable\\ef_image_placeholder.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ucrop_vector_loader_animated.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable/ucrop_vector_loader_animated.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_item_selected_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_item_selected_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/phone_auth_icon.png",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/phone_auth_icon.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_billing_visa_logo.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/ic_billing_visa_logo.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\call.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\call.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/card_color_round_rect_blue.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/card_color_round_rect_blue.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\chevron_left.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\chevron_left.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_link.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_link.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\tooltip_frame_dark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/payment_stripe.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/payment_stripe.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\chip_yellow.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\chip_yellow.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\tooltip_frame_light.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/sign_strip_mod.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/sign_strip_mod.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_facebook.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_idp_button_background_facebook.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_warning.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/ic_warning.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_phone_white_24dp.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_ic_phone_white_24dp.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_error.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\ic_error.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_idp_button_background_email.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_idp_button_background_email.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_youtube.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_youtube.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/chip_inner.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/chip_inner.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_phone.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_idp_button_background_phone.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_btn_selector.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_btn_selected.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_btn_selected.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_email.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_email.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/travel_card_cost.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/travel_card_cost.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\card_color_round_rect_brown.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_brown.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/nav_item_invite.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/nav_item_invite.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_billing_amex_logo.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\ic_billing_amex_logo.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/master_back.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/master_back.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\2b0daaa72585469ff56c632251a8fe6b\\res\\drawable\\design_fab_background.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/header_material.jpg",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/header_material.jpg"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_twitter.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_twitter.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_facebook_white_22dp.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_ic_facebook_white_22dp.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_warning.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\ic_warning.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/visacard_back.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/visacard_back.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\in_location.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\in_location.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/nav_item_settings.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/nav_item_settings.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_instagram.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_instagram.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\card_color_round_rect_default.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_default.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\header_material.jpg",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\header_material.jpg"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_selector_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_done_check_mark.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_done_check_mark.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_ic_twitter_bird_white_24dp.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_ic_twitter_bird_white_24dp.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\cancel.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/fui_ic_phone_white_24dp.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/res/drawable/fui_ic_phone_white_24dp.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_twitter.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_idp_button_background_twitter.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\9f762f3dea408f00b7970c2f3fa3726e\\res\\drawable\\md_btn_selected.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_email.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-3.3.1.aar\\c8f45b4abafd3826a2138e497222d71f\\res\\drawable\\fui_idp_button_background_email.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ef_folder_placeholder.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/2e9a25109dc11853b95080fe8368853a/res/drawable/ef_folder_placeholder.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_vector_ic_crop.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.1.aar\\cb4ea7ee828a23369f32c2fe28e4bb96\\res\\drawable\\ucrop_vector_ic_crop.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_item_charge_account.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\nav_item_charge_account.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/in_location.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/in_location.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\travel_card_duration.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\travel_card_duration.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/about_icon_github.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/drawable/about_icon_github.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/card_color_round_rect_green.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/card_color_round_rect_green.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/travel_card_distance.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/travel_card_distance.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\chip_yellow_inner.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\chip_yellow_inner.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\visacard_back_bg.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\visacard_back_bg.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\card_color_round_rect_purple.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\card_color_round_rect_purple.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/ic_billing_mastercard_logo.png",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/ic_billing_mastercard_logo.png"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\04621c2d27194b25d18f601bb4aa0ea5\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_btn_selector_dark.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\177905240f58f889b8adf96c7de8c73f\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cabb13066818ada521254aa2ca79996b/res/drawable/md_transparent.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\check.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\check.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_item_about.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\nav_item_about.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/cancel.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable/cancel.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pickup_dropoff.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\src\\main\\res\\drawable\\ic_pickup_dropoff.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/card_color_round_rect_purple.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/drawable/card_color_round_rect_purple.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\img_amex_center_face.png",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\CreditCardView-v1.0.4.aar\\1f6f313f0e82c8849bbd6db966c5370a\\res\\drawable\\img_amex_center_face.png"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/80e1ead2ac75eaa3cdc7cde0efffac26/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3075d9ecc95a4c1d349fca47ed1e71c5\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f80190388f53a2965ed749c23ccdf4c8/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_facebook.xml",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\drawable\\about_icon_facebook.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable/sv_view_bg.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/slideview-1.1.0.aar/95365512bfb9282a879d2e56c509cd41/res/drawable/sv_view_bg.xml"
     }
 ]

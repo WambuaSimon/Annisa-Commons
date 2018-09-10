@@ -1,58 +1,58 @@
 [
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_travel_review.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\fragment_travel_review.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_addresses.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/activity_addresses.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_request_service.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\dialog_request_service.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_edit_profile.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/activity_edit_profile.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_travel_stats.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\fragment_travel_stats.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_travel_driver.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/fragment_travel_driver.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_addresses.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\activity_addresses.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_travel_review.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/fragment_travel_review.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_address.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\item_address.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_address.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/item_address.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_service.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\item_service.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_edit_address.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/fragment_edit_address.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_driver_accepted.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\card_driver_accepted.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_travel.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/activity_travel.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_travel_driver.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\fragment_travel_driver.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_service.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/item_service.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit_address.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\fragment_edit_address.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_driver_accepted.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/card_driver_accepted.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_profile.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\activity_edit_profile.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_review.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/fragment_review.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_review.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\fragment_review.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_request_service.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/dialog_request_service.xml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_travel.xml",
-        "source": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\src\\main\\res\\layout\\activity_travel.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_travel_stats.xml",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/res/layout/fragment_travel_stats.xml"
     }
 ]

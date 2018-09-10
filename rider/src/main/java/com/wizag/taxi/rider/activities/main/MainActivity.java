@@ -655,7 +655,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(currentLocation, 16.0f));
-        mMap.setTrafficEnabled(true);
+//        mMap.setTrafficEnabled(true);
         LocationManager locationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
         assert locationManager != null;
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 5000, 5, this);

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-se\\values-se.xml",
+            "outputFile": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/incremental/mergeDebugResources/merged.dir/values-se/values-se.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.1.aar\\52a0b61ea5b0c80a7e99bdd8ca3c03b3\\res\\values-se\\values-se.xml",
+                    "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.1.aar/751a8156556f4eba24b9f81d6d5533f1/res/values-se/values-se.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
