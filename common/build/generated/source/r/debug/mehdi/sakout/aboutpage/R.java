@@ -775,8 +775,8 @@ public final class R {
         public static int about_twitter = 0x7f150029;
         public static int about_website = 0x7f15002a;
         public static int about_youtube = 0x7f15002b;
-        public static int search_menu_title = 0x7f150169;
-        public static int status_bar_notification_info_overflow = 0x7f150178;
+        public static int search_menu_title = 0x7f150168;
+        public static int status_bar_notification_info_overflow = 0x7f150177;
     }
     public static final class style {
         public static int AlertDialog_AppCompat = 0x7f160001;

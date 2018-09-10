@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\mpl_20_full.txt"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\bsd3_summary.txt",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\bsd3_summary.txt"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\notices.xml",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\notices.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\bsd3_summary.txt",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\bsd3_summary.txt"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multiple_placemarks.kml",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e234d2b7765dbdbeda9a33d854d285b0\\res\\raw\\amu_default_balloon.kml"
     },
     {
-        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\sil_ofl_11_full.txt",
-        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\sil_ofl_11_full.txt"
-    },
-    {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\ccand_30_full.txt",
         "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\ccand_30_full.txt"
+    },
+    {
+        "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\sil_ofl_11_full.txt",
+        "source": "C:\\Users\\Polycarp Kavoo\\.gradle\\caches\\transforms-1\\files-1.1\\licensesdialog-1.8.3.aar\\91c77635d833bc6c653aa000931d6c5e\\res\\raw\\sil_ofl_11_full.txt"
     },
     {
         "merged": "D:\\Projects\\Tikoni\\Annisa-Commons\\common\\build\\intermediates\\res\\merged\\debug\\raw\\epl_v10_summary.txt",

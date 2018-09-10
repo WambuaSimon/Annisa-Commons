@@ -859,16 +859,16 @@ public final class R {
         public static int card_mm_yy = 0x7f150042;
         public static int card_number = 0x7f150043;
         public static int done = 0x7f150076;
-        public static int error_card_expired = 0x7f1500ae;
-        public static int error_invalid_month = 0x7f1500b4;
-        public static int expiry = 0x7f1500c5;
-        public static int hello_world = 0x7f150119;
-        public static int mm_yy = 0x7f150135;
-        public static int name_on_card = 0x7f150139;
-        public static int next = 0x7f15013a;
-        public static int previous = 0x7f15014f;
-        public static int search_menu_title = 0x7f150169;
-        public static int status_bar_notification_info_overflow = 0x7f150178;
+        public static int error_card_expired = 0x7f1500ad;
+        public static int error_invalid_month = 0x7f1500b3;
+        public static int expiry = 0x7f1500c4;
+        public static int hello_world = 0x7f150118;
+        public static int mm_yy = 0x7f150134;
+        public static int name_on_card = 0x7f150138;
+        public static int next = 0x7f150139;
+        public static int previous = 0x7f15014e;
+        public static int search_menu_title = 0x7f150168;
+        public static int status_bar_notification_info_overflow = 0x7f150177;
     }
     public static final class style {
         public static int AlertDialog_AppCompat = 0x7f160001;
