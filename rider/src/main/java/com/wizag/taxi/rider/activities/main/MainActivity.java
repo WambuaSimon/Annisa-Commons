@@ -665,7 +665,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
             eventBus.post(new GetDriversLocationEvent(googleMap.getCameraPosition().target));
 
         });
-        if (getResources().getBoolean(R.bool.isNightMode)) {
+        if (getResources().getBoolean(R.bool.isNotNightMode)) {
             mMap.setMapStyle(MapStyleOptions.loadRawResourceStyle(this, R.raw.map_night));
         }
         mMap.setOnCameraMoveListener(() -> ((TrailSupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).onCameraMove(mMap));
@@ -697,7 +697,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                 name = CommonUtils.rider.getFirstName() + " " + CommonUtils.rider.getLastName();
             View header = binding.navigationView.getHeaderView(0);
             ((TextView) header.findViewById(R.id.navigation_header_name)).setText(name);
-            ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.rider.getBalance()));
+           // ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.rider.getBalance()));
             ImageView imageView = header.findViewById(R.id.navigation_header_image);
             DataBinder.setMedia(imageView, CommonUtils.rider.getMedia());
         } catch (Exception e) {

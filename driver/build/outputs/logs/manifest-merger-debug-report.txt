@@ -317,7 +317,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Us
 	android:largeHeap
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:29:9-33
 	android:icon
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:25:9-42
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:25:9-39
 	android:allowBackup
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\driver\src\main\AndroidManifest.xml:23:9-35
 	tools:replace

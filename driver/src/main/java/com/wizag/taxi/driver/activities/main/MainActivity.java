@@ -274,7 +274,7 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
         assert locationManager != null;
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 5000, 5, this);
         getLastKnownLocation();
-        if (getResources().getBoolean(R.bool.isNightMode)) {
+        if (getResources().getBoolean(R.bool.isNotNightMode)) {
             boolean success = mMap.setMapStyle(
                     MapStyleOptions.loadRawResourceStyle(
                             this, R.raw.map_night));
@@ -423,7 +423,7 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
                 name = CommonUtils.driver.getFirstName() + " " + CommonUtils.driver.getLastName();
             View header = binding.navigationView.getHeaderView(0);
             ((TextView) header.findViewById(R.id.navigation_header_name)).setText(name);
-            ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.driver.getBalance()));
+         //   ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.driver.getBalance()));
             ImageView imageView = header.findViewById(R.id.navigation_header_image);
             ImageView headerView = header.findViewById(R.id.navigation_background);
             DataBinder.setMedia(imageView, CommonUtils.driver.getMedia());

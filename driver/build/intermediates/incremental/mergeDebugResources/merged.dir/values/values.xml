@@ -1722,7 +1722,7 @@
     <string name="alert_ok">OK</string>
     <string name="alert_retry">Retry</string>
     <string name="alert_send">Send</string>
-    <string name="app_name">An nisa</string>
+    <string name="app_name">An nisa Taxi</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="call">Call</string>
@@ -1741,7 +1741,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">d5d5b666-b73c-4c38-b0b1-6f14ff1a4eb8</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">a5866605-d626-4465-8a31-357af1f1aa84</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1786,7 +1786,6 @@
     <string name="drawer_edit_profile">Edit Profile</string>
     <string name="drawer_exit">Exit</string>
     <string name="drawer_favorite_locations">Favorite Locations</string>
-    <string name="drawer_header_balance">Credit: %.0f Ksh</string>
     <string name="drawer_header_unknown">Unknown</string>
     <string name="drawer_invite_friends">Send Invitation</string>
     <string name="drawer_options">Options</string>
@@ -1985,7 +1984,7 @@
     <string name="message_verification">Enter your mobile number that you want to receive activation code.</string>
     <string name="message_verify">A code has been sent to your phone. Enter it here.</string>
     <string name="mm_yy">MM/YY</string>
-    <string name="mobile_number">Mobile Number</string>
+    <string name="mobile_number">7xxxxxxxx</string>
     <string name="msg.alert_cleared">Alert Cleared</string>
     <string name="msg.no_alert_showing">No Alert Showing</string>
     <string name="name_on_card">NAME ON CARD</string>

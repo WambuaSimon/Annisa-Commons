@@ -341,7 +341,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Us
 	android:fullBackupContent
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\rider\src\main\AndroidManifest.xml:27:9-42
 	android:icon
-		ADDED from D:\Projects\Tikoni\Annisa-Commons\rider\src\main\AndroidManifest.xml:28:9-42
+		ADDED from D:\Projects\Tikoni\Annisa-Commons\rider\src\main\AndroidManifest.xml:28:9-39
 	android:allowBackup
 		ADDED from D:\Projects\Tikoni\Annisa-Commons\rider\src\main\AndroidManifest.xml:25:9-35
 	tools:replace

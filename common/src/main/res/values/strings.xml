@@ -46,7 +46,7 @@
     <string name="about_contacts">Contact Information</string>
     <string name="version_name">Version %s</string>
     <string name="legal_notices">Legal Notices</string>
-    <string name="mobile_number">Mobile Number</string>
+    <string name="mobile_number">7xxxxxxxx</string>
     <string name="id_header"># %d</string>
     <string name="email_title">E-Mail</string>
     <string name="first_name">First Name</string>
@@ -92,7 +92,7 @@
     <string name="from_you">From You</string>
     <string name="unit_distance_bare">Km</string>
     <string name="login_failed">Login Failed.</string><!--Rider Specific Strings-->
-    <string name="app_name">An nisa</string>
+    <string name="app_name">An nisa Taxi</string>
     <string name="activity_settings">Settings</string>
     <string name="drawer_charge_account">Wallet</string>
     <string name="about_rider_description">Rider An nisa application.</string>

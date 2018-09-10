@@ -47,7 +47,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:hint="@string/mobile_number"
+        android:hint=""
         android:inputType="phone"
         android:singleLine="true"
         app:layout_constraintLeft_toLeftOf="parent"

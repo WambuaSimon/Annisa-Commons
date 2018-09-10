@@ -733,17 +733,18 @@ public final class R {
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent = 0x7f050003;
         public static final int auto_select_first_driver = 0x7f050004;
         public static final int isNightMode = 0x7f050005;
-        public static final int is_call_request_enabled_driver = 0x7f050006;
-        public static final int is_call_request_enabled_rider = 0x7f050007;
-        public static final int is_direct_call_enabled_driver = 0x7f050008;
-        public static final int is_direct_call_enabled_rider = 0x7f050009;
-        public static final int payment_stripe_enabled = 0x7f05000a;
-        public static final int payment_web_enabled = 0x7f05000b;
-        public static final int read_only_driver_profile = 0x7f05000c;
-        public static final int request_payment_enabled = 0x7f05000d;
-        public static final int use_custom_fee = 0x7f05000e;
-        public static final int use_custom_login = 0x7f05000f;
-        public static final int use_date_converter = 0x7f050010;
+        public static final int isNotNightMode = 0x7f050006;
+        public static final int is_call_request_enabled_driver = 0x7f050007;
+        public static final int is_call_request_enabled_rider = 0x7f050008;
+        public static final int is_direct_call_enabled_driver = 0x7f050009;
+        public static final int is_direct_call_enabled_rider = 0x7f05000a;
+        public static final int payment_stripe_enabled = 0x7f05000b;
+        public static final int payment_web_enabled = 0x7f05000c;
+        public static final int read_only_driver_profile = 0x7f05000d;
+        public static final int request_payment_enabled = 0x7f05000e;
+        public static final int use_custom_fee = 0x7f05000f;
+        public static final int use_custom_login = 0x7f050010;
+        public static final int use_date_converter = 0x7f050011;
     }
     public static final class color {
         public static final int Lilac = 0x7f060000;
