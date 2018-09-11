@@ -209,7 +209,7 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
     @Override
     public void onMapReady(final GoogleMap googleMap) {
         gMap = googleMap;
-        gMap.setTrafficEnabled(true);
+//        gMap.setTrafficEnabled(true);
         updateMarkers();
     }
 
@@ -236,7 +236,7 @@ public class TravelActivity extends BaseActivity implements OnMapReadyCallback, 
             if (driverMarker == null)
                 driverMarker = gMap.addMarker(new MarkerOptions()
                         .position(driverLocation)
-                        .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi)));
+                        .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi)).flat(true).anchor(0.5f ,0.5f).rotation(90.0f));
             else
                 driverMarker.setPosition(driverLocation);
         } else {

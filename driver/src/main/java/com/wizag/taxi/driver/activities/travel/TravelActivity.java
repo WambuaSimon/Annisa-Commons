@@ -86,14 +86,14 @@ public class  TravelActivity extends DriverBaseActivity implements OnMapReadyCal
     @Override
     public void onMapReady(GoogleMap googleMap) {
         gMap = googleMap;
-        gMap.setTrafficEnabled(true);
+//        gMap.setTrafficEnabled(true);
         LatLng dLocation = new LatLng(getIntent().getDoubleExtra("driverLat", -1), getIntent().getDoubleExtra("driverLng", -1));
         currentLocation = dLocation;
         Log.d("Get pick up", String.valueOf(travel.getPickupPoint()));
         Log.d("Get drop point", String.valueOf(travel.getDestinationPoint()));
         currentMarker = googleMap.addMarker(new MarkerOptions()
                 .position(dLocation)
-                .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi)));
+                .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi)).flat(true).anchor(0.5f,0.5f).rotation(90.0f));
         destinationMarker = googleMap.addMarker(new MarkerOptions()
                 .position(travel.getPickupPoint())
                 .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_destination)));
