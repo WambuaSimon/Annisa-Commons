@@ -1,19 +1,19 @@
 #Internal package file, do not edit.
-#Sat Sep 08 16:58:00 EAT 2018
-1.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\release\\0
-2.path=crashlytics-build.properties
+#Mon Sep 10 18:39:31 EAT 2018
+1.base=/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/assets/release
+2.path=classes.dex
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\assets\\release
+2.base=/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/transforms/dexMerger/release/0
 3.set=ASSET
-2.set=ASSET
+2.set=DEX
 1.baseType=DIRECTORY
 3.path=PinJump.json
 count=4
-1.set=DEX
+1.set=ASSET
 0.path=classes2.dex
-3.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\assets\\release
+3.base=/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/assets/release
 0.set=DEX
-0.base=D\:\\Projects\\Tikoni\\Annisa-Commons\\rider\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.base=/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/transforms/dexMerger/release/0
 2.baseType=DIRECTORY
-1.path=classes.dex
+1.path=crashlytics-build.properties

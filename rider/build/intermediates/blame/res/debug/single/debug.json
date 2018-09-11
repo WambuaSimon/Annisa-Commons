@@ -1304,6 +1304,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_action_name.png.flat",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_action_name.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -2036,6 +2040,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/anim/abc_tooltip_exit.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_action_name.png.flat",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_action_name.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_done.png.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.1.aar/06f179fd6b332dd1dfdb2dd5574fc5e0/res/drawable-mdpi-v4/ucrop_ic_done.png"
     },
@@ -2560,6 +2568,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_action_name.png.flat",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_action_name.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
@@ -2630,6 +2642,10 @@
     {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_name.png.flat",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_action_name.png"
     },
     {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",

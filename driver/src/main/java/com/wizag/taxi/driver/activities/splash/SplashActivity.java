@@ -4,12 +4,14 @@ import android.Manifest;
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
 import com.firebase.ui.auth.AuthUI;
 import com.firebase.ui.auth.IdpResponse;
+import com.google.android.gms.maps.model.LatLng;
 import com.google.gson.Gson;
 import com.gun0912.tedpermission.PermissionListener;
 import com.gun0912.tedpermission.TedPermission;
@@ -40,6 +42,8 @@ import org.greenrobot.eventbus.ThreadMode;
 
 import java.util.ArrayList;
 import java.util.Collections;
+
+import static com.wizag.taxi.common.utils.LocationHelper.locationManager;
 
 public class SplashActivity extends BaseActivity {
     MyPreferenceManager SP;
@@ -147,18 +151,42 @@ public class SplashActivity extends BaseActivity {
 
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void onConnectedResult(ConnectResultEvent event) {
+//        if (event.hasError()) {
+//            goToLoginMode();
+//            event.showError(SplashActivity.this, result -> {
+//                if (result == AlertDialogBuilder.DialogResult.RETRY)
+//                    tryConnect();
+//            });
+//            return;
+//        }
+//
+//        CommonUtils.driver = new Gson().fromJson(SP.getString("driver_user", "{}"), Driver.class);
+//
+//
+//        startMainActivity();
+
         if (event.hasError()) {
-            goToLoginMode();
+            binding.progressBar.setVisibility(View.GONE);
             event.showError(SplashActivity.this, result -> {
-                if (result == AlertDialogBuilder.DialogResult.RETRY)
+                if (result == AlertDialogBuilder.DialogResult.RETRY) {
                     tryConnect();
+                } else {
+                    goToLoginMode();
+                }
             });
             return;
         }
-
-        CommonUtils.driver = new Gson().fromJson(SP.getString("driver_user", "{}"), Driver.class);
-
-        startMainActivity();
+//        locationTimeoutHandler = new Handler();
+//        locationTimeoutHandler.postDelayed(() -> {
+//            locationManager.removeUpdates(SplashActivity.this);
+//            if (currentLocation == null) {
+//                String[] location = getString(R.string.defaultLocation).split(",");
+//                double lat = Double.parseDouble(location[0]);
+//                double lng = Double.parseDouble(location[1]);
+//                currentLocation = new LatLng(lat, lng);
+//            }
+            startMainActivity();
+      //  }, 5000);
     }
 
     @Subscribe

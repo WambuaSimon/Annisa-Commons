@@ -315,7 +315,7 @@
     <string name="alert_ok">OK</string>
     <string name="alert_retry">Retry</string>
     <string name="alert_send">Send</string>
-    <string name="app_name">An nisa</string>
+    <string name="app_name">An nisa Taxi</string>
     <string name="call">Call</string>
     <string name="call_request_sent">Call request sent.</string>
     <string name="call_requested">Sending Call Request.</string>
@@ -439,7 +439,7 @@
     <string name="message_travel_started">Travel has been started.</string>
     <string name="message_verification">Enter your mobile number that you want to receive activation code.</string>
     <string name="message_verify">A code has been sent to your phone. Enter it here.</string>
-    <string name="mobile_number">Mobile Number</string>
+    <string name="mobile_number">7xxxxxxxx</string>
     <string name="notification_driver_in_location">Driver in driverLocations</string>
     <string name="notification_requests_waiting">Incoming request</string>
     <string name="operator_call">Request Operator Call</string>
@@ -564,7 +564,7 @@
         <item name="colorAccent">#d678ad</item>
         <item name="colorControlHighlight">#d678ad</item>
         <item name="fontFamily">@font/roboto</item>
-        
+        <!--Note:This Line will be needed when we are going to user preference compat library<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
     </style>
     <style name="AppTheme.Amber" parent="Theme.AppCompat.DayNight.NoActionBar">
         <item name="colorPrimary">@color/md_amber_500</item>

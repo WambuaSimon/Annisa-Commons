@@ -341,7 +341,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home
 	android:fullBackupContent
 		ADDED from /home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/AndroidManifest.xml:27:9-42
 	android:icon
-		ADDED from /home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/AndroidManifest.xml:28:9-42
+		ADDED from /home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/AndroidManifest.xml:28:9-39
 	android:allowBackup
 		ADDED from /home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/AndroidManifest.xml:25:9-35
 	tools:replace

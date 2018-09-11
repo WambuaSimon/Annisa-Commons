@@ -275,7 +275,7 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
         assert locationManager != null;
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 5000, 5, this);
         getLastKnownLocation();
-        if (getResources().getBoolean(R.bool.isNightMode)) {
+        if (getResources().getBoolean(R.bool.isNotNightMode)) {
             boolean success = mMap.setMapStyle(
                     MapStyleOptions.loadRawResourceStyle(
                             this, R.raw.map_night));
@@ -424,7 +424,7 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
                 name = CommonUtils.driver.getFirstName() + " " + CommonUtils.driver.getLastName();
             View header = binding.navigationView.getHeaderView(0);
             ((TextView) header.findViewById(R.id.navigation_header_name)).setText(name);
-            ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.driver.getBalance()));
+         //   ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.driver.getBalance()));
             ImageView imageView = header.findViewById(R.id.navigation_header_image);
             ImageView headerView = header.findViewById(R.id.navigation_background);
             DataBinder.setMedia(imageView, CommonUtils.driver.getMedia());
@@ -602,60 +602,5 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
         Toast.makeText(MainActivity.this,"Emergency button",Toast.LENGTH_SHORT).show();
         Toast.makeText(MainActivity.this,"Long press to send SOS",Toast.LENGTH_SHORT).show();
     }
-//    private double bearingBetweenLocations(LatLng latLng1,LatLng latLng2) {
-//
-//        double PI = 3.14159;
-//        double lat1 = latLng1.latitude * PI / 180;
-//        double long1 = latLng1.longitude * PI / 180;
-//        double lat2 = latLng2.latitude * PI / 180;
-//        double long2 = latLng2.longitude * PI / 180;
-//
-//        double dLon = (long2 - long1);
-//
-//        double y = Math.sin(dLon) * Math.cos(lat2);
-//        double x = Math.cos(lat1) * Math.sin(lat2) - Math.sin(lat1)
-//                * Math.cos(lat2) * Math.cos(dLon);
-//
-//        double brng = Math.atan2(y, x);
-//
-//        brng = Math.toDegrees(brng);
-//        brng = (brng + 360) % 360;
-//
-//        return brng;
-//
-//    }
-//
-//    private void rotateMarker(final Marker marker, final float toRotation) {
-//        if(!isMarkerRotating) {
-//            final Handler handler = new Handler();
-//            final long start = SystemClock.uptimeMillis();
-//            final float startRotation = marker.getRotation();
-//            final long duration = 2000;
-//
-//            final android.view.animation.Interpolator interpolator = new LinearInterpolator();
-//
-//            handler.post(new Runnable() {
-//                @Override
-//                public void run() {
-//                    isMarkerRotating = true;
-//
-//                    long elapsed = SystemClock.uptimeMillis() - start;
-//                    float t = interpolator.getInterpolation((float) elapsed / duration);
-//
-//                    float rot = t * toRotation + (1 - t) * startRotation;
-//
-//                    float bearing =  -rot > 180 ? rot / 2 : rot;
-//
-//                    marker.setRotation(bearing);
-//
-//                    if (t < 1.0) {
-//                        // Post again 16ms later.
-//                        handler.postDelayed(this, 16);
-//                    } else {
-//                        isMarkerRotating = false;
-//                    }
-//                }
-//            });
-//        }
-//    }
+
 }

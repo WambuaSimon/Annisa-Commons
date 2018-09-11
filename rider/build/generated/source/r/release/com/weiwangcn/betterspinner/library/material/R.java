@@ -423,9 +423,9 @@ public final class R {
         public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f080055;
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f080056;
         public static final int abc_textfield_search_material = 0x7f080057;
-        public static final int ic_expand_more_black_18dp = 0x7f0800bb;
-        public static final int met_ic_clear = 0x7f0800e1;
-        public static final int met_ic_close = 0x7f0800e2;
+        public static final int ic_expand_more_black_18dp = 0x7f0800bc;
+        public static final int met_ic_clear = 0x7f0800e2;
+        public static final int met_ic_close = 0x7f0800e3;
     }
     public static final class id {
         public static final int action_bar = 0x7f0a0009;

@@ -1,3 +1,3 @@
-# Referenced at D:\Projects\Tikoni\Annisa-Commons\driver\build\intermediates\manifests\full\release\AndroidManifest.xml:42
+# Referenced at /home/wizag/Mobile Projects/Annisa-Commons/driver/build/intermediates/manifests/full/release/AndroidManifest.xml:42
 -keep class com.wizag.taxi.common.MyTaxiApplication { <init>(...); }
 

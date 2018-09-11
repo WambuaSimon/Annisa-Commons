@@ -1,7 +1,7 @@
-#Sat Sep 08 17:04:52 EAT 2018
-base.0=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\release\\0
+#Mon Sep 10 18:40:02 EAT 2018
+base.0=/home/wizag/Mobile Projects/Annisa-Commons/driver/build/intermediates/transforms/dexMerger/release/0
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\Projects\\Tikoni\\Annisa-Commons\\driver\\build\\intermediates\\transforms\\dexMerger\\release\\0
+base.1=/home/wizag/Mobile Projects/Annisa-Commons/driver/build/intermediates/transforms/dexMerger/release/0

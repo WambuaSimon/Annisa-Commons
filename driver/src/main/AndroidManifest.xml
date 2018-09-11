@@ -22,7 +22,7 @@
         android:name="com.wizag.taxi.common.MyTaxiApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
-        android:icon="@drawable/new_logo"
+        android:icon="@drawable/logo5"
         android:label="@string/driver_app_name"
         tools:replace="android:label"
         android:hardwareAccelerated="false"

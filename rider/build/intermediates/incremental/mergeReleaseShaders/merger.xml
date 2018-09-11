@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Projects\Tikoni\Annisa-Commons\rider\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\Projects\Tikoni\Annisa-Commons\rider\src\release\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/wizag/Mobile Projects/Annisa-Commons/rider/src/main/shaders"/></dataSet><dataSet config="release"><source path="/home/wizag/Mobile Projects/Annisa-Commons/rider/src/release/shaders"/></dataSet></merger>

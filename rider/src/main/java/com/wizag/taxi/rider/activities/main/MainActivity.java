@@ -60,6 +60,7 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
+import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.Dash;
 import com.google.android.gms.maps.model.Gap;
 import com.google.android.gms.maps.model.LatLng;
@@ -165,10 +166,21 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         binding.buttonRequest.setEnabled(true);
         binding.buttonRequest.setText(getString(R.string.confirm_service, service.getTitle()));
     }
+    private void updateCameraBearing(GoogleMap googleMap, float bearing) {
+        if ( googleMap == null) return;
+        CameraPosition camPos = CameraPosition
+                .builder(
+                        googleMap.getCameraPosition() // current Camera
+                )
+                .bearing(bearing)
+                .build();
+        googleMap.animateCamera(CameraUpdateFactory.newCameraPosition(camPos));
+    }
 
     @Override
     public void onLocationChanged(Location location) {
         currentLocation = new LatLng(location.getLatitude(), location.getLongitude());
+        updateCameraBearing(mMap, location.getBearing());
     }
 
     @Override
@@ -665,7 +677,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
             eventBus.post(new GetDriversLocationEvent(googleMap.getCameraPosition().target));
 
         });
-        if (getResources().getBoolean(R.bool.isNightMode)) {
+        if (getResources().getBoolean(R.bool.isNotNightMode)) {
             mMap.setMapStyle(MapStyleOptions.loadRawResourceStyle(this, R.raw.map_night));
         }
         mMap.setOnCameraMoveListener(() -> ((TrailSupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).onCameraMove(mMap));
@@ -697,7 +709,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                 name = CommonUtils.rider.getFirstName() + " " + CommonUtils.rider.getLastName();
             View header = binding.navigationView.getHeaderView(0);
             ((TextView) header.findViewById(R.id.navigation_header_name)).setText(name);
-            ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.rider.getBalance()));
+           // ((TextView) header.findViewById(R.id.navigation_header_charge)).setText(getString(R.string.drawer_header_balance, CommonUtils.rider.getBalance()));
             ImageView imageView = header.findViewById(R.id.navigation_header_image);
             DataBinder.setMedia(imageView, CommonUtils.rider.getMedia());
         } catch (Exception e) {
@@ -716,7 +728,9 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
         for (DriverLocation driverLocation : event.driverLocations)
             driverMarkers.add(mMap.addMarker(new MarkerOptions()
                     .position(driverLocation.location)
-                    .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi))));
+                    .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker_taxi))
+            .flat(true).anchor(0.5f,0.5f).rotation(90.0f)
+            ));
     }
 
     @Subscribe(threadMode = MAIN)

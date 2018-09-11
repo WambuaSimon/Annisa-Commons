@@ -7,8 +7,8 @@ android {
         applicationId "com.wizag.taxi.driver"
         minSdkVersion 16
         targetSdkVersion 27
-        versionCode 5
-        versionName "1.2.1"
+        versionCode 6
+        versionName "1.2.2"
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
         javaCompileOptions {

@@ -9,15 +9,15 @@
                         "startLines": "1",
                         "startColumns": "4",
                         "startOffsets": "17",
-                        "endColumns": "41",
-                        "endOffsets": "54"
+                        "endColumns": "44",
+                        "endOffsets": "57"
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
+                        "endColumns": "44",
+                        "endOffsets": "95"
                     }
                 },
                 {
@@ -32,9 +32,9 @@
                     "to": {
                         "startLines": "3,4,5,6,7",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "97,154,217,273,329",
+                        "startOffsets": "100,157,220,276,332",
                         "endColumns": "56,62,55,55,50",
-                        "endOffsets": "149,212,268,324,375"
+                        "endOffsets": "152,215,271,327,378"
                     }
                 }
             ]
@@ -48,15 +48,15 @@
                         "startLines": "1",
                         "startColumns": "4",
                         "startOffsets": "17",
-                        "endColumns": "41",
-                        "endOffsets": "54"
+                        "endColumns": "44",
+                        "endOffsets": "57"
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
+                        "endColumns": "44",
+                        "endOffsets": "95"
                     }
                 },
                 {
@@ -71,9 +71,9 @@
                     "to": {
                         "startLines": "3,4,5,6,7",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "97,154,217,273,329",
+                        "startOffsets": "100,157,220,276,332",
                         "endColumns": "56,62,55,55,50",
-                        "endOffsets": "149,212,268,324,375"
+                        "endOffsets": "152,215,271,327,378"
                     }
                 }
             ]

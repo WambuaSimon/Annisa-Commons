@@ -168,6 +168,10 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_name.png",
+        "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/drawable-mdpi/ic_action_name.png"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility.png",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6e4d6e785a523740be4484db8596706d/res/drawable-mdpi-v4/design_ic_visibility.png"
     },
