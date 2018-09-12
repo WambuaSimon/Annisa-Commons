@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 10 18:40:03 EAT 2018
+#Tue Sep 11 16:50:49 EAT 2018
 1.base=/home/wizag/Mobile Projects/Annisa-Commons/driver/build/intermediates/transforms/dexMerger/release/0
 2.path=crashlytics-build.properties
 0.baseType=DIRECTORY

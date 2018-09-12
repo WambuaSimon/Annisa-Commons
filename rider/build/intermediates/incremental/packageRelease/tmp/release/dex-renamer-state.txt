@@ -1,4 +1,4 @@
-#Mon Sep 10 18:39:31 EAT 2018
+#Tue Sep 11 16:46:41 EAT 2018
 base.0=/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/transforms/dexMerger/release/0
 path.1=classes2.dex
 renamed.1=classes2.dex

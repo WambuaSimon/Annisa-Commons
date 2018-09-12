@@ -24,10 +24,7 @@
     <string name="prompt_location_service">You need to enable driverLocations service in following dialog</string>
     <string name="prompt_storage_rw">You need to grant access to storage in following dialog</string>
     <string name="prompt_contacts_rw">Contacts Read and write are needed for app functionality.</string>
-
     <string name="service_card_cost">Cost: %.0f Ksh</string>
-
-
     <string name="unit_money">Ksh%.0f</string>
     <string name="unit_distance">%.1f Km</string>
     <string name="unit_distance_miles">%.1f miles</string>
@@ -125,7 +122,7 @@
     <string name="error_408">Your Request Timed out.</string>
     <string name="error_666">Unknown Error accrued.</string>
     <string name="error_400">Error Happened During payment.</string>
-    <string name="error_404">No Online Driver Found.</string>
+    <string name="error_404">No drivers around you at the moment.</string>
     <string name="error_410">Your version is outdated. Update to new version.</string>
     <string name="error_411">Your profile has been created but as a driver your profile needs to be evaluated and enabled from dashboard.</string>
     <string name="error_412">Your profile has been disabled. Please contact support for help in this.</string>

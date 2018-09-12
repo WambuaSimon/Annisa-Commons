@@ -10,8 +10,8 @@ MERGED from [com.android.databinding:library:3.1.3] /home/wizag/.gradle/caches/t
 MERGED from [com.android.support:multidex:1.0.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/9f19efd1c4e3129a7ce95eed70f99fe1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:2:1-19:12
 MERGED from [com.diogobernardino:williamchart:2.5.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/williamchart-2.5.0.aar/1f69a4e5a77b2e56c6a4f16559892f21/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:2:1-13:12
 MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:2:1-15:12
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/AndroidManifest.xml:2:1-93:12
 MERGED from [com.google.firebase:firebase-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.0.0.aar/d2154be290aa3d57e97d6bece50c865a/AndroidManifest.xml:17:1-32:12
@@ -21,6 +21,11 @@ MERGED from [com.android.support:design:27.1.0] /home/wizag/.gradle/caches/trans
 MERGED from [com.android.support:preference-v14:27.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.0.aar/8448bea471265b6e3bea484e8901ba20/AndroidManifest.xml:17:1-22:12
 MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/3a2c1870cf584d5136f8a2fdb66ab874/AndroidManifest.xml:16:6-20:12
 MERGED from [com.google.android.gms:play-services-wallet:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.0.aar/089074d967fc6abd589aa15cb999b691/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7c74edbb8cff8bfdbbc5870496fe2573/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5e8562a58028c9bd0e976fc74829867c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/1ad808cc4a861b16c0fce4a9fd6ef8ec/AndroidManifest.xml:2:1-7:12
 MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.3.1.aar/14cc2aa270dd32928bd0e5e9f5d7e4f8/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-firestore:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-firestore-15.0.0.aar/54f89c6d29bbc2fc9edc76aba5516aef/AndroidManifest.xml:2:1-8:12
 MERGED from [com.firebaseui:firebase-ui-storage:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-storage-3.3.1.aar/73bd0815054ec9ee4d4c860de4f10279/AndroidManifest.xml:2:1-11:12
@@ -29,11 +34,6 @@ MERGED from [com.firebaseui:firebase-ui-database:3.3.1] /home/wizag/.gradle/cach
 MERGED from [com.google.firebase:firebase-database:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-database-15.0.0.aar/b6c8c82660cc8c59cd29bb5d84799fcc/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-database-connection:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-15.0.0.aar/190de96abc1750a831d1749a51276c77/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7c74edbb8cff8bfdbbc5870496fe2573/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:17:1-39:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5e8562a58028c9bd0e976fc74829867c/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/1ad808cc4a861b16c0fce4a9fd6ef8ec/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:17:1-41:12
 MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/be5325a5ecf1e22e0c4ec891de10e058/AndroidManifest.xml:17:1-65:12
 MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/61f0588966232ec4e102214b036e4dc9/AndroidManifest.xml:2:1-10:12
@@ -216,10 +216,10 @@ MERGED from [:common] /home/wizag/Mobile Projects/Annisa-Commons/common/build/in
 MERGED from [:common] /home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-30:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:11:5-17:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:7:5-11:19
 MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:13:5-47
 MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:13:5-47
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/AndroidManifest.xml:15:5-91:19
@@ -232,12 +232,12 @@ MERGED from [com.google.android.gms:play-services-location:15.0.0] /home/wizag/.
 MERGED from [com.google.android.gms:play-services-location:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/06497494a80b36256a6bfcdacb34013b/AndroidManifest.xml:7:5-20
 MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/3a2c1870cf584d5136f8a2fdb66ab874/AndroidManifest.xml:19:5-19
 MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/3a2c1870cf584d5136f8a2fdb66ab874/AndroidManifest.xml:19:5-19
-MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:28:5-39:19
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:28:5-39:19
 MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/be5325a5ecf1e22e0c4ec891de10e058/AndroidManifest.xml:34:5-63:19
@@ -455,10 +455,10 @@ MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.1.aar/19f55d145b056ff702cc7b2fefcfc888/AndroidManifest.xml:7:5-43
 MERGED from [com.diogobernardino:williamchart:2.5.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/williamchart-2.5.0.aar/1f69a4e5a77b2e56c6a4f16559892f21/AndroidManifest.xml:6:5-8:41
 MERGED from [com.diogobernardino:williamchart:2.5.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/williamchart-2.5.0.aar/1f69a4e5a77b2e56c6a4f16559892f21/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:5:5-43
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:5:5-43
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/f72bc6c547be11ce37628817eb4bdbe8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/AndroidManifest.xml:5:5-43
 MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:7:5-9:41
 MERGED from [com.firebaseui:firebase-ui:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-3.3.1.aar/7b1c80bd0b8a3e0fdb76c3a4b8677499/AndroidManifest.xml:7:5-9:41
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/58efa89a4adca558e280ebd57e723110/AndroidManifest.xml:8:5-10:41
@@ -477,6 +477,16 @@ MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/c
 MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /home/wizag/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/3a2c1870cf584d5136f8a2fdb66ab874/AndroidManifest.xml:18:5-72
 MERGED from [com.google.android.gms:play-services-wallet:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.0.aar/089074d967fc6abd589aa15cb999b691/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-wallet:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.0.aar/089074d967fc6abd589aa15cb999b691/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7c74edbb8cff8bfdbbc5870496fe2573/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7c74edbb8cff8bfdbbc5870496fe2573/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5e8562a58028c9bd0e976fc74829867c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5e8562a58028c9bd0e976fc74829867c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/1ad808cc4a861b16c0fce4a9fd6ef8ec/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/1ad808cc4a861b16c0fce4a9fd6ef8ec/AndroidManifest.xml:5:5-44
 MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.3.1.aar/14cc2aa270dd32928bd0e5e9f5d7e4f8/AndroidManifest.xml:7:5-9:41
 MERGED from [com.firebaseui:firebase-ui-firestore:3.3.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.3.1.aar/14cc2aa270dd32928bd0e5e9f5d7e4f8/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-firestore:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-firestore-15.0.0.aar/54f89c6d29bbc2fc9edc76aba5516aef/AndroidManifest.xml:6:5-44
@@ -493,16 +503,6 @@ MERGED from [com.google.firebase:firebase-database-connection:15.0.0] /home/wiza
 MERGED from [com.google.firebase:firebase-database-connection:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-15.0.0.aar/190de96abc1750a831d1749a51276c77/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7c74edbb8cff8bfdbbc5870496fe2573/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7c74edbb8cff8bfdbbc5870496fe2573/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-identity:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-identity-15.0.1.aar/55f789b3192562963f5223f53d5c6fd8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5e8562a58028c9bd0e976fc74829867c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/5e8562a58028c9bd0e976fc74829867c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/1ad808cc4a861b16c0fce4a9fd6ef8ec/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/1ad808cc4a861b16c0fce4a9fd6ef8ec/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/be5325a5ecf1e22e0c4ec891de10e058/AndroidManifest.xml:20:5-44
@@ -837,6 +837,24 @@ ADDED from [com.google.android.gms:play-services-maps:15.0.0] /home/wizag/.gradl
 		ADDED from [com.google.android.gms:play-services-maps:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/64a531dfd8eb1caf799a23749da1a100/AndroidManifest.xml:27:9-41
 	android:required
 		ADDED from [com.google.android.gms:play-services-maps:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/64a531dfd8eb1caf799a23749da1a100/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:34:13-89
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:25:5-68
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/5726cf89e836b440aba40402def4b3d6/AndroidManifest.xml:25:5-68
@@ -897,24 +915,6 @@ ADDED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/c
 		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:52:13-69
 	android:name
 		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/ae3e5c4a3f23da6ac2776c382b7b5d74/AndroidManifest.xml:49:13-87
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:23:9-27:75
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:25:13-46
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:26:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:27:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:24:13-93
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:33:9-36:110
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:35:13-36
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:36:13-107
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/9805309d174324d1b9658eed07c2f789/AndroidManifest.xml:34:13-89
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:15.1.0] /home/wizag/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/be5325a5ecf1e22e0c4ec891de10e058/AndroidManifest.xml:26:5-82
 	android:name

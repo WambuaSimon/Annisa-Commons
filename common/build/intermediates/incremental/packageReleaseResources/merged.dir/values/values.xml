@@ -372,7 +372,7 @@
     <string name="error_303">No Close Driver Found.</string>
     <string name="error_304">No Route found.</string>
     <string name="error_400">Error Happened During payment.</string>
-    <string name="error_404">No Online Driver Found.</string>
+    <string name="error_404">No drivers around you at the moment.</string>
     <string name="error_408">Your Request Timed out.</string>
     <string name="error_410">Your version is outdated. Update to new version.</string>
     <string name="error_411">Your profile has been created but as a driver your profile needs to be evaluated and enabled from dashboard.</string>
@@ -564,7 +564,7 @@
         <item name="colorAccent">#d678ad</item>
         <item name="colorControlHighlight">#d678ad</item>
         <item name="fontFamily">@font/roboto</item>
-        <!--Note:This Line will be needed when we are going to user preference compat library<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
+        
     </style>
     <style name="AppTheme.Amber" parent="Theme.AppCompat.DayNight.NoActionBar">
         <item name="colorPrimary">@color/md_amber_500</item>

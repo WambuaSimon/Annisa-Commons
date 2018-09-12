@@ -1741,7 +1741,7 @@
     <string name="checkout_filled">Checkout %s</string>
     <string name="checkout_online">Online</string>
     <string name="checkout_stripe">Stripe</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">10c5d17b-5050-4038-8089-46f91f8d25c2</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">225d2c4a-42ad-487c-a9d3-4400218d4831</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1827,7 +1827,7 @@
     <string name="error_303">No Close Driver Found.</string>
     <string name="error_304">No Route found.</string>
     <string name="error_400">Error Happened During payment.</string>
-    <string name="error_404">No Online Driver Found.</string>
+    <string name="error_404">No drivers around you at the moment.</string>
     <string name="error_408">Your Request Timed out.</string>
     <string name="error_410">Your version is outdated. Update to new version.</string>
     <string name="error_411">Your profile has been created but as a driver your profile needs to be evaluated and enabled from dashboard.</string>

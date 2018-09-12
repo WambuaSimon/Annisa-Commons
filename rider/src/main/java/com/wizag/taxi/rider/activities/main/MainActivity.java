@@ -272,7 +272,7 @@ public class MainActivity extends RiderBaseActivity implements OnMapReadyCallbac
                                         //finish();
 
                                         String message = "There is an emergency on an Anisa ride for:\t Rider";
-                                        String phoneNo = "+254714980450";
+                                        String phoneNo = "+254798058191";
 
                                         //for getting multiple numbers that are separated by a comma eg 144,234
                                         StringTokenizer st = new StringTokenizer(phoneNo, ",");

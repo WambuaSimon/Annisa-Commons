@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 10 18:39:31 EAT 2018
+#Tue Sep 11 11:35:21 EAT 2018
 1.base=/home/wizag/Mobile Projects/Annisa-Commons/rider/build/intermediates/assets/release
 2.path=classes.dex
 0.baseType=DIRECTORY

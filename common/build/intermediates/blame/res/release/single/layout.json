@@ -4,40 +4,40 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_tooltip.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/notification_media_action.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/034aa994d6941571b47266eb5d2c0951/res/layout/notification_media_action.xml"
-    },
-    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/preference_widget_switch.xml",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout/preference_widget_switch.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/034aa994d6941571b47266eb5d2c0951/res/layout/notification_template_media_custom.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/034aa994d6941571b47266eb5d2c0951/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/activity_card_edit.xml",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/CreditCardView-v1.0.4.aar/7d8d9699ca1a38a1673a87fd05f2523c/res/layout/activity_card_edit.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/preference_dialog_edittext.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout/preference_dialog_edittext.xml"
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/034aa994d6941571b47266eb5d2c0951/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/amu_webview.xml",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/e5be196345e6051adf7bd7aba9c50963/res/layout/amu_webview.xml"
     },
     {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/preference_dialog_edittext.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/83a1a00f9bb700c6eaf42038954d252a/res/layout/preference_dialog_edittext.xml"
+    },
+    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/activity_charge_account.xml",
         "source": "/home/wizag/Mobile Projects/Annisa-Commons/common/src/main/res/layout/activity_charge_account.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
@@ -52,12 +52,12 @@
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/wizag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b1e42c6c576f937f353156505dc24790/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/wizag/Mobile Projects/Annisa-Commons/common/build/intermediates/res/merged/release/layout/about_page_separator.xml",

@@ -219,7 +219,7 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
                                         //finish();
                                       //  phone_number=numberPlaceholder.getText().toString();
                                         String message = "There is an emergency on an An nisa ride for:\t Driver";
-                                        String phoneNo = "+254714980450";
+                                        String phoneNo = "+254798058191";
 
                                         //for getting multiple numbers that are separated by a comma eg 144,234
                                         StringTokenizer st = new StringTokenizer(phoneNo, ",");
@@ -440,7 +440,9 @@ public class MainActivity extends DriverBaseActivity implements OnMapReadyCallba
 
     @Override
     public void onBackPressed() {
-        logout();
+//        logout();
+        finish();
+
     }
 
     @Override
